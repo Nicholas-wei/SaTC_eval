@@ -43,6 +43,7 @@ python ./satc.py -d /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extrac
 ```
 ## experiment result
 The result for the homework is located inside `res/` in this repo. You can also replay the above experiment.
+You have to unzip them in order to inspect them. 
 
 ## Output 
 Directory structure：
