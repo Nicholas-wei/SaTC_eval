@@ -1,0 +1,1 @@
+wan_gateway pppoe r_Setting wl_wep_x wan_proto service lan_netmask wan1_proto sta_auth_mode sw_mode wan_ipaddr lan_ipaddr ipconflict wan_nat_x wl_auth_mode dhcp_enable_x enable_failover x_Setting name link Dev3G 

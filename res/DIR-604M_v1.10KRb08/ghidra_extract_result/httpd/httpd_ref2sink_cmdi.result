@@ -1,0 +1,138 @@
+[Param "Delete"(0x004489ac), Referenced at FUN_0042ad04 : 0x0042e5bc] >> 0x0042eb8c -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at refresh_arp : 0x00406924] >> 0x004069a0 -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at main : 0x00404adc] >> 0x0040506c >> FUN_004034f8 >> 0x004048a4 >> FUN_0042f2d8 >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at FUN_0042ad04 : 0x0042ae24] >> 0x0042eb8c -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at FUN_0042ad04 : 0x0042ae40] >> 0x0042eb8c -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at FUN_0042ad04 : 0x0042b60c] >> 0x0042eb8c -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at FUN_0042ad04 : 0x0042ced0] >> 0x0042eb8c -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at FUN_0042ad04 : 0x0042dbd0] >> 0x0042eb8c -> system
+[Param "lan_ipaddr"(0x00441d98), Referenced at FUN_0042ad04 : 0x0042d360] >> 0x0042eb8c -> system
+[Param "lan_lease"(0x0044e900), Referenced at FUN_0042ad04 : 0x0042b7e0] >> 0x0042eb8c -> system
+[Param "lan_gateway"(0x0044e8e0), Referenced at FUN_0042ad04 : 0x0042b6a8] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at main : 0x00404b2c] >> 0x0040506c >> FUN_004034f8 >> 0x004048a4 >> FUN_0042f2d8 >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042bae4] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042c7f0] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042d73c] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042d784] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042d794] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042d7c8] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042d830] >> 0x0042eb8c -> system
+[Param "router_disable"(0x00441db0), Referenced at FUN_0042ad04 : 0x0042d700] >> 0x0042eb8c -> system
+[Param "dhcp_dns"(0x00448bd8), Referenced at FUN_0042ad04 : 0x0042d860] >> 0x0042eb8c -> system
+[Param "ping_ipaddr"(0x00448a3c), Referenced at FUN_0042ad04 : 0x0042e7d0] >> 0x0042eb8c -> system
+[Param "lan_netmask"(0x0044e75c), Referenced at FUN_0042ad04 : 0x0042b668] >> 0x0042eb8c -> system
+[Param "lan_netmask"(0x0044e75c), Referenced at FUN_0042ad04 : 0x0042cf04] >> 0x0042eb8c -> system
+[Param "lan_netmask"(0x0044e75c), Referenced at FUN_0042ad04 : 0x0042d384] >> 0x0042eb8c -> system
+[Param "dhcp_end"(0x0044e784), Referenced at FUN_0042ad04 : 0x0042b7a0] >> 0x0042eb8c -> system
+[Param "dhcp_end"(0x0044e784), Referenced at FUN_0042ad04 : 0x0042cf74] >> 0x0042eb8c -> system
+[Param "dhcp_end"(0x0044e784), Referenced at FUN_0042ad04 : 0x0042d410] >> 0x0042eb8c -> system
+[Param "wan_hwaddr"(0x00448830), Referenced at FUN_0042f2d8 : 0x0042f714] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "wan_hwaddr"(0x00448830), Referenced at FUN_0042ad04 : 0x0042c588] >> 0x0042eb8c -> system
+[Param "enabled"(0x004491f0), Referenced at FUN_0042ad04 : 0x0042b0e8] >> 0x0042eb8c -> system
+[Param "enabled"(0x004491f0), Referenced at FUN_0042ad04 : 0x0042c3d0] >> 0x0042eb8c -> system
+[Param "lan_proto"(0x00441da4), Referenced at main : 0x00404b10] >> 0x0040506c >> FUN_004034f8 >> 0x004048a4 >> FUN_0042f2d8 >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "lan_proto"(0x0044e798), Referenced at FUN_0042ad04 : 0x0042b6f8] >> 0x0042eb8c -> system
+[Param "lan_proto"(0x0044e798), Referenced at FUN_0042ad04 : 0x0042cf28] >> 0x0042eb8c -> system
+[Param "lan_proto"(0x0044e798), Referenced at FUN_0042ad04 : 0x0042d3ac] >> 0x0042eb8c -> system
+[Param "dhcp_start"(0x0044e770), Referenced at FUN_0042ad04 : 0x0042b748] >> 0x0042eb8c -> system
+[Param "dhcp_start"(0x0044e770), Referenced at FUN_0042ad04 : 0x0042cf4c] >> 0x0042eb8c -> system
+[Param "dhcp_start"(0x0044e770), Referenced at FUN_0042ad04 : 0x0042d3d4] >> 0x0042eb8c -> system
+[Param "wan_dns"(0x00448bd0), Referenced at FUN_0042ad04 : 0x0042c8c0] >> 0x0042eb8c -> system
+[Param "lan_dhcp"(0x0044e8c0), Referenced at FUN_0042ad04 : 0x0042b5c8] >> 0x0042eb8c -> system
+[Param "lan_dhcp"(0x0044e8c0), Referenced at FUN_0042ad04 : 0x0042d668] >> 0x0042eb8c -> system
+[Param "http_username"(0x004430e0), Referenced at FUN_0042f2d8 : 0x0042f88c] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "http_username"(0x004430e0), Referenced at FUN_0042f2d8 : 0x0042f8fc] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "http_username"(0x004430e0), Referenced at FUN_0042f2d8 : 0x0042f914] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "is_default"(0x00448600), Referenced at FUN_0042f2d8 : 0x0042f7fc] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "is_default"(0x00448600), Referenced at FUN_0042ad04 : 0x0042aec8] >> 0x0042eb8c -> system
+[Param "is_default"(0x00448600), Referenced at FUN_0042ad04 : 0x0042bd08] >> 0x0042eb8c -> system
+[Param "reboot"(0x0044e0e4), Referenced at FUN_0042ad04 : 0x0042b314] >> 0x0042eb8c -> system
+[Param "reboot"(0x0044e0e4), Referenced at FUN_0042ad04 : 0x0042b308] >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042f2d8 : 0x0042f918] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042f2d8 : 0x0042f954] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042f2d8 : 0x0042fa18] >> 0x0042fa78 >> FUN_0042ad04 >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042ad04 : 0x0042c820] >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042ad04 : 0x0042d73c] >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042ad04 : 0x0042bf20] >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042ad04 : 0x0042c998] >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042ad04 : 0x0042e5e8] >> 0x0042eb8c -> system
+[Param "wan_unit"(0x00447c70), Referenced at FUN_0042ad04 : 0x0042d724] >> 0x0042eb8c -> system
+[Param "emf_enable"(0x00447a3c), Referenced at FUN_0042ad04 : 0x0042b8bc] >> 0x0042eb8c -> system
+[Param "unable to get number of lan interfaces<br>"(0x00448648), Referenced at FUN_0042ad04 : 0x0042dad4] >> 0x0042eb8c -> system
+[Param "Release"(0x0044883c), Referenced at FUN_0042ad04 : 0x0042be88] >> 0x0042eb8c -> system
+[Param "Apply"(0x00448614), Referenced at FUN_0042ad04 : 0x0042b470] >> 0x0042eb8c -> system
+[Param "is_modified"(0x004485f4), Referenced at FUN_0042ad04 : 0x0042aea4] >> 0x0042eb8c -> system
+[Param "is_modified"(0x004485f4), Referenced at FUN_0042ad04 : 0x0042bcd8] >> 0x0042eb8c -> system
+[Param "RadioOff"(0x00448968), Referenced at FUN_0042ad04 : 0x0042e028] >> 0x0042eb8c -> system
+[Param "<br>Overlapping IP address ranges:<br>(RangeA=%s/%s) (RangeB=%s/%s)<br>"(0x004486bc), Referenced at FUN_0042ad04 : 0x0042dda4] >> 0x0042eb8c -> system
+[Param "Reboot"(0x004488b8), Referenced at FUN_0042ad04 : 0x0042d428] >> 0x0042eb8c -> system
+[Param "tmp_%s"(0x00448bc8), Referenced at FUN_0042ad04 : 0x0042c840] >> 0x0042eb8c -> system
+[Param "tmp_%s"(0x00448bc8), Referenced at FUN_0042ad04 : 0x0042d740] >> 0x0042eb8c -> system
+[Param "wl0_ssid"(0x00448e28), Referenced at FUN_0042ad04 : 0x0042b018] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr"(0x00445048), Referenced at FUN_0042ad04 : 0x0042e670] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr"(0x00445048), Referenced at FUN_0042ad04 : 0x0042c5bc] >> 0x0042eb8c -> system
+[Param "dhcp%d_start"(0x004486a0), Referenced at FUN_0042ad04 : 0x0042cbb0] >> 0x0042eb8c -> system
+[Param "dhcp%d_start"(0x004486a0), Referenced at FUN_0042ad04 : 0x0042ccc0] >> 0x0042eb8c -> system
+[Param "lan%d_dhcp"(0x0044879c), Referenced at FUN_0042ad04 : 0x0042d648] >> 0x0042eb8c -> system
+[Param "lan%d_proto"(0x00448694), Referenced at FUN_0042ad04 : 0x0042cb84] >> 0x0042eb8c -> system
+[Param "lan%d_proto"(0x00448694), Referenced at FUN_0042ad04 : 0x0042cc9c] >> 0x0042eb8c -> system
+[Param "lan_ifname"(0x00442d30), Referenced at FUN_0042ad04 : 0x0042bbb8] >> 0x0042eb8c -> system
+[Param "lan_ifname"(0x00442d30), Referenced at FUN_0042ad04 : 0x0042ceb4] >> 0x0042eb8c -> system
+[Param "lan_ifname"(0x00442d30), Referenced at FUN_0042ad04 : 0x0042d33c] >> 0x0042eb8c -> system
+[Param "Renew"(0x00448888), Referenced at FUN_0042ad04 : 0x0042c900] >> 0x0042eb8c -> system
+[Param "wl0_wep"(0x00448ea0), Referenced at FUN_0042ad04 : 0x0042b0c0] >> 0x0042eb8c -> system
+[Param "wl0_wep"(0x00448ea0), Referenced at FUN_0042ad04 : 0x0042c3b0] >> 0x0042eb8c -> system
+[Param "os_name"(0x0044e6fc), Referenced at FUN_0042ad04 : 0x0042d8a4] >> 0x0042eb8c -> system
+[Param "Stats"(0x00448930), Referenced at FUN_0042ad04 : 0x0042ddc4] >> 0x0042eb8c -> system
+[Param "os_server"(0x004488ec), Referenced at FUN_0042ad04 : 0x0042d8d0] >> 0x0042eb8c -> system
+[Param "os_server"(0x004488ec), Referenced at FUN_0042ad04 : 0x0042e6b4] >> 0x0042eb8c -> system
+[Param "lan_ipaddr_flag"(0x004485b8), Referenced at FUN_0042ad04 : 0x0042adb4] >> 0x0042eb8c -> system
+[Param "<br>Overlapping DHCP start ranges<br>(RangeA=%s/%s) (RangeB=%s/%s)<br>"(0x00448704), Referenced at FUN_0042ad04 : 0x0042e6f0] >> 0x0042eb8c -> system
+[Param "w_port_in_end%d" id="autofw_port_in_end%d" value="%s" size="5" maxlength="5">"(0x00450000), Referenced at FUN_0042ad04 : 0x0042e2c8] >> 0x0042eb8c -> system
+[Param "w_port_in_end%d" id="autofw_port_in_end%d" value="%s" size="5" maxlength="5">"(0x00450000), Referenced at FUN_0042ad04 : 0x0042e814] >> 0x0042eb8c -> system
+[Param "out of memory<br>"(0x00444d78), Referenced at FUN_0042ad04 : 0x0042da98] >> 0x0042eb8c -> system
+[Param "wl0_akm"(0x00448e54), Referenced at FUN_0042ad04 : 0x0042b060] >> 0x0042eb8c -> system
+[Param "wl0_channel"(0x00448ed8), Referenced at FUN_0042ad04 : 0x0042b144] >> 0x0042eb8c -> system
+[Param "dhcp"(0x00441e2c), Referenced at FUN_0042ad04 : 0x0042ce48] >> 0x0042eb8c -> system
+[Param "dhcp"(0x00441e2c), Referenced at FUN_0042ad04 : 0x0042d104] >> 0x0042eb8c -> system
+[Param "dhcp"(0x0044e8c4), Referenced at FUN_0042ad04 : 0x0042b5c4] >> 0x0042eb8c -> system
+[Param "wl0_key1"(0x00448ea8), Referenced at FUN_0042ad04 : 0x0042bdd0] >> 0x0042eb8c -> system
+[Param "dhcp%d_end"(0x004486b0), Referenced at FUN_0042ad04 : 0x0042cbf0] >> 0x0042eb8c -> system
+[Param "dhcp%d_end"(0x004486b0), Referenced at FUN_0042ad04 : 0x0042ccf0] >> 0x0042eb8c -> system
+[Param "wan_ifnames"(0x00444d98), Referenced at FUN_0042ad04 : 0x0042db98] >> 0x0042eb8c -> system
+[Param "lan_ifnames"(0x00446998), Referenced at FUN_0042ad04 : 0x0042db18] >> 0x0042eb8c -> system
+[Param "lan_ifnames"(0x00446998), Referenced at FUN_0042ad04 : 0x0042db28] >> 0x0042eb8c -> system
+[Param "lan_ifnames"(0x00446998), Referenced at FUN_0042ad04 : 0x0042db58] >> 0x0042eb8c -> system
+[Param "lan_ifnames"(0x00446998), Referenced at FUN_0042ad04 : 0x0042db7c] >> 0x0042eb8c -> system
+[Param "<br>Overlapping DHCP end ranges<br>(RangeA=%s/%s) (RangeB=%s/%s)<br>"(0x0044874c), Referenced at FUN_0042ad04 : 0x0042d258] >> 0x0042eb8c -> system
+[Param "Upgrade"(0x004488e4), Referenced at FUN_0042ad04 : 0x0042d880] >> 0x0042eb8c -> system
+[Param "lan%d_ifname"(0x004459e8), Referenced at FUN_0042ad04 : 0x0042cb0c] >> 0x0042eb8c -> system
+[Param "lan%d_ifname"(0x004459e8), Referenced at FUN_0042ad04 : 0x0042cc24] >> 0x0042eb8c -> system
+[Param "lan%d_ifname"(0x004459e8), Referenced at FUN_0042ad04 : 0x0042bb9c] >> 0x0042eb8c -> system
+[Param "Error during variable validation.<br>"(0x004487a8), Referenced at FUN_0042ad04 : 0x0042e148] >> 0x0042eb8c -> system
+[Param "stats_server"(0x00448938), Referenced at FUN_0042ad04 : 0x0042ddf0] >> 0x0042eb8c -> system
+[Param "stats_server"(0x00448938), Referenced at FUN_0042ad04 : 0x0042e498] >> 0x0042eb8c -> system
+[Param "stats_server"(0x00448938), Referenced at FUN_0042ad04 : 0x0042eb04] >> 0x0042eb8c -> system
+[Param "lan%d_ipaddr"(0x00448674), Referenced at FUN_0042ad04 : 0x0042cb30] >> 0x0042eb8c -> system
+[Param "lan%d_ipaddr"(0x00448674), Referenced at FUN_0042ad04 : 0x0042cc44] >> 0x0042eb8c -> system
+[Param "Ping Diag"(0x00448a30), Referenced at FUN_0042ad04 : 0x0042e76c] >> 0x0042eb8c -> system
+[Param "Ping Diag"(0x00448a30), Referenced at FUN_0042ad04 : 0x0042e7e0] >> 0x0042eb8c -> system
+[Param "RadioOn"(0x00448990), Referenced at FUN_0042ad04 : 0x0042e384] >> 0x0042eb8c -> system
+[Param "restore_defaults"(0x0044881c), Referenced at FUN_0042ad04 : 0x0042c52c] >> 0x0042eb8c -> system
+[Param "wl0_wpa_psk"(0x00448f24), Referenced at FUN_0042ad04 : 0x0042b108] >> 0x0042eb8c -> system
+[Param "lan_ipaddr_backup"(0x00446978), Referenced at FUN_0042ad04 : 0x0042dbb4] >> 0x0042eb8c -> system
+[Param "/var/run/udhcpc%d.pid"(0x00448860), Referenced at FUN_0042ad04 : 0x0042bf54] >> 0x0042eb8c -> system
+[Param "/var/run/udhcpc%d.pid"(0x00448860), Referenced at FUN_0042ad04 : 0x0042c9cc] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr_backup"(0x00445054), Referenced at FUN_0042ad04 : 0x0042d6e0] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr_backup"(0x00445054), Referenced at FUN_0042ad04 : 0x0042e690] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr_backup"(0x00445054), Referenced at FUN_0042ad04 : 0x0042c540] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr_backup"(0x00445054), Referenced at FUN_0042ad04 : 0x0042c56c] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr_backup"(0x00445054), Referenced at FUN_0042ad04 : 0x0042c5a0] >> 0x0042eb8c -> system
+[Param "wan0_hwaddr_backup"(0x00445054), Referenced at FUN_0042ad04 : 0x0042c5d4] >> 0x0042eb8c -> system
+[Param "lan%d_netmask"(0x00448684), Referenced at FUN_0042ad04 : 0x0042cb58] >> 0x0042eb8c -> system
+[Param "lan%d_netmask"(0x00448684), Referenced at FUN_0042ad04 : 0x0042cc70] >> 0x0042eb8c -> system
+Time Elapsed: 7.60100007057
+34 of 216 parameters are referenced
+20 of 216 parameters have way to sink function
+Find 45 new params heuristicly:
+unable to get number of lan interfaces<br>, Release, Apply, is_modified, RadioOff, <br>Overlapping IP address ranges:<br>(RangeA=%s/%s) (RangeB=%s/%s)<br>, Reboot, tmp_%s, wl0_ssid, wan0_hwaddr, dhcp%d_start, lan%d_dhcp, lan%d_proto, lan_ifname, Renew, wl0_wep, disabled, os_name, Stats, os_server, lan_ipaddr_flag, <br>Overlapping DHCP start ranges<br>(RangeA=%s/%s) (RangeB=%s/%s)<br>, w_port_in_end%d" id="autofw_port_in_end%d" value="%s" size="5" maxlength="5">, out of memory<br>, wl0_akm, wl0_channel, dhcp, wl0_key1, dhcp%d_end, wan_ifnames, lan_ifnames, <br>Overlapping DHCP end ranges<br>(RangeA=%s/%s) (RangeB=%s/%s)<br>, Upgrade, lan%d_ifname, Error during variable validation.<br>, stats_server, lan%d_ipaddr, Ping Diag, RadioOn, restore_defaults, wl0_wpa_psk, lan_ipaddr_backup, /var/run/udhcpc%d.pid, wan0_hwaddr_backup, lan%d_netmask

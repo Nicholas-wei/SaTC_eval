@@ -1,0 +1,2522 @@
+FileName: dlink.xml
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onetouch/dlink.xml
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: tvcontrolSCPD.xml
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcontrolSCPD.xml
+API: 
+	count: 13
+	name:
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		major
+		minor
+		stateVariable
+		stateVariable
+		stateVariable
+Para: 
+	count: 81
+	name:
+		allowedValueRange
+		allowedValueRange
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		dataType
+		dataType
+		dataType
+		defaultValue
+		defaultValue
+		defaultValue
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		maximum
+		maximum
+		minimum
+		minimum
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		step
+		step
+
+FileName: tvcombodesc.xml
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+API: 
+	count: 15
+	name:
+		UDN
+		UPC
+		deviceType
+		friendlyName
+		major
+		manufacturer
+		manufacturerURL
+		minor
+		modelDescription
+		modelName
+		modelNumber
+		modelURL
+		presentationURL
+		serialNumber
+		serviceList
+Para: 
+	count: 12
+	name:
+		SCPDURL
+		SCPDURL
+		controlURL
+		controlURL
+		eventSubURL
+		eventSubURL
+		service
+		service
+		serviceId
+		serviceId
+		serviceType
+		serviceType
+
+FileName: tvdevicedesc_550a.xml
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+API: 
+	count: 15
+	name:
+		UDN
+		UPC
+		deviceType
+		friendlyName
+		major
+		manufacturer
+		manufacturerURL
+		minor
+		modelDescription
+		modelName
+		modelNumber
+		modelURL
+		presentationURL
+		serialNumber
+		serviceList
+Para: 
+	count: 6
+	name:
+		SCPDURL
+		controlURL
+		eventSubURL
+		service
+		serviceId
+		serviceType
+
+FileName: tvdevicedesc.xml
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+API: 
+	count: 15
+	name:
+		UDN
+		UPC
+		deviceType
+		friendlyName
+		major
+		manufacturer
+		manufacturerURL
+		minor
+		modelDescription
+		modelName
+		modelNumber
+		modelURL
+		presentationURL
+		serialNumber
+		serviceList
+Para: 
+	count: 6
+	name:
+		SCPDURL
+		controlURL
+		eventSubURL
+		service
+		serviceId
+		serviceType
+
+FileName: tvdevicedesc_plus_550a.xml
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+API: 
+	count: 15
+	name:
+		UDN
+		UPC
+		deviceType
+		friendlyName
+		major
+		manufacturer
+		manufacturerURL
+		minor
+		modelDescription
+		modelName
+		modelNumber
+		modelURL
+		presentationURL
+		serialNumber
+		serviceList
+Para: 
+	count: 6
+	name:
+		SCPDURL
+		controlURL
+		eventSubURL
+		service
+		serviceId
+		serviceType
+
+FileName: tvpictureSCPD.xml
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvpictureSCPD.xml
+API: 
+	count: 18
+	name:
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		major
+		minor
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+Para: 
+	count: 128
+	name:
+		allowedValueRange
+		allowedValueRange
+		allowedValueRange
+		allowedValueRange
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		dataType
+		dataType
+		dataType
+		dataType
+		defaultValue
+		defaultValue
+		defaultValue
+		defaultValue
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		maximum
+		maximum
+		maximum
+		maximum
+		minimum
+		minimum
+		minimum
+		minimum
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		retval
+		step
+		step
+		step
+		step
+
+FileName: index.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 12
+	name:
+		Wlan24GTwo
+		body
+		body_middle
+		footer
+		header
+		id_wan_ip
+		myImage
+		myImage2
+		myImage3
+		myImage4
+		page
+		viewport
+
+FileName: login.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		loginpasswd
+		loginusrname
+
+FileName: login1.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login1.html
+API: 
+	count: 1
+	name:
+		login.cgi
+Para: 
+	count: 12
+	name:
+		False
+		body
+		body_middle
+		header
+		login_nm
+		login_pwd
+		loginhtm
+		loginhtm
+		loginpasswd
+		loginusrname
+		page
+		viewport
+
+FileName: version.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/version.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		body
+		body_middle
+		footer
+		header
+		is_default
+		page
+		viewport
+
+FileName: telnetd.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 13
+	name:
+		ImageApply
+		TelnetdFrom
+		TelnetdFrom
+		action
+		body
+		body_middle
+		cssmenu
+		enable_telnetd
+		footer
+		header
+		onload
+		page
+		viewport
+
+FileName: repeater_mode_3.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_3.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		ImageFinish
+		body
+		body_middle
+		footer
+		header
+		page
+		viewport
+
+FileName: repeater_mode_2.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_2.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 17
+	name:
+		ImageNext
+		block
+		body
+		body_middle
+		div_count_left
+		div_count_left
+		footer
+		header
+		id_td_pwd_left
+		id_td_pwd_right
+		page
+		show_sec
+		tb_do_close_page
+		tb_do_close_page
+		tb_step_idx
+		tb_step_idx
+		viewport
+
+FileName: repeater_mode_1.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 42
+	name:
+		ImageApply
+		ImageBack
+		ImageScan
+		WEP_5g
+		WEP_mode_5g
+		WPA_mode_5g
+		action
+		block
+		body
+		body_middle
+		enabled
+		footer
+		header
+		page
+		repeater_mode_form_1
+		repeater_mode_form_1
+		router_disable
+		security_mode
+		viewport
+		wifi_5g
+		wl_akm
+		wl_akm_psk2
+		wl_akm_pskt
+		wl_akm_wpa
+		wl_akm_wpa2
+		wl_auth
+		wl_auth_mode
+		wl_chanspec
+		wl_crypto
+		wl_infra
+		wl_mode
+		wl_ssid
+		wl_unit
+		wl_ure
+		wl_wds
+		wl_wds0
+		wl_wds1
+		wl_wds2
+		wl_wds3
+		wl_wep
+		wl_wpa_psk
+		wpaencryt
+
+FileName: repeater_mode.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 50
+	name:
+		ImageBack
+		ImageScan
+		WEP_mode
+		action
+		body
+		body_middle
+		cpwd
+		footer
+		formRepeaterApply
+		header
+		http_passwd_bak
+		http_username_bak
+		id_http_username
+		id_repeater_setting
+		id_submit_btn
+		id_td_pwd_left
+		id_td_pwd_right
+		id_td_wl_left
+		id_td_wl_right
+		id_user_password
+		lan_dhcp
+		lan_proto
+		myImage2
+		page
+		password_id
+		repeater_mode_form
+		router_disable
+		security_disable
+		security_mode
+		security_psk2
+		security_wep
+		viewport
+		wep_key_help
+		wl_akm
+		wl_channel
+		wl_crypto
+		wl_key
+		wl_key1
+		wl_mode
+		wl_name
+		wl_nmode
+		wl_passwd
+		wl_ssid
+		wl_sta_retry_time
+		wl_unit
+		wl_ure
+		wl_wep
+		wl_wpa_psk
+		wl_wps_mode
+		wpaencryt
+
+FileName: router_mode_2_after.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 10
+	name:
+		action
+		body
+		body_middle
+		footer
+		header
+		myImage
+		myImage2
+		page
+		route_mode_2_form
+		viewport
+
+FileName: router_mode_3.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 49
+	name:
+		Password
+		Password_bak
+		Username
+		action
+		body
+		body_middle
+		defaultGateway
+		dnsServer1
+		dnsServer2
+		dns_dynamic
+		dns_static
+		footer
+		header
+		id_td_pwd_left
+		id_td_pwd_right
+		id_tmp_wan_pppoe_ifname
+		myImage
+		myImage2
+		myImage3
+		page
+		route_mode_3_form
+		subNetMask
+		tmp_dhcp_dns
+		tmp_dhcp_dns0
+		tmp_dhcp_dns1
+		tmp_dhcp_dns_type
+		tmp_router_disable
+		tmp_wan_dns
+		tmp_wan_dns0
+		tmp_wan_dns00
+		tmp_wan_dns1
+		tmp_wan_dns11
+		tmp_wan_dns_type
+		tmp_wan_gateway
+		tmp_wan_hwaddr
+		tmp_wan_ipaddr
+		tmp_wan_netmask
+		tmp_wan_pppoe_ifname
+		tmp_wan_pppoe_mtu
+		tmp_wan_pppoe_passwd
+		tmp_wan_pppoe_username
+		tmp_wan_proto
+		tmp_wan_unit
+		viewport
+		wan_proto_dhcp
+		wan_proto_pppoe
+		wan_proto_static
+		wan_static_dns0
+		wan_static_dns1
+
+FileName: router_mode_4.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		body
+		body_middle
+		footer
+		header
+		myImage
+		page
+		viewport
+
+FileName: router_mode_5.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 38
+	name:
+		WEP_mode
+		action
+		body
+		body_middle
+		cpwd
+		footer
+		header
+		http_passwd_bak
+		http_username_bak
+		id_http_username
+		id_submit_btn
+		id_td_pwd_left
+		id_td_pwd_right
+		id_td_wl_left
+		id_td_wl_right
+		id_user_password
+		id_wireless_setting
+		lan_proto
+		myImage
+		myImage2
+		page
+		route_mode_5_form
+		viewport
+		wifi
+		wl_akm
+		wl_akm_psk
+		wl_akm_psk2
+		wl_akm_wpa
+		wl_akm_wpa2
+		wl_auth
+		wl_auth_mode
+		wl_country_rev
+		wl_crypto
+		wl_ssid
+		wl_unit
+		wl_wep
+		wl_wpa_psk
+		wpaencryt
+
+FileName: router_mode_7.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 9
+	name:
+		body
+		body_middle
+		footer
+		header
+		id_td_pwd_left
+		id_td_pwd_right
+		myImage
+		page
+		viewport
+
+FileName: router_mode_6.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 12
+	name:
+		action
+		body
+		body_middle
+		footer
+		header
+		id_td_pwd_left
+		id_td_pwd_right
+		myImage
+		page
+		route_mode_6_form
+		show_sec
+		viewport
+
+FileName: router_mode_5a.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 30
+	name:
+		WEP_5g
+		WEP_mode_5g
+		action
+		block
+		body
+		body_middle
+		enabled
+		footer
+		header
+		myImage
+		myImage2
+		page
+		route_mode_5a_form
+		route_mode_5a_form
+		viewport
+		wifi_5g
+		wl_akm
+		wl_akm_psk2
+		wl_akm_pskt
+		wl_akm_wpa
+		wl_akm_wpa2
+		wl_auth
+		wl_auth_mode
+		wl_country_rev
+		wl_crypto
+		wl_ssid
+		wl_unit
+		wl_wep
+		wl_wpa_psk
+		wpaencryt
+
+FileName: router_mode_1a.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 11
+	name:
+		action
+		body
+		body_middle
+		footer
+		header
+		myImage
+		myImage2
+		page
+		route_mode_1a_form
+		route_mode_1a_form
+		viewport
+
+FileName: router_mode_2_before.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 11
+	name:
+		action
+		body
+		body_middle
+		footer
+		header
+		myImage
+		myImage2
+		page
+		route_mode_2_form
+		route_mode_2_form
+		viewport
+
+FileName: router_mode.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 12
+	name:
+		action
+		body
+		body_middle
+		footer
+		header
+		myImage
+		myImage2
+		page
+		route_mode_1_form
+		route_mode_1_form
+		router_disable
+		viewport
+
+FileName: setup_wan.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 48
+	name:
+		ImageApply
+		ImageCancel
+		ImageClone
+		Password
+		Password_bak
+		Username
+		action
+		body
+		body_middle
+		defaultGateway
+		dhcp_dns
+		dhcp_dns0
+		dhcp_dns1
+		dhcp_dns_type
+		dnsServer1
+		dnsServer2
+		dns_dynamic
+		dns_static
+		footer
+		header
+		page
+		subNetMask
+		viewport
+		wanForm
+		wan_dns
+		wan_dns0
+		wan_dns00
+		wan_dns1
+		wan_dns11
+		wan_dns_type
+		wan_gateway
+		wan_hwaddr
+		wan_ipaddr
+		wan_netmask
+		wan_pppoe_demand
+		wan_pppoe_idletime
+		wan_pppoe_keepalive
+		wan_pppoe_mru
+		wan_pppoe_mtu
+		wan_pppoe_passwd
+		wan_pppoe_username
+		wan_proto
+		wan_proto_dhcp
+		wan_proto_pppoe
+		wan_proto_static
+		wan_static_dns0
+		wan_static_dns1
+		wan_unit
+
+FileName: setup_wlan.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 77
+	name:
+		 wl_unit_type
+		ImageApply
+		ImageCancel
+		WEP_mode
+		WPA_VU
+		Wireless_chn_bw
+		Wireless_country
+		action
+		body
+		body_middle
+		broadcast
+		footer
+		generalOperation
+		header
+		id_wl2_ssid
+		operation
+		page
+		psk_key_help
+		psk_key_hex
+		seperation
+		viewport
+		wep_128bit
+		wep_64bit
+		wep_key_ascii
+		wep_key_help
+		wep_key_hex
+		wl0.2_1st
+		wl0.2_2nd
+		wl0.2_3rd
+		wl0.2_4th
+		wl0.2_ap_isolate
+		wl0.2_bss_disabled
+		wl0.2_bss_enabled
+		wl0.2_closed
+		wl0.2_crypto
+		wl0.2_key1
+		wl0.2_ssid
+		wl0.2_wpa_psk
+		wl02_WEP
+		wl02_WEP_mode
+		wl02_wep_128bit
+		wl02_wep_64bit
+		wl02_wep_key_ascii
+		wl02_wep_key_help
+		wl02_wep_key_hex
+		wl0_crypto
+		wl_akm
+		wl_akm_psk
+		wl_akm_psk2
+		wl_akm_wpa
+		wl_akm_wpa2
+		wl_ap_isolate
+		wl_auth
+		wl_auth_mode
+		wl_bss_enabled
+		wl_bssid
+		wl_channel
+		wl_closed
+		wl_country_code
+		wl_country_rev
+		wl_crypto
+		wl_gmode
+		wl_key
+		wl_key1
+		wl_nbw_cap
+		wl_nctrlsb
+		wl_nmode
+		wl_nreqd
+		wl_radio
+		wl_rate
+		wl_ssid
+		wl_unit
+		wl_unit_type
+		wl_wep
+		wl_wpa_psk
+		wl_wps_mode
+		wlanForm
+
+FileName: adv_routing.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 22
+	name:
+		ImageApply
+		action
+		body
+		body_middle
+		footer
+		header
+		iproute_form
+		page
+		staticRouteListTable
+		viewport
+		wan_route
+		wan_route_entry_num
+		wan_route_gateway
+		wan_route_ipaddr
+		wan_route_metric
+		wan_route_netmask
+		wan_rt_add
+		wan_rt_gw
+		wan_rt_ip
+		wan_rt_mask
+		wan_rt_metric
+		wan_unit
+
+FileName: scan_add_ip.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		ImageApply
+		body
+		body_middle
+		footer
+		header
+		page
+		viewport
+
+FileName: adv_vpnpassthrough.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 16
+	name:
+		ImageApply
+		ImageCancel
+		VPNPassthroughFrom
+		VPNPassthroughFrom
+		action
+		body
+		body_middle
+		cssmenu
+		footer
+		header
+		ipsec_passthrough_status
+		l2tp_passthrough_status
+		onload
+		page
+		pptp_passthrough_status
+		viewport
+
+FileName: adv_network.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 15
+	name:
+		ImageApply
+		action
+		adv_network_form
+		body
+		body_middle
+		dns_relay
+		domain_name
+		emf_enable
+		footer
+		header
+		hostname
+		igmp_enable
+		page
+		upnp_enable
+		viewport
+
+FileName: adv_ddns.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 22
+	name:
+		DynamicDNSTable
+		ImageApply
+		ImageCancel
+		action
+		body
+		body_middle
+		ddns
+		ddns_disable
+		ddns_enable
+		ddns_form
+		ddns_hname
+		ddns_passwd
+		ddns_provider
+		ddns_status
+		ddns_uname
+		dynamic_dns_add
+		footer
+		header
+		myImage3
+		page
+		save_ddns
+		viewport
+
+FileName: mgmt_reset.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+API: 
+	count: 4
+	name:
+		../../nvramul.cgi
+		../apply.cgi
+		../apply.cgi
+		../nvramdl.cgi
+Para: 
+	count: 16
+	name:
+		FormExportConfig
+		FormReboot
+		FormRestoreConfig
+		FormRestoreDefault
+		ImageApply
+		ImageApply2
+		ImageApply3
+		ImageSave
+		action
+		body
+		body_middle
+		footer
+		header
+		nvfile
+		page
+		viewport
+
+FileName: reboot_before.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 13
+	name:
+		ImageApply
+		Reboot1Form
+		Reboot1Form
+		action
+		body
+		body_middle
+		cssmenu
+		footer
+		header
+		onload
+		page
+		reboot
+		viewport
+
+FileName: mgmt_firmup.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+API: 
+	count: 1
+	name:
+		../upgrade.cgi
+Para: 
+	count: 11
+	name:
+		ImageApply
+		ImageCancel
+		body
+		body_middle
+		firmwareFilename
+		footer
+		header
+		page
+		updateFirmware
+		uploadedfile
+		viewport
+
+FileName: setup_wizard.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wizard.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		ImageBack
+		body
+		body_middle
+		footer
+		header
+		page
+		viewport
+
+FileName: url_redirect.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 16
+	name:
+		ImageApply
+		ImageCancel
+		action
+		addUrlred
+		body
+		body_middle
+		footer
+		header
+		page
+		url_redaddr
+		url_redavail
+		url_redirect_form
+		url_status_off
+		url_status_on
+		url_time
+		viewport
+
+FileName: dhcp_static_lease.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+API: 
+	count: 2
+	name:
+		../apply.cgi
+		../apply.cgi
+Para: 
+	count: 18
+	name:
+		Delete
+		Delete All
+		action
+		addDhcpReserve
+		body
+		body_middle
+		btn_scan
+		deleteAllStaticLease
+		deleteSelStaticLease
+		dhcp_static_hostname
+		dhcp_static_ip
+		dhcp_static_mac
+		header
+		index
+		page
+		staticlease
+		staticleaseshow
+		viewport
+
+FileName: adv_pptps.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+API: 
+	count: 2
+	name:
+		../apply.cgi
+		../apply.cgi
+Para: 
+	count: 23
+	name:
+		ImageApply
+		ImageCancel
+		PPTPAccountShowFrom
+		PPTPServerFrom
+		action
+		addvpnaccount1
+		available_index
+		body
+		body_middle
+		deleteSelvpnAccount
+		disconectSelvpnAccount
+		footer
+		header
+		id_account_table
+		mppe_status
+		page
+		pptps_account_ip
+		pptps_account_name
+		pptps_account_pwd
+		pptps_mppe_status
+		pptps_status
+		pptpsta
+		viewport
+
+FileName: super_dmz.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 21
+	name:
+		ImageApply
+		ImageCancel
+		action
+		body
+		body_middle
+		btn_scan
+		btn_scan2
+		dmz_ipaddr
+		dmz_sdmz_status_off
+		dmz_status
+		footer
+		header
+		normal_dmz_status_on
+		page
+		remote_access_status
+		save_dmz
+		save_sdmz
+		sdmz_addr
+		sdmz_dmz_form
+		super_dmz_status_on
+		viewport
+
+FileName: url_filter.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+API: 
+	count: 2
+	name:
+		../apply.cgi
+		../apply.cgi
+Para: 
+	count: 20
+	name:
+		action
+		addFilterUrl
+		available_idx
+		body
+		body_middle
+		deleteAllFilterUrl
+		deleteSelFilterUrl
+		footer
+		formFilterAdd
+		formFilterDel
+		header
+		myImage
+		myImage2
+		page
+		url_filter_add
+		url_filter_address
+		url_filter_disable
+		url_filter_enable
+		url_filter_list
+		viewport
+
+FileName: diag_ping_info.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/diag_ping_info.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		ImageConnect
+		body
+		body_middle
+		footer
+		header
+		page
+		viewport
+
+FileName: adv_wlan.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 36
+	name:
+		AdvWiFiForm
+		ImageApply
+		ImageCancel
+		Wireless_chn_bw
+		action
+		apsd
+		body
+		body_middle
+		footer
+		header
+		no_ack
+		page
+		viewport
+		wl_bcn
+		wl_channel
+		wl_dtim
+		wl_frag
+		wl_frameburst
+		wl_nbw_cap
+		wl_nctrlsb
+		wl_nmcsidx
+		wl_nmode
+		wl_obss_coex
+		wl_plcphdr
+		wl_rts
+		wl_rxchain
+		wl_tx_power
+		wl_txbf_bfe_cap
+		wl_txbf_bfr_cap
+		wl_txchain
+		wl_unit
+		wl_unit_type
+		wl_wme
+		wl_wme_apsd
+		wl_wme_bss_disable
+		wl_wme_no_ack
+
+FileName: status_clients.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_clients.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 8
+	name:
+		body
+		body_middle
+		cssmenu
+		footer
+		header
+		onload
+		page
+		viewport
+
+FileName: reboot_counter.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_counter.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 5
+	name:
+		body
+		body_middle
+		header
+		page
+		viewport
+
+FileName: adv_vserver.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 30
+	name:
+		ImageApply
+		ImageCancel
+		PortForwardFrom
+		VirtualServerTable
+		action
+		available_idx
+		body
+		body_middle
+		btn_delete
+		btn_deleteall
+		btn_scan
+		deleteAllPortFwd
+		deleteSelPortFwd
+		footer
+		forward_port
+		forward_port_enable
+		forward_port_from_end
+		forward_port_from_start
+		forward_port_proto
+		forward_port_to_end
+		forward_port_to_ip
+		forward_port_to_start
+		fwd_status_off
+		fwd_status_on
+		header
+		page
+		port_fwd_status
+		save_port_fwd
+		viewport
+		virtual_server_add
+
+FileName: mgmt_diag.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+API: 
+	count: 2
+	name:
+		../apply.cgi
+		upgrade.cgi
+Para: 
+	count: 11
+	name:
+		FormPingDiag
+		ImageConnect
+		action
+		body
+		body_middle
+		diag_ping
+		footer
+		header
+		page
+		ping_ipaddr
+		viewport
+
+FileName: mgmt_log.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 19
+	name:
+		False
+		ImageApply
+		action
+		block
+		body
+		body_middle
+		cssmenu
+		footer
+		header
+		log_level
+		log_ram_disable
+		log_ram_enable
+		log_server
+		log_server
+		mgmt_log
+		mgmt_log
+		onload
+		page
+		viewport
+
+FileName: setup_lan.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 39
+	name:
+		DHCPReserveTable
+		ImageApply
+		ImageCancel
+		LANForm
+		action
+		body
+		body_middle
+		dhcp_dns
+		dhcp_dns0
+		dhcp_dns00
+		dhcp_dns1
+		dhcp_dns11
+		dhcp_dns_type
+		dhcp_end
+		dhcp_start
+		dhcp_static
+		dhcp_static_dns0
+		dhcp_static_dns1
+		dhcp_static_entry_num
+		dhcp_static_ipaddr
+		dhcp_static_mac
+		dns_dynamic
+		dns_static
+		footer
+		header
+		ip_pool
+		lan_gateway
+		lan_ipaddr
+		lan_lease
+		lan_mtu
+		lan_netmask
+		lan_proto
+		page
+		viewport
+		wan_dns
+		wan_dns0
+		wan_dns1
+		wan_dns_type
+		wan_unit
+
+FileName: ddns_popup.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/ddns_popup.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		english
+		footer
+		header
+		korean
+		myImage
+		page
+		viewport
+
+FileName: mgmt_time.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 29
+	name:
+		ImageApply
+		ImageCancel
+		UpdateImage
+		action
+		body
+		body_middle
+		daylight_disable
+		daylight_enable
+		daylight_save
+		dstEndDW
+		dstEndMonth
+		dstEndTime
+		dstEndWeek
+		dstOffset
+		dstStartDW
+		dstStartMonth
+		dstStartTime
+		dstStartWeek
+		footer
+		header
+		ntp_disable
+		ntp_enable
+		ntp_form
+		ntp_server
+		ntp_settings
+		ntp_status
+		page
+		time_zone
+		viewport
+
+FileName: view_log.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/view_log.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: adv_port_trigger.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 19
+	name:
+		ImageApply
+		PortTriggerFrom
+		PortTriggerTable
+		action
+		autofw_port
+		autofw_port_entry_num
+		autofw_port_in_end
+		autofw_port_in_proto
+		autofw_port_in_start
+		autofw_port_out_end
+		autofw_port_out_proto
+		autofw_port_out_start
+		body
+		body_middle
+		footer
+		header
+		page
+		port_trigger_add
+		viewport
+
+FileName: status_details.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_details.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 10
+	name:
+		WANInternet
+		Wlan24G
+		Wlan24GTwo
+		body
+		body_middle
+		footer
+		header
+		id_wan_conn_type
+		page
+		viewport
+
+FileName: adv_mac_filter.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 24
+	name:
+		ImageApply
+		ImageCancel
+		MacFilterFrom
+		action
+		addFilterMac1
+		available_idx
+		body
+		body_middle
+		btn_scan
+		deleteAllFilterMac
+		deleteSelFilterMac
+		device_name
+		filter_en_macmode
+		filter_macmode
+		footer
+		header
+		holw_block
+		id_mac_address
+		mac_filter_address
+		mac_filter_list
+		macfilter_allow
+		macfilter_deny
+		page
+		viewport
+
+FileName: mgmt_account.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+API: 
+	count: 3
+	name:
+		../apply.cgi
+		../apply.cgi
+		../apply.cgi
+Para: 
+	count: 25
+	name:
+		ImageApply
+		ImageApply2
+		ImageApply3
+		ImageCancel
+		ImageCancel2
+		ImageCancel3
+		account_form
+		action
+		body
+		body_middle
+		cpwd
+		footer
+		header
+		http_passwd
+		http_username
+		id_http_username
+		lang_form
+		page
+		remote_access_form
+		remote_access_port
+		remote_access_status
+		remote_access_status_off
+		remote_access_status_on
+		viewport
+		web_language
+
+FileName: adv_firewall.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+API: 
+	count: 2
+	name:
+		../apply.cgi
+		../apply.cgi
+Para: 
+	count: 27
+	name:
+		ClientFilterFrom
+		ClientFilterTable
+		FirewallFrom
+		ImageApply
+		ImageApply2
+		action
+		body
+		body_middle
+		client_filter_add
+		filter_client
+		filter_client_enable
+		filter_client_entry_num
+		filter_client_from_day
+		filter_client_from_end
+		filter_client_from_sec
+		filter_client_from_start
+		filter_client_proto
+		filter_client_to_day
+		filter_client_to_end
+		filter_client_to_sec
+		filter_client_to_start
+		footer
+		fw_disable
+		fw_status
+		header
+		page
+		viewport
+
+FileName: reboot_static_lease.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 13
+	name:
+		ImageApply
+		Reboot1Form
+		Reboot1Form
+		action
+		body
+		body_middle
+		cssmenu
+		footer
+		header
+		onload
+		page
+		reboot
+		viewport
+
+FileName: adv_wol.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 23
+	name:
+		ImageApply
+		ImageCancel
+		WakeOnPC
+		WolFrom
+		WolTable
+		action
+		available_idx
+		body
+		body_middle
+		btn_delete
+		btn_on_pc
+		btn_scan
+		deleteSelWolMac
+		footer
+		header
+		page
+		save_wol
+		viewport
+		wol_add_host_mac
+		wol_addr
+		wol_mac_list
+		wol_status_disable
+		wol_status_enable
+
+FileName: reboot_info.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_info.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		body
+		body_middle
+		header
+		load_progress
+		page
+		progress1
+		viewport
+
+FileName: advwlan_setup_info.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/advwlan_setup_info.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 8
+	name:
+		body
+		body_middle
+		cssmenu
+		header
+		onload
+		page
+		show_sec
+		viewport
+
+FileName: adv_iptv.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 14
+	name:
+		IPTVFrom
+		IPTVFrom
+		ImageApply
+		ImageCancel
+		action
+		body
+		body_middle
+		cssmenu
+		enable_iptv
+		footer
+		header
+		onload
+		page
+		viewport
+
+FileName: static_scan.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		ImageApply
+		body
+		body_middle
+		footer
+		header
+		page
+		viewport
+
+FileName: dhcp_reserve_scan_host.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 8
+	name:
+		ImageApply
+		body
+		body_middle
+		footer
+		header
+		host_
+		page
+		viewport
+
+FileName: adv_ddos.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 19
+	name:
+		ImageApply
+		ImageCancel
+		action
+		body
+		body_middle
+		ddos_form
+		footer
+		header
+		page
+		ping_ddos_defence
+		ping_status_off
+		ping_status_on
+		smurf_ddos_defence
+		smurf_status_off
+		smurf_status_on
+		syn_ddos_defence
+		syn_status_off
+		syn_status_on
+		viewport
+
+FileName: wlan_setup_info.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/wlan_setup_info.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 8
+	name:
+		body
+		body_middle
+		cssmenu
+		header
+		onload
+		page
+		show_sec
+		viewport
+
+FileName: ap_mode_2.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_2.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 17
+	name:
+		ImageNext
+		block
+		body
+		body_middle
+		div_count_left
+		div_count_left
+		footer
+		header
+		id_td_pwd_left
+		id_td_pwd_right
+		page
+		show_sec
+		tb_do_close_page
+		tb_do_close_page
+		tb_step_idx
+		tb_step_idx
+		viewport
+
+FileName: ap_mode_3.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_3.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		ImageFinish
+		body
+		body_middle
+		footer
+		header
+		page
+		viewport
+
+FileName: ap_mode.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 41
+	name:
+		ImageBack
+		WEP_mode
+		action
+		ap_mode_form
+		body
+		body_middle
+		cpwd
+		footer
+		header
+		http_passwd_bak
+		http_username_bak
+		id_http_username
+		id_submit_btn
+		id_td_pwd_left
+		id_td_pwd_right
+		id_td_wl_left
+		id_td_wl_right
+		id_user_password
+		id_wireless_setting
+		lan_dhcp
+		myImage2
+		page
+		router_disable
+		security_mode
+		viewport
+		wl_akm
+		wl_akm_psk
+		wl_akm_psk2
+		wl_akm_wpa
+		wl_akm_wpa2
+		wl_auth
+		wl_auth_mode
+		wl_country_code
+		wl_country_rev
+		wl_crypto
+		wl_mode
+		wl_ssid
+		wl_unit
+		wl_wep
+		wl_wpa_psk
+		wpaencryt
+
+FileName: ap_mode_1.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+API: 
+	count: 1
+	name:
+		../apply.cgi
+Para: 
+	count: 32
+	name:
+		ImageApply
+		ImageBack
+		WEP_5g
+		WEP_mode_5g
+		action
+		ap_mode_1_form
+		ap_mode_1_form
+		block
+		body
+		body_middle
+		enabled
+		footer
+		header
+		page
+		router_disable
+		security_mode_5g
+		viewport
+		wl_akm
+		wl_akm_psk2
+		wl_akm_pskt
+		wl_akm_wpa
+		wl_akm_wpa2
+		wl_auth
+		wl_auth_mode
+		wl_country_code
+		wl_country_rev
+		wl_crypto
+		wl_ssid
+		wl_unit
+		wl_wep
+		wl_wpa_psk
+		wpaencryt_5g
+
+FileName: home.htm
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/home.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: tvdevicepres.html
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicepres.html
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: rss_xml.php
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onetouch/rss_xml.php
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: finish.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/finish.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 9
+	name:
+		<% ConfigRssGet(
+		author
+		layer
+		robots
+		route_mode
+		text1
+		text2
+		text3
+		text4
+
+FileName: login_error.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/public/login_error.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		author
+		layer
+		robots
+
+FileName: fwupgrade2.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/fwupgrade2.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 9
+	name:
+		UploadResult
+		author
+		currFwVer
+		fwbox
+		fwupdate
+		layer
+		robots
+		upgdStatus
+		uploadfile
+
+FileName: rssset.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssset.asp
+API: 
+	count: 1
+	name:
+		rssset.xgi
+Para: 
+	count: 2
+	name:
+		uiPostUpdateForm
+		update
+
+FileName: rssset_test.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssset_test.asp
+API: 
+	count: 1
+	name:
+		rssset.xgi
+Para: 
+	count: 2
+	name:
+		uiPostUpdateForm
+		update
+
+FileName: main.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/main.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 12
+	name:
+		author
+		block
+		fwupgd2_1
+		fwupgd2_1
+		fwupgd2_2
+		fwupgd2_2
+		fwupgd_1
+		fwupgd_1
+		fwupgd_2
+		fwupgd_2
+		layer
+		robots
+
+FileName: login_lock.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/public/login_lock.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		author
+		layer
+		robots
+
+FileName: check_survey.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/check_survey.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: fwupgrade.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/fwupgrade.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 6
+	name:
+		author
+		info
+		info2
+		info4
+		layer
+		robots
+
+FileName: login_keyissue.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/public/login_keyissue.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 5
+	name:
+		Netscape
+		author
+		layer
+		robots
+		whocares
+
+FileName: config.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/config.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 65
+	name:
+		<% ConfigRssGet(
+		Loading
+		adslvdsl_mode
+		author
+		body1
+		body2
+		body3
+		body4
+		device_icon
+		device_mode
+		devicefw
+		devicemodel
+		devicename
+		ether_mode
+		layer
+		list
+		panel-wrap
+		passwd
+		passwd_check
+		robots
+		rss_DeviceName
+		rss_DeviceName_check
+		rss_DevicePwd
+		rss_DevicePwd_check
+		rss_Ets_ConnRefSiteBSSID
+		rss_Ets_EncryptionKey
+		rss_Ets_WirelessName
+		rss_Ets_WirelessType
+		rss_Ets_connrefsitebssid
+		rss_Ets_encryptionkey
+		rss_Ets_wirelessname
+		rss_Ets_wirelesstype
+		rss_Upl_DNS
+		rss_Upl_DNS_check
+		rss_Upl_Gateway
+		rss_Upl_Gateway_check
+		rss_Upl_IP
+		rss_Upl_IP_check
+		rss_Upl_LoginPassword
+		rss_Upl_LoginPassword_check
+		rss_Upl_LoginUserName
+		rss_Upl_LoginUserName_check
+		rss_Upl_NetMask
+		rss_Upl_NetMask_check
+		rss_Wl2_EncryptionKey
+		rss_Wl2_EncryptionKey_check
+		rss_Wl2_EncryptionMode
+		rss_Wl2_WirelessName
+		rss_Wl2_WirelessName_check
+		rss_Wl2_WlEnbl
+		rss_Wl5_EncryptionKey
+		rss_Wl5_EncryptionKey_check
+		rss_Wl5_EncryptionMode
+		rss_Wl5_WirelessName
+		rss_Wl5_WirelessName_check
+		rss_Wl5_WlEnbl
+		select-country
+		select-country_check
+		select-ether
+		select-isp
+		ssid_name
+		th_next
+		th_scan
+		wireless_2
+		wireless_5
+
+FileName: rssvarset_test.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssvarset_test.asp
+API: 
+	count: 1
+	name:
+		rssvarset_commit.xgi
+Para: 
+	count: 2
+	name:
+		uiPostUpdateForm
+		update
+
+FileName: rssset_apcloning_test.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssset_apcloning_test.asp
+API: 
+	count: 1
+	name:
+		rssset_cloning.xgi
+Para: 
+	count: 2
+	name:
+		uiPostUpdateForm
+		update
+
+FileName: login.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/public/login.asp
+API: 
+	count: 1
+	name:
+		/rssui/public/checkuser.xgi
+Para: 
+	count: 7
+	name:
+		author
+		layer
+		loginId
+		login_frm
+		login_name
+		login_pass
+		robots
+
+FileName: fwupgrade_test.asp
+FilePath: /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/fwupgrade_test.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		fileupload
+		fileuploadsubmit
+		softupdate
+		update
+

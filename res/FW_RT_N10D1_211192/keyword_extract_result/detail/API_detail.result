@@ -1,0 +1,161 @@
+API name : 
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_type.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_autoMAC.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose5.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/gotoHomePage.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/remote.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detectWAN.htm
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : /
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose10.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose21.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/wan_action.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Restarting.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose20.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : /QIS_wizard.htm
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_2.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_1.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : /apply.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : /result_of_get_changed_status_QIS.asp
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : /start_apply.htm
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_vpn.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : /start_apply2.htm
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : apply.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : syslog.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : upgrade.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : upload.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wlconn_apply.htm
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wlconn_apply_fake.htm
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+	Bin File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+

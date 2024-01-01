@@ -1,0 +1,43 @@
+[Param "music"(0x00161064), Referenced at FUN_0002bdd4 : 0x0002c0c4] >> 0x0002c8fc >> FUN_0002fd4c >> 0x0002fe70 -> strcpy
+[Param "music"(0x00161064), Referenced at FUN_00041264 : 0x00041524] >> 0x000419bc >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x0005120c -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051900 -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051fe0 -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053094 -> FUN_000524a0 >> 0x00052650 >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x0005120c -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051900 -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051fe0 -> strcpy
+[Param "audioItem"(0x00161b94), Referenced at FUN_00052984 : 0x00052e24] >> 0x00053168 -> FUN_000524a0 >> 0x00052650 >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x0005120c -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051900 -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051fe0 -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053094 -> FUN_000524a0 >> 0x00052650 >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x0005120c -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051900 -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051fe0 -> strcpy
+[Param "videoItem"(0x00161bc4), Referenced at FUN_00052984 : 0x00052e50] >> 0x00053168 -> FUN_000524a0 >> 0x00052650 >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x0005120c -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051900 -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053094 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051fe0 -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053094 -> FUN_000524a0 >> 0x00052650 >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x0005120c -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051900 -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053168 -> FUN_000524a0 >> 0x000525ec >> FUN_00051100 >> 0x00051fe0 -> strcpy
+[Param "imageItem"(0x00161bac), Referenced at FUN_00052984 : 0x00052e38] >> 0x00053168 -> FUN_000524a0 >> 0x00052650 >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00053d84 : 0x00054044] >> 0x000543a0 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_0002bdd4 : 0x0002c14c] >> 0x0002c8fc >> FUN_0002fd4c >> 0x0002fe70 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00041264 : 0x00041550] >> 0x000419bc >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00023618 : 0x00023b84] >> 0x00023c1c -> FUN_00026d7c >> 0x00026df8 -> FUN_00029a84 >> 0x0002a308 >> FUN_00029668 >> 0x00029718 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00023618 : 0x00023b84] >> 0x00023c1c -> FUN_00026d7c >> 0x00026df8 -> FUN_00029a84 >> 0x0002a394 >> FUN_00029668 >> 0x00029718 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00023618 : 0x00023b84] >> 0x00023c1c -> FUN_00026d7c >> 0x00026df8 -> FUN_00029a84 >> 0x0002a420 >> FUN_00029668 >> 0x00029718 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00023618 : 0x00023b84] >> 0x00023c1c -> FUN_00026d7c >> 0x00026df8 >> FUN_00029a84 >> 0x0002af38 >> FUN_00029668 >> 0x00029718 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00023618 : 0x00023b84] >> 0x00023c1c -> FUN_00026d7c >> 0x00026df8 >> FUN_00029a84 >> 0x0002b57c >> FUN_00029668 >> 0x00029718 -> strcpy
+[Param "video"(0x001610c4), Referenced at FUN_00023618 : 0x00023b84] >> 0x00023c1c -> FUN_00026d7c >> 0x00026df8 >> FUN_00029a84 >> 0x0002b934 >> FUN_00029668 >> 0x00029718 -> strcpy
+[Param "Source"(0x0016c55c), Referenced at FUN_0004866c : 0x000486c8] >> 0x00048738 -> FUN_0004853c >> 0x00048560 -> FUN_000481fc >> 0x0004828c >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "Source"(0x0016c55c), Referenced at FUN_0004866c : 0x000486c8] >> 0x00048738 -> FUN_0004853c >> 0x00048570 -> FUN_000481fc >> 0x0004828c >> FUN_00053d84 >> 0x000543a0 -> strcpy
+[Param "Source"(0x0016c55c), Referenced at FUN_0004866c : 0x000486c8] >> 0x00048738 -> FUN_0004853c >> 0x00048580 -> FUN_000481fc >> 0x0004828c >> FUN_00053d84 >> 0x000543a0 -> strcpy
+Time Elapsed: 16.2520000935
+24 of 104 parameters are referenced
+6 of 104 parameters have way to sink function
+Find 0 new params heuristicly:
+

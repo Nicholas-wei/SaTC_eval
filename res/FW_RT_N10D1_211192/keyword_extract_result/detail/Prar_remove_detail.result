@@ -1,0 +1,1279 @@
+Prar name : Loading
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : TopBanner
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : action_mode
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : action_script
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : button
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+	Bin File: 
+
+Prar name : current_page
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_type.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : failReason
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose20.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose10.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose3.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose11.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose30.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/error_page.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_1.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose1.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose4.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose5.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_2.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose40.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose21.asp
+	Bin File: 
+
+Prar name : firmver
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : first_time
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+	Bin File: 
+
+Prar name : flag
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose3.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_type.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose11.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_autoMAC.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/wan_action.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_2.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose20.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_1.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_vpn.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose10.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose30.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose40.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detectWAN.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose21.asp
+	Bin File: 
+
+Prar name : footer
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : form
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_finish.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_vpn.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : group_id
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : help_td
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : helpicon
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : helpname
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : hidden_frame
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : hint_body
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : hint_form
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : hintofPM
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : mainMenu
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : modified
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : next_host
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : next_page
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_type.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : preferred_lang
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : prev_page
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_type.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_autoMAC.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_vpn.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detectWAN.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+	Bin File: 
+
+Prar name : productid
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+	Bin File: 
+
+Prar name : redirectForm
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose20.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose3.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose10.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose11.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose30.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_autoMAC.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_1.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/wan_action.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem2.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_2.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detectWAN.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose40.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose21.asp
+	Bin File: 
+
+Prar name : ruleForm
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+	Bin File: 
+
+Prar name : sid_list
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : statusframe
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : subMenu
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : tabMenu
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+
+Prar name : wl_ssid2
+Source File : 
+	Text File: 
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_finish.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+	Bin File: 
+

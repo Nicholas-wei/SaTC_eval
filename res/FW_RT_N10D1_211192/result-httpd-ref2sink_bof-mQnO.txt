@@ -1,0 +1,17 @@
+binary: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+configfile: /home/satc/res/FW_RT_N10D1_211192/ghidra_extract_result/httpd/httpd_ref2sink_bof.result-alter2
+0x424420 0x4050e4   not found
+0x424814 0x4065d8   not found
+0x42483c 0x4065d8   not found
+0x424808 0x4065d8   not found
+0x426434 0x411a74   not found
+0x4265bc 0x412084   not found
+0x42429c 0x405f38   not found
+0x42483c 0x4065d8   not found
+0x4257a8 0x422574   not found
+0x426424 0x411a74   not found
+0x426814 0x41eca0   not found
+total cases: 11
+find cases: 0
+binary: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/usr/sbin/httpd
+configfile: /home/satc/res/FW_RT_N10D1_211192/ghidra_extract_result/httpd/httpd_ref2sink_bof.result-alter2

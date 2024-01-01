@@ -1,0 +1,2631 @@
+FileName: WFADeviceDesc.xml
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+API: 
+	count: 13
+	name:
+		UDN
+		deviceType
+		friendlyName
+		major
+		manufacturer
+		manufacturerURL
+		minor
+		modelDescription
+		modelName
+		modelNumber
+		modelURL
+		serialNumber
+		serviceList
+Para: 
+	count: 6
+	name:
+		SCPDURL
+		controlURL
+		eventSubURL
+		service
+		serviceId
+		serviceType
+
+FileName: WFAWLANConfigSCPD.xml
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFAWLANConfigSCPD.xml
+API: 
+	count: 28
+	name:
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		major
+		minor
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+Para: 
+	count: 128
+	name:
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+
+FileName: ure_success.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/ure_success.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 5
+	name:
+		clientIP
+		remoteIP
+		repeaterIP
+		repeaterIP2
+		title_item
+
+FileName: wlconn_apply.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/wlconn_apply.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		connecting_table
+		drword
+		waiting
+
+FileName: QIS_wizard.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/QIS_wizard.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: start_apply2.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/start_apply2.htm
+API: 
+	count: 2
+	name:
+		
+		
+Para: 
+	count: 5
+	name:
+		IP_Bridged
+		drword
+		flag
+		redirectForm
+		waiting
+
+FileName: start_apply.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/start_apply.htm
+API: 
+	count: 2
+	name:
+		
+		
+Para: 
+	count: 10
+	name:
+		Client
+		Microsoft
+		auto_way_static
+		drword
+		flag
+		nodetect
+		prev_page
+		redirectForm
+		set_language
+		waiting
+
+FileName: error_page.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/error_page.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 14
+	name:
+		case1
+		case2
+		case3
+		case4
+		case5
+		case6
+		case8
+		case9
+		failReason
+		failReason1
+		ppp_input_error
+		ppp_no_response
+		selfsetting_link
+		suggestion_final
+
+FileName: gotoHomePage.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/gotoHomePage.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 4
+	name:
+		Microsoft
+		Netscape
+		Opera
+		Safari
+
+FileName: survey.htm
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/survey.htm
+API: 
+	count: 1
+	name:
+		/wlconn_apply.htm
+Para: 
+	count: 79
+	name:
+		HT_BW
+		LoadingBox
+		LoadingBox_mask
+		SearchingBox_mask
+		action_mode
+		action_script
+		addProfile_auth_mode
+		addProfile_btn
+		addProfile_crypto
+		addProfile_key_index
+		addProfile_password
+		addProfile_ssid
+		addProfile_wep_x
+		add_btn
+		alert_msg
+		aplist_table
+		connect_btn
+		connecting_table
+		content_mask
+		current_page
+		custom_addProfile
+		dhcp_end
+		dhcp_start
+		form
+		group_id
+		ha_ssid
+		hidden_frame
+		keyindex_input_field
+		lan_ipaddr
+		modified
+		next_host
+		next_page
+		password
+		password_input_field
+		pwdcheck_input_field
+		r_Setting
+		refresh_btn
+		sid_list
+		ssid_input_field
+		sta_auth_mode
+		sta_bssid
+		sta_check_ha
+		sta_crypto
+		sta_encryption
+		sta_key
+		sta_key1
+		sta_key2
+		sta_key3
+		sta_key4
+		sta_key_index
+		sta_key_type
+		sta_ssid
+		sta_wep_x
+		sta_wpa_mode
+		sta_wpa_psk
+		survey_btn
+		survey_foot
+		sw_mode
+		sw_mode_orig
+		ui_triggered
+		wan_proto
+		warningBox
+		wep_auth_mode
+		wep_auth_mode_field
+		wl0_1_auth_mode
+		wl0_1_crypto
+		wl0_1_key
+		wl0_1_key1
+		wl0_1_key2
+		wl0_1_key3
+		wl0_1_key4
+		wl0_1_key_type
+		wl0_1_ssid
+		wl0_1_wep_x
+		wl0_1_wpa_mode
+		wl0_1_wpa_psk
+		wl_gmode
+		wl_key_table
+		wl_ssid
+
+FileName: Advanced_PortTrigger_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_PortTrigger_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 34
+	name:
+		Loading
+		TopBanner
+		TriggerKnownApps
+		TriggerList
+		TriggerList2
+		TriggerList_Block
+		action_mode
+		action_script
+		autofw_desc_x_0
+		autofw_enable_x
+		autofw_inport_x_0
+		autofw_inproto_x_0
+		autofw_num_x_0
+		autofw_outport_x_0
+		autofw_outproto_x_0
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		hidden_frame
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		row'+i+'
+		ruleForm
+		sid_list
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: diagnose4.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose4.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		failReason
+
+FileName: Restarting.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Restarting.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		Microsoft
+		drword
+		waiting
+
+FileName: UpdateError.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/UpdateError.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		hidden
+		hiddenMask
+
+FileName: Advanced_WWPS_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WWPS_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 50
+	name:
+		Loading
+		Reset_OOB
+		TopBanner
+		action_mode
+		action_script
+		addEnrolleebtn
+		current_page
+		devicePIN
+		devicePIN_name
+		devicePIN_tr
+		enableWPSbtn
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		pin_tr
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_auth_mode
+		wl_crypto
+		wl_ssid2
+		wl_wep_x
+		wpsPIN_name
+		wps_enable
+		wps_enable_block
+		wps_enable_hint
+		wps_enable_word
+		wps_mode
+		wps_pin
+		wps_state_td
+		wps_state_tr
+		wsc_client_role
+		wsc_config_command
+		wsc_config_state
+
+FileName: Logout.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Logout.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: diagnose1.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose1.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		failReason
+
+FileName: diagnose10.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose10.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		Client
+		failReason
+		flag
+		redirectForm
+
+FileName: Advanced_ASUSDDNS_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_ASUSDDNS_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 43
+	name:
+		Hostname_Note
+		LANHostConfig_x_DDNSHostnameCheck_button
+		LANHostConfig_x_DDNSStatus_button
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		ddns_enable_x
+		ddns_hostname_x
+		ddns_passwd_x
+		ddns_server_x
+		ddns_username_x
+		ddns_wildcard_x
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		link
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl_gmode_protection_x
+		wl_ssid2
+		x_DDNSServer_link
+
+FileName: result_of_get_changed_status_QIS.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/result_of_get_changed_status_QIS.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_BasicFirewall_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_BasicFirewall_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 36
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		fw_dos_x
+		fw_enable_x
+		fw_log_x
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		misc_http_x
+		misc_httpport_x
+		misc_ping_x
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: diagnose21.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose21.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: Advanced_DHCP_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_DHCP_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 48
+	name:
+		GWStatic
+		Loading
+		ManualDHCPList
+		ManualDHCPList2
+		ManualDHCPList_s
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		dhcp_dns1_x
+		dhcp_enable_x
+		dhcp_end
+		dhcp_gateway_x
+		dhcp_lease
+		dhcp_start
+		dhcp_static_x
+		dhcp_staticip_x_0
+		dhcp_staticmac_x_0
+		dhcp_staticnum_x_0
+		dhcp_wins_x
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		lan_domain
+		lan_ipaddr
+		lan_netmask
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: aplist.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/aplist.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_WAN_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WAN_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 68
+	name:
+		Loading
+		TopBanner
+		WAN_button
+		WAN_type
+		WAN_upnp
+		account_sect
+		action_mode
+		action_script
+		current_page
+		dns_sect
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		ip_sect
+		isp_sect
+		lan_ipaddr
+		lan_netmask
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		support_cdma
+		tabMenu
+		upnp_enable
+		wan_account_sect
+		wan_dns1_x
+		wan_dns2_x
+		wan_dnsenable_x
+		wan_gateway
+		wan_heartbeat_x
+		wan_hostname
+		wan_hwaddr_x
+		wan_ipaddr
+		wan_isp_sect
+		wan_netmask
+		wan_pppoe_ac
+		wan_pppoe_idletime
+		wan_pppoe_idletime_check
+		wan_pppoe_mru
+		wan_pppoe_mtu
+		wan_pppoe_options_x
+		wan_pppoe_passwd
+		wan_pppoe_relay_x
+		wan_pppoe_service
+		wan_pppoe_txonly_x
+		wan_pppoe_username
+		wan_pptp_options_x
+		wan_proto
+		wan_proto_hint
+		wan_proto_menu
+		wan_stb_x
+		wl_ssid2
+		x_DHCPClient
+
+FileName: diagnose12.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose12.asp
+API: 
+	count: 2
+	name:
+		
+		/start_apply.htm
+Para: 
+	count: 9
+	name:
+		Client
+		action_script
+		current_page
+		failReason
+		flag
+		form
+		next_page
+		redirectForm
+		refreshForm
+
+FileName: Advanced_Exposed_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_Exposed_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 32
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		dmz_ip
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		sp_battle_ips
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: hsdpa.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/hsdpa.asp
+API: 
+	count: 3
+	name:
+		
+		
+		/start_apply2.htm
+Para: 
+	count: 88
+	name:
+		AUTO
+		Dev3G
+		Dev3G_tr
+		Dev3G_tr
+		EVDO_on
+		FailOverEnable
+		FailOverEnable
+		Failover
+		False
+		Firefox
+		Safari
+		action_mode
+		action_script
+		apply_tr
+		cmnet
+		current_page
+		disk
+		diskForm
+		enable_failover
+		firmver
+		form
+		group_id
+		hidden_frame
+		hsdpa_apn
+		hsdpa_apn_tr
+		hsdpa_apn_tr
+		hsdpa_country
+		hsdpa_country_tr
+		hsdpa_country_tr
+		hsdpa_dialnum
+		hsdpa_dialnum_tr
+		hsdpa_dialnum_tr
+		hsdpa_isp
+		hsdpa_isp_tr
+		hsdpa_isp_tr
+		hsdpa_pass
+		hsdpa_pass_tr
+		hsdpa_pass_tr
+		hsdpa_user
+		hsdpa_user_tr
+		hsdpa_user_tr
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		remove_d3g_tr
+		remove_d3g_tr
+		show_more
+		show_more
+		show_remove_button
+		show_removed_string
+		sid_list
+		statusframe_2
+		sw_mode
+		wan1_proto
+		wan_3g_pin
+		wan_3g_pin_tr
+		wan_3g_pin_tr
+		wan_proto
+		wan_proto_tr
+		wan_proto_tr
+		wl0_1_auth_mode
+		wl0_1_crypto
+		wl0_1_key
+		wl0_1_key1
+		wl0_1_key2
+		wl0_1_key3
+		wl0_1_key4
+		wl0_1_key_type
+		wl0_1_ssid
+		wl0_1_wep_x
+		wl0_1_wpa_mode
+		wl0_1_wpa_psk
+		wl_auth_mode
+		wl_crypto
+		wl_key
+		wl_key1
+		wl_key2
+		wl_key3
+		wl_key4
+		wl_key_type
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+		wl_wpa_psk
+		x_Setting
+
+FileName: index.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/index.asp
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 56
+	name:
+		Client
+		Dr_body
+		HT_BW_tmp
+		Internet
+		Loading
+		TopBanner
+		close_hint_btn
+		conn_3g_dura
+		conn_div
+		connect_btn
+		connect_switch
+		connectstatus
+		current_isp
+		current_page
+		current_reg
+		drImg
+		dr_sweet_advise
+		drword
+		failover_div
+		failoverstatus
+		firmver
+		footer
+		form
+		helpname
+		hiddenMask
+		hidden_frame
+		mainMenu
+		mode_desc
+		navtxt
+		operation_mode
+		opmode_prompt
+		preferred_lang
+		statusContainer
+		statusIcon
+		statusframe
+		statusframe
+		statusframe_1
+		statusframe_2
+		statusframe_space
+		subMenu
+		tabMenu
+		wl_auth_mode
+		wl_crypto
+		wl_form
+		wl_key
+		wl_key1
+		wl_key2
+		wl_key3
+		wl_key4
+		wl_key_type
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+		wl_wpa_psk
+		x_Setting
+
+FileName: ssid.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/ssid.asp
+API: 
+	count: 3
+	name:
+		/start_apply.htm
+		/start_apply.htm
+		/start_apply2.htm
+Para: 
+	count: 64
+	name:
+		LANIP
+		PINCode
+		WPSForm
+		WPS_PBCbutton_hint_span
+		action_mode
+		action_script
+		applySecurity
+		apply_table
+		current_page
+		dhcp_end
+		dhcp_start
+		form
+		group_id
+		hidden_frame
+		lan_ipaddr
+		next_page
+		productid
+		sid_list
+		sta_asuskey1
+		sta_ssid
+		sta_wpa_psk
+		stopPINForm
+		sw_mode
+		sw_mode_orig
+		wl0_1_auth_mode
+		wl0_1_crypto
+		wl0_1_key
+		wl0_1_key1
+		wl0_1_key2
+		wl0_1_key3
+		wl0_1_key4
+		wl0_1_key_type
+		wl0_1_ssid
+		wl0_1_wep_x
+		wl0_1_wpa_mode
+		wl0_1_wpa_psk
+		wl_asuskey1
+		wl_auth_mode
+		wl_auth_mode_orig
+		wl_crypto
+		wl_gmode
+		wl_key
+		wl_key1
+		wl_key1_org
+		wl_key2
+		wl_key2_org
+		wl_key3
+		wl_key3_org
+		wl_key4
+		wl_key4_org
+		wl_key_type
+		wl_radio_tr
+		wl_radio_x
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+		wl_wpa_psk
+		wl_wpa_psk_org
+		wpsPBC_button
+		wps_enable
+		wps_pbc_tr
+		wsc_config_command
+		wsc_config_state
+
+FileName: Nologin.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Nologin.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		formname
+		logined_ip_str
+
+FileName: diagnose5.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose5.asp
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 5
+	name:
+		desc_str
+		desc_str
+		failReason
+		sug_code
+		sug_code
+
+FileName: htbw.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/htbw.asp
+API: 
+	count: 1
+	name:
+		/start_apply2.htm
+Para: 
+	count: 17
+	name:
+		HT_BW
+		action_mode
+		action_script
+		apply_tr
+		current_page
+		firmver
+		form
+		group_id
+		hidden_frame
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		sid_list
+		wl_ssid2
+		x_Setting
+
+FileName: diagnose40.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose40.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: diagnose2_1.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose2_1.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 5
+	name:
+		detect
+		failReason
+		flag
+		pppoe
+		redirectForm
+
+FileName: Advanced_WMode_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WMode_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 40
+	name:
+		Loading
+		RBRList
+		RBRList2
+		RBRList_s
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl_channel
+		wl_mode_x
+		wl_ssid2
+		wl_wdsapply_x
+		wl_wdslist_x_0
+		wl_wdsnum_x_0
+		x_RegulatoryDomain
+
+FileName: mode_select.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/mode_select.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Main_DHCPStatus_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_DHCPStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 27
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: as.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/as.asp
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 21
+	name:
+		Loading
+		TopBanner
+		firmver
+		footer
+		form
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		menu_body
+		menu_body
+		preferred_lang
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+		x_Setting
+
+FileName: Main_IPTStatus_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_IPTStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 27
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: diagnose30.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose30.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: Advanced_Firewall_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_Firewall_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 56
+	name:
+		LWFilterList
+		LWFilterList2
+		LWFilterList_s
+		LWKnownApps
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		filter_lw_date_x
+		filter_lw_date_x_Fri
+		filter_lw_date_x_Mon
+		filter_lw_date_x_Sat
+		filter_lw_date_x_Sun
+		filter_lw_date_x_Thu
+		filter_lw_date_x_Tue
+		filter_lw_date_x_Wed
+		filter_lw_default_x
+		filter_lw_dstip_x_0
+		filter_lw_dstport_x_0
+		filter_lw_icmp_x
+		filter_lw_num_x_0
+		filter_lw_proto_x_0
+		filter_lw_srcip_x_0
+		filter_lw_srcport_x_0
+		filter_lw_time_x
+		filter_lw_time_x_endhour
+		filter_lw_time_x_endmin
+		filter_lw_time_x_starthour
+		filter_lw_time_x_startmin
+		firmver
+		first_time
+		footer
+		form
+		fw_lw_enable_x
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Advanced_WSecurity_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WSecurity_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 31
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_radius_ipaddr
+		wl_radius_key
+		wl_radius_port
+		wl_ssid2
+
+FileName: Advanced_LAN_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_LAN_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 40
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		dhcp_end
+		dhcp_start
+		dr_sweet_advise
+		drword
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		ipconflict
+		lan_ipaddr
+		lan_netmask
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_gateway
+		wan_ipaddr
+		wan_netmask
+		wan_proto
+		wl_ssid2
+
+FileName: Advanced_URLFilter_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_URLFilter_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 47
+	name:
+		Loading
+		TopBanner
+		UrlList
+		UrlList_s
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		url_date_x
+		url_date_x_Fri
+		url_date_x_Mon
+		url_date_x_Sat
+		url_date_x_Sun
+		url_date_x_Thu
+		url_date_x_Tue
+		url_date_x_Wed
+		url_enable_x
+		url_keyword_x_0
+		url_num_x_0
+		url_time_x
+		url_time_x_endhour
+		url_time_x_endmin
+		url_time_x_starthour
+		url_time_x_startmin
+		wl_ssid2
+
+FileName: Advanced_VirtualServer_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_VirtualServer_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 38
+	name:
+		ClientList_Block
+		KnownApps
+		KnownGames
+		Loading
+		TopBanner
+		VSGameList
+		VSList
+		VSList2
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		hidden_frame
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		pull_arrow
+		row'+i+'
+		sid_list
+		subMenu
+		tabMenu
+		vts_desc_x_0
+		vts_enable_x
+		vts_ipaddr_x_0
+		vts_lport_x_0
+		vts_num_x_0
+		vts_port_x_0
+		vts_proto_x_0
+		vts_protono_x_0
+		wl_ssid2
+
+FileName: result_of_get_changed_status.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/result_of_get_changed_status.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Uploading.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Uploading.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Main_RouteStatus_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_RouteStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 27
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: WPS_info.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/WPS_info.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Updating.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Updating.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		hidden
+		hiddenMask
+
+FileName: Advanced_SettingBackup_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_SettingBackup_Content.asp
+API: 
+	count: 3
+	name:
+		
+		apply.cgi
+		upload.cgi
+Para: 
+	count: 40
+	name:
+		False
+		Loading
+		LoadingBar
+		Settings_
+		TopBanner
+		action1
+		action2
+		action_mode
+		current_page
+		dr_sweet_advise
+		drword
+		file
+		firmver
+		footer
+		form
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		loadingBarBlock
+		loading_text
+		loading_text
+		mainMenu
+		next_page
+		preferred_lang
+		proceeding_img
+		proceeding_img_text
+		productid
+		restoreform
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		uploadbutton
+		wl_gmode_protection_x
+		wl_ssid2
+
+FileName: Advanced_WAdvanced_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WAdvanced_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 63
+	name:
+		APSDCapable
+		DLSCapable
+		HT_OpMode
+		Loading
+		PktAggregate
+		TopBanner
+		TxBurst
+		WAdvTable
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl_ap_isolate
+		wl_bcn
+		wl_dtim
+		wl_frag
+		wl_gmode
+		wl_gmode_protection_x
+		wl_mrate
+		wl_radio_date_x
+		wl_radio_date_x_Fri
+		wl_radio_date_x_Mon
+		wl_radio_date_x_Sat
+		wl_radio_date_x_Sun
+		wl_radio_date_x_Thu
+		wl_radio_date_x_Tue
+		wl_radio_date_x_Wed
+		wl_radio_time_x
+		wl_radio_time_x_endhour
+		wl_radio_time_x_endmin
+		wl_radio_time_x_starthour
+		wl_radio_time_x_startmin
+		wl_radio_x
+		wl_rate
+		wl_rateset
+		wl_rts
+		wl_ssid2
+		wl_wme
+		wl_wme_no_ack
+
+FileName: status.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/status.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: multi_vts_rule.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/multi_vts_rule.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 19
+	name:
+		action_mode
+		action_script
+		current_page
+		first_time
+		group_id
+		hidden_frame2
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		vts_desc_x_0
+		vts_ipaddr_x_0
+		vts_lport_x_0
+		vts_num_x_0
+		vts_port_x_0
+		vts_proto_x_0
+		vts_protono_x_0
+		vtsform
+
+FileName: wantype.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/wantype.asp
+API: 
+	count: 2
+	name:
+		
+		/start_apply2.htm
+Para: 
+	count: 75
+	name:
+		FailOverEnable
+		action_mode
+		action_script
+		apply_tr
+		backupModeDesc
+		current_page
+		disk
+		diskForm
+		enable_failover
+		firmver
+		form
+		group_id
+		hidden_frame
+		lan_ipaddr
+		lan_netmask
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		sid_list
+		sw_mode
+		sw_mode_ex
+		wan1_proto
+		wan_dns1_x
+		wan_dns1_x_tr
+		wan_dns2_x
+		wan_dns2_x_tr
+		wan_dnsenable_x
+		wan_dnsenable_x_tr
+		wan_gateway
+		wan_gateway_tr
+		wan_heartbeat_x
+		wan_heartbeat_x_tr
+		wan_ipaddr
+		wan_ipaddr_tr
+		wan_netmask
+		wan_netmask_tr
+		wan_pppoe_passwd
+		wan_pppoe_passwd_tr
+		wan_pppoe_username
+		wan_pppoe_username_tr
+		wan_proto
+		wan_proto_menu
+		wan_proto_menu_tr
+		wl0_1_auth_mode
+		wl0_1_crypto
+		wl0_1_key
+		wl0_1_key1
+		wl0_1_key2
+		wl0_1_key3
+		wl0_1_key4
+		wl0_1_key_type
+		wl0_1_ssid
+		wl0_1_wep_x
+		wl0_1_wpa_mode
+		wl0_1_wpa_psk
+		wl_auth_mode
+		wl_crypto
+		wl_key
+		wl_key1
+		wl_key2
+		wl_key3
+		wl_key4
+		wl_key_type
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+		wl_wpa_psk
+		wps_enable
+		wsc_config_state
+		x_DHCPClient
+		x_DHCPClient_tr
+		x_Setting
+
+FileName: wan_action.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/wan_action.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 2
+	name:
+		flag
+		redirectForm
+
+FileName: WAN_info.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/WAN_info.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_GWStaticRoute_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_GWStaticRoute_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 41
+	name:
+		GWStatic
+		GWStaticList_Block
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		dr_enable_x
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		mr_enable_x
+		next_host
+		next_page
+		preferred_lang
+		row'+i+'
+		ruleForm
+		sid_list
+		sr_enable_x
+		sr_gateway_x_0
+		sr_if_x_0
+		sr_ipaddr_x_0
+		sr_matric_x_0
+		sr_netmask_x_0
+		sr_num_x_0
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: remote.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/remote.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_APLAN_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_APLAN_Content.asp
+API: 
+	count: 2
+	name:
+		
+		/start_apply.htm
+Para: 
+	count: 41
+	name:
+		False
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		dhcp_end
+		dhcp_start
+		dr_sweet_advise
+		drword
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		lan_gateway
+		lan_gateway
+		lan_ipaddr
+		lan_ipaddr
+		lan_netmask
+		lan_netmask
+		lan_proto_x
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: safely_remove_disk.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/safely_remove_disk.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: diagnose3.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose3.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: UploadError.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/UploadError.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_ACL_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_ACL_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 34
+	name:
+		ACLList
+		ACLList2
+		ACLList_s
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_maclist_x_0
+		wl_macmode
+		wl_macnum_x_0
+		wl_ssid2
+
+FileName: Advanced_APDHCP_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_APDHCP_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 30
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		dhcp_enable_x
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: diagnose20.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose20.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: Advanced_MACFilter_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_MACFilter_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 35
+	name:
+		Loading
+		MFList
+		MFList_s
+		TopBanner
+		UrlList
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		macfilter_enable_x
+		macfilter_list_x_0
+		macfilter_num_x_0
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Main_WStatus_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_WStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 30
+	name:
+		Loading
+		TopBanner
+		WLANConfig11b_WirelessCtrl_button
+		WLANConfig11b_WirelessCtrl_button1
+		action
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Advanced_Wireless_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_Wireless_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply2.htm
+Para: 
+	count: 81
+	name:
+		HT_BW
+		HT_EXTCHA
+		HT_EXTCHA_old
+		Loading
+		TopBanner
+		TxPower
+		action_mode
+		action_script
+		applyButton
+		current_page
+		dr_sweet_advise
+		drword
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		key_des
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl0_1_auth_mode
+		wl0_1_crypto
+		wl0_1_key
+		wl0_1_key1
+		wl0_1_key2
+		wl0_1_key3
+		wl0_1_key4
+		wl0_1_key_type
+		wl0_1_ssid
+		wl0_1_wep_x
+		wl0_1_wpa_mode
+		wl0_1_wpa_psk
+		wl_auth_mode
+		wl_channel
+		wl_closed
+		wl_crypto
+		wl_gmode
+		wl_gmode_check
+		wl_gmode_hint
+		wl_gmode_protection
+		wl_key
+		wl_key1
+		wl_key1_org
+		wl_key2
+		wl_key2_org
+		wl_key3
+		wl_key3_org
+		wl_key4
+		wl_key4_org
+		wl_key_type
+		wl_mode_x
+		wl_phrase_x
+		wl_phrase_x_org
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wme
+		wl_wpa_gtk_rekey
+		wl_wpa_mode
+		wl_wpa_psk
+		wl_wpa_psk_org
+		wps_enable
+		wsc_config_state
+		x_RegulatoryDomain
+
+FileName: Advanced_FirmwareUpgrade_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_FirmwareUpgrade_Content.asp
+API: 
+	count: 1
+	name:
+		upgrade.cgi
+Para: 
+	count: 30
+	name:
+		Loading
+		LoadingBar
+		TopBanner
+		action_mode
+		button
+		current_page
+		dr_sweet_advise
+		drword
+		file
+		firmver
+		footer
+		form
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		loadingBarBlock
+		mainMenu
+		next_page
+		preferred_lang
+		proceeding_img
+		proceeding_img_text
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: ureip.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/ureip.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_System_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_System_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 53
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		alert_msg
+		button
+		chkbox_time_zone_dst
+		current_page
+		dst_end
+		dst_end_d
+		dst_end_h
+		dst_end_m
+		dst_end_w
+		dst_start
+		dst_start_d
+		dst_start_h
+		dst_start_m
+		dst_start_w
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		http_passwd
+		http_passwd2
+		log_ipaddr
+		mainMenu
+		modified
+		next_host
+		next_page
+		ntp_server0
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		time_zone
+		time_zone_dst
+		time_zone_dst_chk
+		time_zone_dstoff
+		timezone_hint
+		v_password2
+		wl_ssid2
+		x_NTPServer1_link
+
+FileName: Main_LogStatus_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_LogStatus_Content.asp
+API: 
+	count: 4
+	name:
+		apply.cgi
+		apply.cgi
+		apply.cgi
+		syslog.cgi
+Para: 
+	count: 41
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		boot_days
+		boot_days
+		boot_hours
+		boot_hours
+		boot_minutes
+		boot_minutes
+		boot_seconds
+		boot_seconds
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		form1
+		form2
+		form3
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		system_time
+		system_time
+		tabMenu
+		wl_ssid2
+
+FileName: diagnose2_2.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose2_2.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		detect
+		failReason
+		flag
+		redirectForm
+
+FileName: diagnose11.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose11.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 4
+	name:
+		Client
+		failReason
+		flag
+		redirectForm
+
+FileName: Main_AdmStatus_Content.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_AdmStatus_Content.asp
+API: 
+	count: 1
+	name:
+		/apply.cgi
+Para: 
+	count: 13
+	name:
+		SystemCmd
+		action
+		action_mode
+		action_script
+		current_page
+		first_time
+		form
+		group_id
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+
+FileName: detectWAN.asp
+FilePath: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/detectWAN.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+

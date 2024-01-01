@@ -1,0 +1,6 @@
+[Param "hostname_check"(0x004265bc), Referenced at sys_script : 0x004124f8] >> 0x00412620 -> system
+Time Elapsed: 4.78300023079
+15 of 219 parameters are referenced
+1 of 219 parameters have way to sink function
+Find 0 new params heuristicly:
+

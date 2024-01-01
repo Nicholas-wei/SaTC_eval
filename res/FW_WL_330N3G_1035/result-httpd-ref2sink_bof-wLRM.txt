@@ -1,0 +1,51 @@
+binary: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+configfile: /home/satc/res/FW_WL_330N3G_1035/ghidra_extract_result/httpd/httpd_ref2sink_bof.result-alter2
+0x42baf8 0x40fbe8   not found
+0x429108 0x40fbe8   not found
+0x42af54 0x40fbe8   not found
+0x42baf8 0x40fbe8   not found
+0x42db94 0x41d3e8   not found
+0x42b974 0x40fbe8   not found
+0x42ab70 0x40fbe8   not found
+0x42bb40 0x40fbe8   not found
+0x42b9a8 0x40fbe8   not found
+0x42bb40 0x40fbe8   not found
+0x42bb18 0x40fbe8   not found
+0x42b204 0x40f670   not found
+0x42bb40 0x40fbe8   not found
+0x429108 0x40fbe8   not found
+0x429108 0x40fbe8   not found
+0x42ddac 0x42488c   not found
+0x42b91c 0x421ecc   not found
+0x42b11c 0x42488c   not found
+0x42b7c0 0x425790   not found
+0x42bb08 0x40fbe8   not found
+0x42b9b8 0x40fbe8   not found
+0x42bba4 0x40fbe8   not found
+0x42ab70 0x40fbe8   not found
+0x42bb40 0x40fbe8   not found
+0x429074 0x40505c   not found
+0x429074 0x405d8c   not found
+0x429074 0x405d8c   not found
+0x42ab70 0x421ecc   not found
+0x429500 0x40505c   not found
+0x42bb40 0x40fbe8   not found
+0x429108 0x4093d4   not found
+0x4323c4 0x42488c   not found
+0x429110 0x40fbe8   not found
+0x429500 0x40505c   not found
+0x42bb40 0x40fbe8   not found
+0x429500 0x40505c   not found
+0x42db94 0x41d3e8   not found
+0x42bb34 0x40fbe8   not found
+0x42ab70 0x40fbe8   not found
+0x429108 0x40fbe8   not found
+0x42bb28 0x40fbe8   not found
+0x429074 0x405d8c   not found
+0x42b988 0x40fbe8   not found
+0x42b7c0 0x425790   not found
+0x429074 0x405d8c   not found
+total cases: 45
+find cases: 0
+binary: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+configfile: /home/satc/res/FW_WL_330N3G_1035/ghidra_extract_result/httpd/httpd_ref2sink_bof.result-alter2

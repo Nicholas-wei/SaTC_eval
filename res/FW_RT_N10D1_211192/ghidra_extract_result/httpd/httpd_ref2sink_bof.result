@@ -1,0 +1,32 @@
+[Param "wl_channel"(0x00426814), Referenced at ej_wl_status : 0x0041eea4] >> 0x0041eed0 -> strcpy
+[Param "wl_channel"(0x00426814), Referenced at ej_wl_status : 0x0041eea4] >> 0x0041ef50 -> strcpy
+[Param "wl_channel"(0x00426814), Referenced at ej_wl_status : 0x0041eea4] >> 0x0041efd0 -> strcpy
+[Param "wl_channel"(0x00426814), Referenced at ej_wl_status : 0x0041eea4] >> 0x0041f050 -> strcpy
+[Param "wan_ipaddr_t"(0x00426424), Referenced at setting_lan : 0x00411b8c] >> 0x00411ba4 -> strcpy
+[Param "wan_ipaddr_t"(0x00426424), Referenced at setting_lan : 0x00411b8c] >> 0x00411c00 -> strcpy
+[Param "wan_ipaddr_t"(0x00426424), Referenced at setting_lan : 0x00411b8c] >> 0x00411dd8 -> strcpy
+[Param "wan_ipaddr_t"(0x00426424), Referenced at setting_lan : 0x00411b8c] >> 0x00411e1c -> strcpy
+[Param "wan_ipaddr_t"(0x00426424), Referenced at setting_lan : 0x00411b8c] >> 0x00411e7c -> strcpy
+[Param "vlan_isp"(0x004257a8), Referenced at discover_all : 0x004225f0] >> 0x00422670 >> strDup >> 0x004212dc -> strcpy
+[Param "vlan_isp"(0x004257a8), Referenced at discover_all : 0x004225f0] >> 0x004226b4 >> read_interface >> 0x00420c48 -> strcpy
+[Param "vlan_isp"(0x004257a8), Referenced at discover_all : 0x004225f0] >> 0x00422724 >> openInterface >> 0x0042241c -> strcpy
+[Param "vlan_isp"(0x004257a8), Referenced at discover_all : 0x004225f0] >> 0x0042281c >> sendPADI >> 0x00421f10 >> sendPacket >> 0x00421af4 -> strcpy
+[Param "vlan_isp"(0x004257a8), Referenced at discover_all : 0x004225f0] >> 0x00422f00 >> strDup >> 0x004212dc -> strcpy
+[Param "vlan_isp"(0x004257a8), Referenced at discover_all : 0x004225f0] >> 0x00422f2c >> read_interface >> 0x00420c48 -> strcpy
+[Param "x_Setting"(0x0042429c), Referenced at main : 0x00406898] >> 0x00406d98 -> strcpy
+[Param "hostname_check"(0x004265bc), Referenced at sys_script : 0x004124f8] >> 0x004125c4 -> strcpy
+[Param "wan_netmask_t"(0x00426434), Referenced at setting_lan : 0x00411be8] >> 0x00411c00 -> strcpy
+[Param "wan_netmask_t"(0x00426434), Referenced at setting_lan : 0x00411be8] >> 0x00411dd8 -> strcpy
+[Param "wan_netmask_t"(0x00426434), Referenced at setting_lan : 0x00411be8] >> 0x00411e1c -> strcpy
+[Param "wan_netmask_t"(0x00426434), Referenced at setting_lan : 0x00411be8] >> 0x00411e7c -> strcpy
+[Param "di_debug"(0x0042483c), Referenced at main : 0x00406454] >> 0x00406d98 -> strcpy
+[Param "di_debug"(0x0042483c), Referenced at main : 0x00406540] >> 0x00406d98 -> strcpy
+[Param "no_internet_detect"(0x00424814), Referenced at main : 0x00406324] >> 0x00406d98 -> strcpy
+[Param "changed_http_passwd"(0x00424420), Referenced at main : 0x00405490] >> 0x004056c4 -> strcpy
+[Param "changed_http_passwd"(0x00424420), Referenced at main : 0x00405490] >> 0x00406d98 -> strcpy
+[Param "sw_mode_ex"(0x00424808), Referenced at main : 0x00406214] >> 0x00406d98 -> strcpy
+Time Elapsed: 5.0039999485
+15 of 219 parameters are referenced
+6 of 219 parameters have way to sink function
+Find 4 new params heuristicly:
+di_debug, no_internet_detect, changed_http_passwd, sw_mode_ex

@@ -1,0 +1,321 @@
+API name : 
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/wantype.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/index.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/hsdpa.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose5.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/start_apply2.htm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/gotoHomePage.htm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/as.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/start_apply.htm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose12.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_APLAN_Content.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/flash
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pppd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/upnpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/ez-ipupdate
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/mtd_write
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/l2tpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/lld2d
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/tcpcheck
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/mii_mgr
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pppoe-relay
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/switch
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pptp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/udhcpc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/networkmap
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/iptables-restore
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/iwpriv
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/nvram
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/ated
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/arpstorm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/rc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/write_smb_conf
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/detectWan_arp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/igmpproxy
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/spiflash
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/test_of_var_files_in_mount_path
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/dnsmasq
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/wanduck
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/sdparm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/usb_modeswitch
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/xfrtest
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/comgt
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/l2tp-control
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/infosvr
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/gpio
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/reg
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/tc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/iptables
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/bpalogin
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/ntpclient
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/spicmd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/initial_var_file
+
+API name : /
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose20.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose11.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/wan_action.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/flash
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pppd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/upnpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/ez-ipupdate
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/mtd_write
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/l2tpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/lld2d
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/tcpcheck
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/mii_mgr
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pppoe-relay
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/switch
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pptp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/udhcpc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/networkmap
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/iptables-restore
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/iwpriv
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/nvram
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/ated
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/arpstorm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/rc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/write_smb_conf
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/detectWan_arp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/igmpproxy
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/spiflash
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/test_of_var_files_in_mount_path
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/dnsmasq
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/wanduck
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/sdparm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/usb_modeswitch
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/xfrtest
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/comgt
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/l2tp-control
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/infosvr
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/gpio
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/reg
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/tc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/iptables
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/bpalogin
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/ntpclient
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/spicmd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/initial_var_file
+
+API name : /apply.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_AdmStatus_Content.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+
+API name : /start_apply.htm
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WWPS_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_MACFilter_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_BasicFirewall_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_DHCP_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WAN_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_Exposed_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/ssid.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_ASUSDDNS_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WMode_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WSecurity_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_LAN_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_URLFilter_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_VirtualServer_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_Firewall_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_PortTrigger_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_WAdvanced_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/diagnose12.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/multi_vts_rule.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_GWStaticRoute_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_APLAN_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_ACL_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_APDHCP_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_System_Content.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+
+API name : /start_apply2.htm
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_Wireless_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/wantype.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/ssid.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/htbw.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/hsdpa.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+
+API name : /wlconn_apply.htm
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/device-map/survey.htm
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+
+API name : UDN
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/upnpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+
+API name : action
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFAWLANConfigSCPD.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/infosvr
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/igmpproxy
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pppd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pptp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/bpalogin
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/ez-ipupdate
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/mtd_write
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/l2tpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/dnsmasq
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/tc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/ated
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/usb_modeswitch
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/rc
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/sdparm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pppoe-relay
+
+API name : apply.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_RouteStatus_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_SettingBackup_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_DHCPStatus_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_LogStatus_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_IPTStatus_Content.asp
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_WStatus_Content.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+
+API name : deviceType
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+
+API name : friendlyName
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/networkmap
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+
+API name : major
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFAWLANConfigSCPD.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/nvram
+
+API name : manufacturer
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/sdparm
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/networkmap
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/usb_modeswitch
+
+API name : manufacturerURL
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+
+API name : minor
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFAWLANConfigSCPD.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/tc
+
+API name : modelDescription
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/networkmap
+
+API name : modelName
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/networkmap
+
+API name : modelNumber
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/networkmap
+
+API name : modelURL
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+
+API name : serialNumber
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+
+API name : serviceList
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFADeviceDesc.xml
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+
+API name : stateVariable
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/etc_ro/xml/WFAWLANConfigSCPD.xml
+	Bin File: 
+
+API name : syslog.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Main_LogStatus_Content.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+
+API name : upgrade.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_FirmwareUpgrade_Content.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+
+API name : upload.cgi
+Source File : 
+	Text File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/www/Advanced_SettingBackup_Content.asp
+	Bin File: 
+		/firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+

@@ -1,0 +1,16 @@
+binary: /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/local/MediaServer/twonkymediaserver
+configfile: /home/satc/res/FW_EA9200_1.1.9.183676/ghidra_extract_result/twonkymediaserver/twonkymediaserver_ref2sink_bof.result-alter2
+0x161bac 0x52e30   not found
+0x161064 0x41520   not found
+0x16c55c 0x486c8   not found
+0x161bc4 0x52e48   not found
+0x1610c4 0x2c14c   not found
+0x161064 0x2c0c4   not found
+0x1610c4 0x54040   not found
+0x161b94 0x52e24   not found
+0x1610c4 0x23b80   not found
+0x1610c4 0x41550   not found
+total cases: 10
+find cases: 0
+binary: /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/local/MediaServer/twonkymediaserver
+configfile: /home/satc/res/FW_EA9200_1.1.9.183676/ghidra_extract_result/twonkymediaserver/twonkymediaserver_ref2sink_bof.result-alter2

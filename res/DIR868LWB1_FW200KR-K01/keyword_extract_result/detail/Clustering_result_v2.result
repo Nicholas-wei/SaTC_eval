@@ -1,0 +1,14 @@
+Program name : /firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/sbin/httpd
+Strings count : 595
+Para + API count : 43
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		rname help Priority file Type absolute RemotePort Auth Interface method Types status string Admin ServerName link Timeout Error path Access name default bytes Accept ignore Connect Allowed left 
+	Number of Para source files: 32
+API: 
+	Hits API count: 15
+	Hits API : 
+		Status  string URL device Auth Priority start Read sec Timeout Interface Name Type name 
+	Number of API source files: 36
+

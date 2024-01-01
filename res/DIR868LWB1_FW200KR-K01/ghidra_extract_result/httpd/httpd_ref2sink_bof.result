@@ -1,0 +1,7 @@
+[Param "default"(0x0001eca8), Referenced at FUN_00013170 : 0x00013454] >> 0x0001347c -> strcpy
+[Param "default"(0x0001eca8), Referenced at FUN_00013170 : 0x00013454] >> 0x00013574 -> strcpy
+Time Elapsed: 0.979000091553
+9 of 28 parameters are referenced
+1 of 28 parameters have way to sink function
+Find 0 new params heuristicly:
+

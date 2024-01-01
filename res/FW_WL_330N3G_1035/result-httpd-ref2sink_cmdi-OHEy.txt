@@ -1,0 +1,6 @@
+binary: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+configfile: /home/satc/res/FW_WL_330N3G_1035/ghidra_extract_result/httpd/httpd_ref2sink_cmdi.result-alter2
+total cases: 0
+find cases: 0
+binary: /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+configfile: /home/satc/res/FW_WL_330N3G_1035/ghidra_extract_result/httpd/httpd_ref2sink_cmdi.result-alter2

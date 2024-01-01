@@ -1,0 +1,1 @@
+info router_disable wl_mode name lan_proto enabled is_default wan_hwaddr wl_sta_retry_time wl_wme lan_dhcp 

@@ -1,0 +1,3256 @@
+FileName: ure_success.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ure_success.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		account_alert
+		clientIP
+		passwd_unchanged
+		remoteIP
+		repeaterIP
+		repeaterIP2
+		title_item
+
+FileName: wlconn_apply_fake.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/wlconn_apply_fake.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: wlconn_apply.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/wlconn_apply.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		connecting_table
+
+FileName: QIS_wizard.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/QIS_wizard.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 44
+	name:
+		Loading
+		QKform
+		action_mode
+		action_script
+		contentM
+		current_page
+		dr_sweet_advise
+		drword
+		flag
+		hiddenMask
+		http_passwd
+		http_username
+		lan_gateway
+		lan_ipaddr
+		lan_netmask
+		lan_proto_x
+		loadingBlock
+		machine_name
+		modified
+		next_page
+		prev_page
+		proceeding_main_txt
+		proceeding_txt
+		redirectForm
+		sid_list
+		sw_mode
+		time_zone
+		vpn_enable
+		wan_dns1_x
+		wan_dns2_x
+		wan_dnsenable_x
+		wan_gateway
+		wan_heartbeat_x
+		wan_hostname
+		wan_hwaddr_x
+		wan_ipaddr
+		wan_nat_x
+		wan_netmask
+		wan_pppoe_passwd
+		wan_pppoe_username
+		wan_proto
+		wan_route_x
+		x_DHCPClient
+		x_Setting
+
+FileName: setting_lan.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/setting_lan.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: start_apply2.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply2.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 2
+	name:
+		flag
+		redirectForm
+
+FileName: start_apply.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/start_apply.htm
+API: 
+	count: 2
+	name:
+		
+		
+Para: 
+	count: 18
+	name:
+		Advanced_APLAN_Content
+		Advanced_LAN_Content
+		Client
+		Loading
+		Microsoft
+		OperationMode
+		auto_way_vpn
+		drword
+		flag
+		hidden
+		hostname_check
+		loadingBlock
+		nodetect
+		prev_page
+		redirectForm
+		restart_ddns
+		set_language
+		waiting
+
+FileName: error_page.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/error_page.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 19
+	name:
+		LoadingBar
+		case1
+		case2
+		case3
+		case4
+		case5
+		case6
+		failReason
+		failReason1
+		loadingBarBlock
+		ppp_input_error
+		ppp_no_response
+		proceeding_action
+		proceeding_img
+		proceeding_img_text
+		selfsetting_link
+		suggestion
+		suggestion_final
+		suggestion_title
+
+FileName: gotoHomePage.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/gotoHomePage.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 4
+	name:
+		Microsoft
+		Netscape
+		Opera
+		Safari
+
+FileName: QIS_autoMAC.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_autoMAC.htm
+API: 
+	count: 2
+	name:
+		
+		
+Para: 
+	count: 11
+	name:
+		Connected
+		flag
+		fresharea
+		img_obj1
+		img_obj2
+		prev_page
+		redirectForm
+		script
+		string_obj1
+		string_obj2
+		tblsetting_1
+
+FileName: QIS_wireless.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_wireless.htm
+API: 
+	count: 2
+	name:
+		
+		/start_apply2.htm
+Para: 
+	count: 31
+	name:
+		False
+		action_mode
+		adv_ap_mode
+		current_page
+		descritpion_tail1
+		descritpion_tail1
+		finish
+		flag
+		flag
+		form
+		group_id
+		hidden_frame
+		navtxt
+		next_page
+		prevButton
+		prevButton
+		prev_page
+		productid
+		sid_list
+		sw_mode
+		wan_nat_x
+		wan_route_x
+		wireless
+		wl_auth_mode
+		wl_crypto
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+		wl_wpa_psk
+		wsc_config_state
+
+FileName: QIS_resetModem2.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem2.htm
+API: 
+	count: 2
+	name:
+		
+		
+Para: 
+	count: 5
+	name:
+		flag
+		fresharea
+		redirectForm
+		string_obj1
+		tblsetting_1
+
+FileName: QIS_internet_isp.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_isp.htm
+API: 
+	count: 2
+	name:
+		
+		/start_apply.htm
+Para: 
+	count: 29
+	name:
+		False
+		action_mode
+		auto_way
+		auto_way_static
+		check_mac
+		current_page
+		flag
+		form
+		navtxt
+		nextButton
+		nextButton
+		next_page
+		prevButton
+		prev_page
+		sid_list
+		tblsetting_1
+		verify_detect
+		wan_dns1_x
+		wan_dns2_x
+		wan_dnsenable_x
+		wan_gateway
+		wan_heartbeat_x
+		wan_hostname
+		wan_hwaddr_x
+		wan_ipaddr
+		wan_netmask
+		wan_proto
+		x_DHCPClient
+		x_Setting
+
+FileName: QIS_internet_ip.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_ip.htm
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 59
+	name:
+		action_mode
+		current_page
+		dhcp_info_radio
+		dns_info_radio
+		dns_info_title
+		dns_sec
+		flag
+		form
+		heartbeat_server
+		ifVPNfield
+		lan_ipaddr
+		lan_netmask
+		navtxt
+		nextButton
+		next_page
+		page_title
+		preferred_lang
+		prevButton
+		prev_page
+		productid
+		showhwaddr
+		showip
+		showserver
+		sid_list
+		sw_mode
+		tblsetting_2
+		tblsetting_4
+		vpn_enable
+		vpn_enable_block
+		wan_dns1_x
+		wan_dns1_x1
+		wan_dns1_x4
+		wan_dns1_x_div
+		wan_dns2_x
+		wan_dns2_x4
+		wan_dns2_x_div
+		wan_dnsenable_x
+		wan_gateway
+		wan_gateway4
+		wan_gateway_div
+		wan_heartbeat_x
+		wan_hostname
+		wan_hwaddr_x
+		wan_ipaddr
+		wan_ipaddr1
+		wan_ipaddr2
+		wan_ipaddr4
+		wan_ipaddr_div
+		wan_nat_x
+		wan_netmask
+		wan_netmask1
+		wan_netmask4
+		wan_netmask_div
+		wan_pppoe_passwd
+		wan_pppoe_username
+		wan_proto
+		wan_route_x
+		x_DHCPClient
+		x_Setting
+
+FileName: QIS_detect2.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect2.htm
+API: 
+	count: 2
+	name:
+		
+		
+Para: 
+	count: 30
+	name:
+		Connected
+		DETECT_TITLE
+		Disconnected
+		False
+		auto_way_pppoe
+		auto_way_static
+		block
+		flag
+		fresharea
+		img_obj1
+		img_obj2
+		img_obj3
+		img_obj4
+		next_page
+		pppoe
+		prev_page
+		redirectForm
+		script
+		skiparea
+		string_obj1
+		string_obj2
+		string_obj3
+		string_obj4
+		tblsetting_1
+		tblsetting_3
+		tr_obj1
+		tr_obj2
+		tr_obj3
+		tr_obj4
+		visible
+
+FileName: QIS_internet_vpn.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_vpn.htm
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 9
+	name:
+		auto_way
+		flag
+		form
+		navtxt
+		nextButton
+		prevButton
+		prev_page
+		wan_heartbeat_x
+		wan_proto
+
+FileName: QIS_internet_type.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_type.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 18
+	name:
+		False
+		applyForm
+		current_page
+		dhcppppoe_sec
+		enable
+		flag
+		next_page
+		pppoe
+		prevButton
+		prevButton
+		prev_page
+		router_mode
+		static
+		tblsetting_2
+		tblsetting_3
+		wan_proto
+		wantype
+		x_WANType
+
+FileName: QIS_resetModem.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_resetModem.htm
+API: 
+	count: 2
+	name:
+		
+		
+Para: 
+	count: 6
+	name:
+		button1
+		flag
+		fresharea
+		redirectForm
+		string_obj1
+		tblsetting_1
+
+FileName: QIS_internet_account.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_account.htm
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 40
+	name:
+		False
+		action_mode
+		auto_way
+		auto_way_pppoe
+		current_page
+		descritpion_tail1
+		descritpion_tail1
+		descritpion_tail2
+		descritpion_tail2
+		flag
+		flag
+		form
+		navtxt
+		nextButton
+		nextButton
+		next_page
+		pppoe
+		preferred_lang
+		prevButton
+		prevButton
+		prev_page
+		sid_list
+		sw_mode
+		tblsetting_1
+		verify_detect
+		wan_dns1_x
+		wan_dns2_x
+		wan_dnsenable_x
+		wan_gateway
+		wan_heartbeat_x
+		wan_ipaddr
+		wan_nat_x
+		wan_netmask
+		wan_pppoe_passwd
+		wan_pppoe_username
+		wan_proto
+		wan_route_x
+		x_DHCPClient
+		x_Setting
+		x_Setting
+
+FileName: QIS_op_mode.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_op_mode.htm
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 15
+	name:
+		Internet_span
+		Senario
+		Unplug-hint
+		action_mode
+		applyForm
+		current_page
+		group_id
+		mode_desc
+		nextButton
+		next_page
+		op_mode
+		prevButton
+		prev_page
+		sid_list
+		sw_mode
+
+FileName: QIS_detect.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detect.htm
+API: 
+	count: 5
+	name:
+		
+		
+		/result_of_get_changed_status_QIS.asp
+		/result_of_get_changed_status_QIS.asp
+		/start_apply.htm
+Para: 
+	count: 33
+	name:
+		Connected
+		DETECT_TITLE
+		Disconnected
+		False
+		action_mode
+		auto_way
+		auto_way_pppoe
+		auto_way_static
+		block
+		current_page
+		detect
+		detectForm
+		flag
+		fresharea
+		next_page
+		pppoe
+		preferred_lang
+		prev_page
+		proceeding_times
+		redirectForm
+		script
+		sid_list
+		skiparea
+		static
+		tblsetting_1
+		tblsetting_2
+		tblsetting_3
+		verify_detect
+		visible
+		wan_dnsenable_x
+		wan_proto
+		x_DHCPClient
+		x_Setting
+
+FileName: QIS_internet_success.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_internet_success.htm
+API: 
+	count: 3
+	name:
+		
+		
+		/start_apply.htm
+Para: 
+	count: 38
+	name:
+		False
+		Microsoft
+		action_mode
+		current_page
+		detect
+		dhcp_wrong_
+		fail_to_connect
+		fail_to_connect
+		flag
+		flag
+		hidden_frame
+		hidden_frame
+		l2tp_wrong_
+		l2tp_wrong_input
+		li_of_wireless
+		li_of_wireless
+		link_id
+		link_id
+		link_reason
+		link_reason
+		link_str
+		link_str
+		next_page
+		pppoe
+		pppoe_wrong_
+		pppoe_wrong_input
+		pptp_wrong_
+		pptp_wrong_input
+		resultForm
+		sid_list
+		static_wrong_
+		succeed_to_connect
+		succeed_to_connect
+		tblsetting_1
+		title_item
+		title_item
+		x_Setting
+		x_Setting
+
+FileName: QIS_finish.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_finish.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 27
+	name:
+		account
+		account_alert
+		account_item
+		form
+		key2
+		key2_block
+		key2_item
+		lanip
+		lanip_item
+		mac_item
+		passwd_unchanged
+		password
+		password_item
+		security2
+		security2_block
+		security_item2
+		ssid2_block
+		ssid_2
+		ssid_2_item
+		tblsetting_1
+		title_item
+		wanip
+		wanip_item
+		wantype
+		wantype_item
+		wl_ssid2
+		wl_wpa_psk
+
+FileName: QIS_detectWAN.htm
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/qis/QIS_detectWAN.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 21
+	name:
+		flag
+		fresharea
+		img_obj1
+		img_obj2
+		img_obj3
+		img_obj4
+		img_obj5
+		prev_page
+		redirectForm
+		string_obj1
+		string_obj2
+		string_obj3
+		string_obj4
+		string_obj5
+		tblsetting_1
+		tr_obj1
+		tr_obj2
+		tr_obj3
+		tr_obj4
+		tr_obj5
+		verify_time
+
+FileName: Advanced_LAN_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_LAN_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 41
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		dhcp_end
+		dhcp_start
+		dr_sweet_advise
+		drword
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		lan_ipaddr
+		lan_netmask
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_gateway
+		wan_ipaddr
+		wan_ipaddr_t
+		wan_netmask
+		wan_netmask_t
+		wan_proto
+		wl_ssid2
+
+FileName: Nologin.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Nologin.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		formname
+		logined_ip_str
+
+FileName: diagnose3.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose3.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: result_of_get_changed_status_QIS.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/result_of_get_changed_status_QIS.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: OperationMode.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/OperationMode.asp
+API: 
+	count: 3
+	name:
+		/QIS_wizard.htm
+		/start_apply.htm
+		/start_apply.htm
+Para: 
+	count: 46
+	name:
+		Internet_span
+		Loading
+		Senario
+		TopBanner
+		Unplug-hint
+		action_mode
+		ap-line
+		button
+		clsid:D27CDB6E-AE6D-11cf-96B8-444553540000
+		current_page
+		dr_sweet_advise
+		drword
+		firmver
+		flag
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		lan_ipaddr
+		mainMenu
+		mode_desc
+		modified
+		movie
+		next_page
+		preferred_lang
+		prev_page
+		productid
+		quality
+		radio1
+		radio2
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		sw_mode
+		switch_hint
+		tabMenu
+		wl_ssid2
+		wmode
+
+FileName: diagnose11.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose11.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		Client
+		failReason
+		flag
+		redirectForm
+
+FileName: Advanced_URLFilter_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_URLFilter_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 48
+	name:
+		Loading
+		TopBanner
+		UrlList
+		UrlList_s
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		url_date_x
+		url_date_x_Fri
+		url_date_x_Mon
+		url_date_x_Sat
+		url_date_x_Sun
+		url_date_x_Thu
+		url_date_x_Tue
+		url_date_x_Wed
+		url_enable_x
+		url_keyword_x_0
+		url_num_x_0
+		url_time
+		url_time_x
+		url_time_x_endhour
+		url_time_x_endmin
+		url_time_x_starthour
+		url_time_x_startmin
+		wl_ssid2
+
+FileName: diagnose30.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose30.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: result_of_get_changed_status.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/result_of_get_changed_status.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WPS_info.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/WPS_info.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Main_AdmStatus_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_AdmStatus_Content.asp
+API: 
+	count: 1
+	name:
+		/apply.cgi
+Para: 
+	count: 13
+	name:
+		SystemCmd
+		action
+		action_mode
+		action_script
+		current_page
+		first_time
+		form
+		group_id
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+
+FileName: diagnose12.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose12.asp
+API: 
+	count: 2
+	name:
+		
+		/start_apply.htm
+Para: 
+	count: 9
+	name:
+		Client
+		action_script
+		current_page
+		failReason
+		flag
+		form
+		next_page
+		redirectForm
+		refreshForm
+
+FileName: Advanced_ASUSDDNS_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ASUSDDNS_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 42
+	name:
+		Hostname_Note
+		LANHostConfig_x_DDNSHostnameCheck_button
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		ddns_enable_x
+		ddns_hostname_x
+		ddns_passwd_x
+		ddns_server_x
+		ddns_username_x
+		ddns_wildcard_x
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		link
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl_gmode_protection_x
+		wl_ssid2
+		x_DDNSServer_link
+
+FileName: wan_action.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/wan_action.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 2
+	name:
+		flag
+		redirectForm
+
+FileName: Main_IPTStatus_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_IPTStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 28
+	name:
+		Loading
+		TopBanner
+		action
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Updating.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Updating.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		hidden
+		hiddenMask
+
+FileName: aplist.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/aplist.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: diagnose2_1.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_1.asp
+API: 
+	count: 1
+	name:
+		/QIS_wizard.htm
+Para: 
+	count: 5
+	name:
+		detect
+		failReason
+		flag
+		pppoe
+		redirectForm
+
+FileName: status.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/status.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_WAdvanced_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAdvanced_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 61
+	name:
+		Loading
+		TopBanner
+		WAdvTable
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl_ap_isolate
+		wl_bcn
+		wl_dtim
+		wl_frag
+		wl_frameburst
+		wl_gmode
+		wl_gmode_protection_x
+		wl_mimo_preamble
+		wl_mrate
+		wl_plcphdr
+		wl_radio_date_x
+		wl_radio_date_x_Fri
+		wl_radio_date_x_Mon
+		wl_radio_date_x_Sat
+		wl_radio_date_x_Sun
+		wl_radio_date_x_Thu
+		wl_radio_date_x_Tue
+		wl_radio_date_x_Wed
+		wl_radio_time_x
+		wl_radio_time_x_endhour
+		wl_radio_time_x_endmin
+		wl_radio_time_x_starthour
+		wl_radio_time_x_startmin
+		wl_radio_x
+		wl_rateset
+		wl_rts
+		wl_ssid2
+		wl_wme
+		wl_wme_no_ack
+		wl_wmf_bss_enable
+
+FileName: Advanced_GWStaticRoute_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_GWStaticRoute_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 41
+	name:
+		GWStatic
+		GWStaticList_Block
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		dr_enable_x
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		mr_enable_x
+		next_host
+		next_page
+		preferred_lang
+		row'+i+'
+		ruleForm
+		sid_list
+		sr_enable_x
+		sr_gateway_x_0
+		sr_if_x_0
+		sr_ipaddr_x_0
+		sr_matric_x_0
+		sr_netmask_x_0
+		sr_num_x_0
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Restarting.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Restarting.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 3
+	name:
+		Microsoft
+		drword
+		waiting
+
+FileName: ureip.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ureip.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_SettingBackup_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_SettingBackup_Content.asp
+API: 
+	count: 3
+	name:
+		
+		apply.cgi
+		upload.cgi
+Para: 
+	count: 39
+	name:
+		False
+		Loading
+		LoadingBar
+		TopBanner
+		action1
+		action2
+		action_mode
+		current_page
+		dr_sweet_advise
+		drword
+		file
+		firmver
+		footer
+		form
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		loadingBarBlock
+		loading_text
+		loading_text
+		mainMenu
+		next_page
+		preferred_lang
+		proceeding_img
+		proceeding_img_text
+		productid
+		restoreform
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		uploadbutton
+		wl_gmode_protection_x
+		wl_ssid2
+
+FileName: diagnose10.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose10.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 4
+	name:
+		Client
+		failReason
+		flag
+		redirectForm
+
+FileName: WAN_info.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/WAN_info.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: diagnose4.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose4.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		failReason
+
+FileName: Logout.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Logout.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Uploading.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Uploading.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_Firewall_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Firewall_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 57
+	name:
+		LWFilterList
+		LWFilterList2
+		LWFilterList_s
+		LWKnownApps
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		filter_lw_date_x
+		filter_lw_date_x_Fri
+		filter_lw_date_x_Mon
+		filter_lw_date_x_Sat
+		filter_lw_date_x_Sun
+		filter_lw_date_x_Thu
+		filter_lw_date_x_Tue
+		filter_lw_date_x_Wed
+		filter_lw_default_x
+		filter_lw_dstip_x_0
+		filter_lw_dstport_x_0
+		filter_lw_icmp_x
+		filter_lw_num_x_0
+		filter_lw_proto_x_0
+		filter_lw_srcip_x_0
+		filter_lw_srcport_x_0
+		filter_lw_time_x
+		filter_lw_time_x_endhour
+		filter_lw_time_x_endmin
+		filter_lw_time_x_starthour
+		filter_lw_time_x_startmin
+		firmver
+		first_time
+		footer
+		form
+		fw_lw_enable_x
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		timezone_hint
+		wl_ssid2
+
+FileName: Advanced_System_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_System_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 51
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		alert_msg
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		http_passwd
+		http_passwd2
+		log_ipaddr
+		mainMenu
+		modified
+		next_host
+		next_page
+		ntp_server0
+		preferred_lang
+		productid
+		reboot_date_x_Fri
+		reboot_date_x_Mon
+		reboot_date_x_Sat
+		reboot_date_x_Sun
+		reboot_date_x_Thu
+		reboot_date_x_Tue
+		reboot_date_x_Wed
+		reboot_schedule
+		reboot_schedule_enable
+		reboot_schedule_field
+		reboot_time_x_hour
+		reboot_time_x_min
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		time_zone
+		timezone_hint
+		v_password2
+		wl_ssid2
+		x_NTPServer1_link
+
+FileName: clients.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/clients.asp
+API: 
+	count: 3
+	name:
+		/start_apply.htm
+		/start_apply.htm
+		/start_apply.htm
+Para: 
+	count: 35
+	name:
+		Clients_table
+		False
+		LoadingBar
+		MFList_s
+		action_mode
+		action_script
+		alert_block
+		applyClient
+		applyFrame
+		blockedClients_table
+		current_page
+		flag
+		form
+		group_id
+		loadingBarBlock
+		loadingBarBlock
+		macFilterHint
+		macfilterForm
+		macfilter_enable_x
+		macfilter_list_x_0
+		modified
+		navtxt
+		next_page
+		onload
+		qosForm
+		qos_ip_x_0
+		qos_port_x_0
+		qos_prio_x_0
+		qos_service_name_x_0
+		refreshForm
+		refresh_list
+		sid_list
+		unBlockedClients_table
+		xClients_table
+		x_USRRuleList_s
+
+FileName: Advanced_WMode_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WMode_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 40
+	name:
+		Loading
+		RBRList
+		RBRList2
+		RBRList_s
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl_channel
+		wl_mode_x
+		wl_ssid2
+		wl_wdsapply_x
+		wl_wdslist_x_0
+		wl_wdsnum_x_0
+		x_RegulatoryDomain
+
+FileName: Advanced_VirtualServer_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_VirtualServer_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 47
+	name:
+		ClientList_Block
+		FTP_desc
+		KnownApps
+		KnownGames
+		Loading
+		TopBanner
+		VSGameList
+		VSList
+		VSList2
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		port_ftp
+		preferred_lang
+		productid
+		pull_arrow
+		row'+i+'
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		vts_desc_x_0
+		vts_enable_x
+		vts_ipaddr_x_0
+		vts_lport_x_0
+		vts_num_x_0
+		vts_port_x_0
+		vts_proto_x_0
+		vts_protono_x_0
+		wl_ssid2
+
+FileName: survey.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/survey.asp
+API: 
+	count: 2
+	name:
+		wlconn_apply.htm
+		wlconn_apply_fake.htm
+Para: 
+	count: 68
+	name:
+		KeyPanelTitle
+		LoadingBox
+		LoadingBox_mask
+		STA_CHANNEL
+		SearchingBox_mask
+		Survey_mask
+		URE_SSID
+		URE_SSID5G
+		action_mode
+		action_script
+		alert_msg
+		aplist_table
+		back_btn
+		btn_next
+		btn_submit
+		connect_btn
+		connecting_table
+		content_mask
+		current_page
+		form
+		group_id
+		ha_ssid
+		hidden_frame
+		keyindex_input_field
+		modified
+		navtxt
+		next_host
+		next_page
+		password
+		password_input_field
+		proceeding_txt
+		proceeding_txt_connecting
+		pwdcheck_input_field
+		r_Setting
+		refresh_btn
+		restoreform
+		show_sta_ssid
+		sid_list
+		ssid_input_field
+		sta_auth_mode
+		sta_bssid
+		sta_check_ha
+		sta_crypto
+		sta_encryption
+		sta_key
+		sta_key1
+		sta_key2
+		sta_key3
+		sta_key4
+		sta_key_index
+		sta_ssid
+		sta_ssid_field
+		sta_wep_x
+		sta_wpa_mode
+		sta_wpa_psk
+		sw_mode
+		ui_triggered
+		ure_ssid_input_field
+		ure_ssid_input_field5G
+		waitLoading
+		waitLoadingTable
+		wait_img_accepted
+		wait_img_connecting
+		wait_img_warning
+		warningBox
+		wep_auth_mode
+		wep_auth_mode_field
+		wl_key_table
+
+FileName: Main_WStatus_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_WStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 28
+	name:
+		Loading
+		TopBanner
+		action
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: EZQoS.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/EZQoS.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 38
+	name:
+		Loading
+		TopBanner
+		action_mode
+		aidisk
+		aidisk_btn
+		current_page
+		detect_qos_ubw
+		firmver
+		footer
+		form
+		game
+		game_btn
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		internet
+		internet_btn
+		mainMenu
+		next_page
+		preferred_lang
+		qos_manual_ubw
+		qosbox
+		qosdespblock
+		qosenableblock
+		qospipe
+		sid_list
+		statusframe
+		streaming
+		streaming_btn
+		subMenu
+		tabMenu
+		ubw_method
+		wl_ssid2
+
+FileName: diagnose5.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose5.asp
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 5
+	name:
+		desc_str
+		desc_str
+		failReason
+		sug_code
+		sug_code
+
+FileName: detectWAN2.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/detectWAN2.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: upnp.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/upnp.asp
+API: 
+	count: 2
+	name:
+		
+		/start_apply.htm
+Para: 
+	count: 41
+	name:
+		Loading
+		TopBanner
+		UPnPstatus
+		UPnPstatus
+		action_mode
+		action_script
+		applyUPnP
+		applyUPnP
+		apps_dms
+		block
+		current_page
+		firmver
+		flag
+		footer
+		form
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		mediaserverForm
+		nodetect
+		preferred_lang
+		sid_list
+		ssid_acsii
+		statusframe
+		statusframe
+		subMenu
+		tabMenu
+		updateUPnP
+		updateUPnP
+		update_UPnP
+		update_upnp
+		upnptype1
+		upnptype1
+		upnptype2
+		upnptype2
+		ushare_comp_mode
+
+FileName: remote.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/remote.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Main_RouteStatus_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_RouteStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 28
+	name:
+		Loading
+		TopBanner
+		action
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Advanced_APLAN_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_APLAN_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 37
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		dhcp_end
+		dhcp_start
+		dr_sweet_advise
+		drword
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		lan_gateway
+		lan_ipaddr
+		lan_netmask
+		lan_proto_x
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Main_DHCPStatus_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_DHCPStatus_Content.asp
+API: 
+	count: 1
+	name:
+		apply.cgi
+Para: 
+	count: 28
+	name:
+		Loading
+		TopBanner
+		action
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: index.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/index.asp
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 45
+	name:
+		Client
+		Dr_body
+		Internet
+		Loading
+		NM_router
+		OverlayMask
+		TopBanner
+		clientNumber
+		clientStatusLink
+		current_page
+		dr_sweet_advise
+		drword
+		firmver
+		footer
+		form
+		helpname
+		hiddenMask
+		hidden_frame
+		iconClient
+		iconInternet
+		iconRemote
+		iconRouter
+		ifconnect
+		ifconnect_re
+		iflock
+		internetStatus
+		mainMenu
+		navtxt
+		overDiv
+		popupframe
+		preferred_lang
+		statusContainer
+		statusIcon
+		statusframe
+		statusframe
+		subMenu
+		tabMenu
+		wan_link_obj
+		wl_auth_mode
+		wl_crypto
+		wl_securitylevel_key_mode
+		wl_securitylevel_span
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+
+FileName: ParentalControl.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ParentalControl.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 60
+	name:
+		ClientList_Block_PC
+		LWFilterList
+		Loading
+		MULTIFILTER_DEVICENAME
+		MULTIFILTER_ENABLE
+		MULTIFILTER_LANTOWAN_DESC
+		MULTIFILTER_LANTOWAN_ENABLE
+		MULTIFILTER_LANTOWAN_PORT
+		MULTIFILTER_LANTOWAN_PROTO
+		MULTIFILTER_MAC
+		MULTIFILTER_MACFILTER_DAYTIME
+		PC_devicename
+		PC_mac
+		ParentalCtrlblock
+		TopBanner
+		action_mode
+		ctrlBtn
+		current_page
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		lantowanTable_table
+		lantowan_port
+		lantowan_proto
+		lantowan_service
+		mainMenu
+		mainTable
+		mainTable_table
+		newrule_Enable
+		newrule_lantowan_Enable
+		next_page
+		preferred_lang
+		pull_arrow
+		row'+i+'
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		timezone_hint
+		url_date_x_Fri
+		url_date_x_Mon
+		url_date_x_Sat
+		url_date_x_Sun
+		url_date_x_Thu
+		url_date_x_Tue
+		url_date_x_Wed
+		url_time
+		url_time_x_endhour
+		url_time_x_endmin
+		url_time_x_starthour
+		url_time_x_startmin
+		wl_ssid2
+
+FileName: UpdateError.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/UpdateError.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		hidden
+		hiddenMask
+
+FileName: router.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/router.asp
+API: 
+	count: 3
+	name:
+		/start_apply.htm
+		/start_apply.htm
+		/start_apply2.htm
+Para: 
+	count: 95
+	name:
+		Add-SSID-btn
+		BAND2G-title
+		BAND5G-title
+		Connstatus
+		LANIP
+		MSSIDList_Block
+		PINCode
+		Router_domore
+		WPSForm
+		WPS_PBCbutton_hint_span
+		action_mode
+		action_script
+		applySecurity
+		apply_tr
+		auth_mode
+		closed
+		crypto
+		current_page
+		flag
+		form
+		group_id
+		hidden_frame
+		key1
+		key2
+		key3
+		key4
+		mbss1_ssid2
+		mbss2_ssid2
+		mbss3_ssid2
+		mbss_closed0
+		mbss_closed1
+		mssid_arrow
+		mssid_closed_tr
+		mssid_network
+		mssid_network_tr
+		mssid_option
+		mssid_qos_tr
+		next_page
+		nolan
+		nowan
+		other_ssid1
+		other_ssid2
+		other_ssid3
+		pbc_overlap
+		priority
+		productid
+		remoteIP_span
+		remoteIP_tr
+		remote_page
+		rowid_radio_onoff
+		saveSecurity
+		sid_list
+		ssid
+		ssid_check
+		ssid_check0
+		ssid_input
+		sta_asuskey1
+		sta_default_wpa_psk_key
+		sta_wpa_psk
+		stopPINForm
+		toolbar-td
+		toolbar-th
+		wep_x
+		wireless_speed_mode
+		wl_asuskey1
+		wl_auth_mode
+		wl_crypto
+		wl_default_wpa_psk_key
+		wl_gmode
+		wl_gmode_protection
+		wl_key
+		wl_key1
+		wl_key1_org
+		wl_key2
+		wl_key2_org
+		wl_key3
+		wl_key3_org
+		wl_key4
+		wl_key4_org
+		wl_key_type
+		wl_nbw_cap
+		wl_radio_x
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+		wl_wpa_psk
+		wl_wpa_psk_org
+		wpsPBC_button
+		wps_config_command
+		wps_config_state
+		wps_method
+		wps_mode
+		wps_pbc_force
+		wps_pbc_tr
+
+FileName: diagnose1.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose1.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		failReason
+
+FileName: Advanced_MACFilter_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_MACFilter_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 35
+	name:
+		Loading
+		MFList
+		MFList_s
+		TopBanner
+		UrlList
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		macfilter_enable_x
+		macfilter_list_x_0
+		macfilter_num_x_0
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Advanced_WSecurity_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WSecurity_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 31
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_radius_ipaddr
+		wl_radius_key
+		wl_radius_port
+		wl_ssid2
+
+FileName: Advanced_ACL_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_ACL_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 34
+	name:
+		ACLList
+		ACLList2
+		ACLList_s
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_maclist_x_0
+		wl_macmode
+		wl_macnum_x_0
+		wl_ssid2
+
+FileName: Advanced_WAN_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WAN_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 71
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		internet_prio
+		internet_vid
+		iptv_prio
+		iptv_vid
+		lan_ipaddr
+		lan_netmask
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		rowid_wan_pppoe_idletime
+		ruleForm
+		selectedISP
+		sid_list
+		statusframe
+		subMenu
+		support_cdma
+		tabMenu
+		upnp_enable
+		vlan_isp
+		voip_prio
+		voip_vid
+		wan_dns1_x
+		wan_dns2_x
+		wan_dnsenable_x
+		wan_gateway
+		wan_heartbeat_x
+		wan_hostname
+		wan_hwaddr_x
+		wan_internet_x
+		wan_ipaddr
+		wan_iptv_port4_x
+		wan_iptv_x
+		wan_netmask
+		wan_pppoe_ac
+		wan_pppoe_idletime
+		wan_pppoe_idletime_check
+		wan_pppoe_mru
+		wan_pppoe_mtu
+		wan_pppoe_options_x
+		wan_pppoe_passwd
+		wan_pppoe_relay_x
+		wan_pppoe_service
+		wan_pppoe_txonly_x
+		wan_pppoe_username
+		wan_pptp_options_x
+		wan_proto
+		wan_stb_x
+		wan_voip_port3_x
+		wan_voip_x
+		wl_ssid2
+		x_DHCPClient
+
+FileName: UploadError.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/UploadError.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: remote.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/remote.asp
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 7
+	name:
+		Connstatus
+		Connstatus
+		pointer
+		remoteIP_span
+		remoteIP_span
+		remoteIP_tr
+		remoteIP_tr
+
+FileName: internet.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/internet.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 11
+	name:
+		DNS1
+		DNS2
+		WANIP
+		connectbutton_link
+		connectbutton_nolink
+		connectionType
+		connectstatus
+		domore
+		gateway
+		internetForm
+		wan_status
+
+FileName: Advanced_WWPS_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_WWPS_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 46
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		addEnrolleebtn
+		current_page
+		devicePIN
+		devicePIN_name
+		devicePIN_tr
+		enableWPSbtn
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		pin_tr
+		preferred_lang
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_auth_mode
+		wl_ssid2
+		wl_wep_x
+		wpsPIN_name
+		wps_client_role
+		wps_config_command
+		wps_config_state
+		wps_method
+		wps_mode
+		wps_mode_hint
+		wps_mode_word
+		wps_sta_pin
+		wps_state_td
+
+FileName: Advanced_FirmwareUpgrade_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_FirmwareUpgrade_Content.asp
+API: 
+	count: 1
+	name:
+		upgrade.cgi
+Para: 
+	count: 30
+	name:
+		Loading
+		LoadingBar
+		TopBanner
+		action_mode
+		button
+		current_page
+		dr_sweet_advise
+		drword
+		file
+		firmver
+		footer
+		form
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		loadingBarBlock
+		mainMenu
+		next_page
+		preferred_lang
+		proceeding_img
+		proceeding_img_text
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: add-mssid.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/add-mssid.asp
+API: 
+	count: 2
+	name:
+		
+		/start_apply2.htm
+Para: 
+	count: 76
+	name:
+		Enable_ssid_tr
+		False
+		OverlayMask
+		SSID_profile
+		SnapAP
+		Submit
+		action_mode
+		add_mssid_form
+		add_mssid_form
+		all_related_wep
+		all_wep_key
+		auth_mode
+		closed
+		crypto
+		current_page
+		enabled
+		flag
+		form
+		group_id
+		guest
+		hidden_frame
+		key1
+		key2
+		key3
+		key4
+		key_des
+		mbss1_ssid2
+		mbss2_ssid2
+		mbss3_ssid2
+		mbss_closed0
+		mbss_closed1
+		mbss_enable0
+		mbss_enable1
+		mssid
+		mssid_closed_tr
+		mssid_network
+		mssid_network_tr
+		mssid_qos_tr
+		mssid_time
+		next_page
+		nolan
+		nowan
+		priority
+		productid
+		radius
+		shared
+		sid_list
+		ssid
+		ssid2_mbss1
+		ssid2_mbss2
+		ssid2_mbss3
+		wep_x
+		wl_asuskey1
+		wl_auth_mode
+		wl_crypto
+		wl_crypto
+		wl_gmode
+		wl_key
+		wl_key1
+		wl_key1_org
+		wl_key2
+		wl_key2_org
+		wl_key3
+		wl_key3_org
+		wl_key4
+		wl_key4_org
+		wl_key_type
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wpa_mode
+		wl_wpa_psk
+		wl_wpa_psk
+		wl_wpa_psk_org
+		wpa_mode
+		wpa_psk
+
+FileName: detectWAN.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/detectWAN.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Advanced_PortTrigger_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_PortTrigger_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 41
+	name:
+		Loading
+		TopBanner
+		TriggerKnownApps
+		TriggerList
+		TriggerList2
+		TriggerList_Block
+		action_mode
+		action_script
+		autofw_desc_x_0
+		autofw_enable_x
+		autofw_inport_x_0
+		autofw_inproto_x_0
+		autofw_num_x_0
+		autofw_outport_x_0
+		autofw_outproto_x_0
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		row'+i+'
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: diagnose21.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose21.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: Advanced_QOSUserSpec_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_QOSUserSpec_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 46
+	name:
+		BMUSerSpec_Block
+		Loading
+		TopBanner
+		TriggerList
+		action_mode
+		action_script
+		button
+		current_page
+		detect_qos_ubw
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		qos_dfragment_enable
+		qos_dfragment_enable_w
+		qos_dfragment_size
+		qos_enable
+		qos_global_enable
+		qos_ip_x_0
+		qos_manual_ubw
+		qos_port_x_0
+		qos_rule_w
+		qos_rulenum_x_0
+		qos_service_name_x_0
+		qos_shortpkt_prio
+		row'+i+'
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+		x_USRRuleList2
+
+FileName: diagnose20.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose20.asp
+API: 
+	count: 1
+	name:
+		/
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: diagnose2_2.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose2_2.asp
+API: 
+	count: 1
+	name:
+		/QIS_wizard.htm
+Para: 
+	count: 4
+	name:
+		detect
+		failReason
+		flag
+		redirectForm
+
+FileName: automac.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/automac.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: diagnose40.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/diagnose40.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		failReason
+		flag
+		redirectForm
+
+FileName: Advanced_BasicFirewall_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_BasicFirewall_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 36
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		fw_dos_x
+		fw_enable_x
+		fw_log_x
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		misc_http_x
+		misc_httpport_x
+		misc_ping_x
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Main_LogStatus_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Main_LogStatus_Content.asp
+API: 
+	count: 4
+	name:
+		apply.cgi
+		apply.cgi
+		apply.cgi
+		syslog.cgi
+Para: 
+	count: 41
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		boot_days
+		boot_days
+		boot_hours
+		boot_hours
+		boot_minutes
+		boot_minutes
+		boot_seconds
+		boot_seconds
+		current_page
+		firmver
+		first_time
+		footer
+		form
+		form1
+		form2
+		form3
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		sid_list
+		statusframe
+		subMenu
+		system_time
+		system_time
+		tabMenu
+		wl_ssid2
+
+FileName: Advanced_Wireless_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Wireless_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply2.htm
+Para: 
+	count: 68
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		applyButton
+		current_page
+		dr_sweet_advise
+		drword
+		firmver
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hiddenMask
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		key_des
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wan_nat_x
+		wan_route_x
+		wl_auth_mode
+		wl_channel
+		wl_closed
+		wl_country_code
+		wl_crypto
+		wl_gmode
+		wl_gmode_check
+		wl_gmode_hint
+		wl_gmode_protection_x
+		wl_key
+		wl_key1
+		wl_key1_org
+		wl_key2
+		wl_key2_org
+		wl_key3
+		wl_key3_org
+		wl_key4
+		wl_key4_org
+		wl_key_type
+		wl_mode_x
+		wl_nbw
+		wl_nbw_cap
+		wl_phrase_x
+		wl_phrase_x_org
+		wl_ssid
+		wl_ssid2
+		wl_wep_x
+		wl_wme
+		wl_wpa_gtk_rekey
+		wl_wpa_mode
+		wl_wpa_psk
+		wl_wpa_psk_org
+		wps_config_state
+		wps_mode
+		x_RegulatoryDomain
+
+FileName: Advanced_Exposed_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_Exposed_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 31
+	name:
+		Loading
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		dmz_ip
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: Advanced_DHCP_Content.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/Advanced_DHCP_Content.asp
+API: 
+	count: 1
+	name:
+		/start_apply.htm
+Para: 
+	count: 48
+	name:
+		GWStatic
+		Loading
+		ManualDHCPList
+		ManualDHCPList2
+		ManualDHCPList_s
+		TopBanner
+		action_mode
+		action_script
+		button
+		current_page
+		dhcp_dns1_x
+		dhcp_enable_x
+		dhcp_end
+		dhcp_gateway_x
+		dhcp_lease
+		dhcp_start
+		dhcp_static_x
+		dhcp_staticip_x_0
+		dhcp_staticmac_x_0
+		dhcp_staticnum_x_0
+		dhcp_wins_x
+		firmver
+		first_time
+		footer
+		form
+		group_id
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		lan_domain
+		lan_ipaddr
+		lan_netmask
+		mainMenu
+		modified
+		next_host
+		next_page
+		preferred_lang
+		productid
+		ruleForm
+		sid_list
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: printer.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/device-map/printer.asp
+API: 
+	count: 2
+	name:
+		
+		/start_apply.htm
+Para: 
+	count: 13
+	name:
+		Update
+		action_mode
+		action_script
+		current_page
+		form
+		mfp_monopolize
+		modified
+		next_page
+		preferred_lang
+		printerModel
+		printerModel
+		printerStatus
+		productid
+
+FileName: as.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/as.asp
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 20
+	name:
+		Loading
+		TopBanner
+		firmver
+		footer
+		form
+		help_td
+		helpicon
+		helpname
+		hidden_frame
+		hint_body
+		hint_form
+		hintofPM
+		mainMenu
+		menu_body
+		menu_body
+		preferred_lang
+		statusframe
+		subMenu
+		tabMenu
+		wl_ssid2
+
+FileName: ajax_ddnscode.asp
+FilePath: /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root/www/ajax_ddnscode.asp
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+

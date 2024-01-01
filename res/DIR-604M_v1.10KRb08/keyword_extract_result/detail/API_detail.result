@@ -1,0 +1,382 @@
+API name : ../../nvramul.cgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/rc
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/acsd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/udhcpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/gpio_check
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igmp
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nvram
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/lld2d
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/httpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/ntpclient
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/wl
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nas
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/inadyn
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppoecd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/vconfig
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/redirectd
+
+API name : ../apply.cgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/rc
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/acsd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/udhcpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/gpio_check
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igmp
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nvram
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/lld2d
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/httpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/ntpclient
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/wl
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nas
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/inadyn
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppoecd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/vconfig
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/redirectd
+
+API name : ../nvramdl.cgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/rc
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/acsd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/udhcpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/gpio_check
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igmp
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nvram
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/lld2d
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/httpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/ntpclient
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/wl
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nas
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/inadyn
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppoecd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/vconfig
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/redirectd
+
+API name : ../upgrade.cgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/rc
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/acsd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/udhcpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/gpio_check
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igmp
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nvram
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/lld2d
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/httpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/ntpclient
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/wl
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nas
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/inadyn
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppoecd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/vconfig
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/redirectd
+
+API name : /rssui/public/checkuser.xgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rssui/public/login.asp
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+
+API name : UDN
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+
+API name : UPC
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : action
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvpictureSCPD.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcontrolSCPD.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/rc
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/acsd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/xmldb
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/hotplug2
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/nas
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pptpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/mode_led_blink
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/wl
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/httpd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/inadyn
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppoecd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/redirectd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pptpctrl
+
+API name : deviceType
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+
+API name : friendlyName
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+
+API name : login.cgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login1.html
+	Bin File: 
+
+API name : major
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvpictureSCPD.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcontrolSCPD.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : manufacturer
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : manufacturerURL
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : minor
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvpictureSCPD.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcontrolSCPD.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : modelDescription
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : modelName
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : modelNumber
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : modelURL
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : presentationURL
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+
+API name : rssset.xgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssset_test.asp
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssset.asp
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+
+API name : rssset_cloning.xgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssset_apcloning_test.asp
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+
+API name : rssvarset_commit.xgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/rsstest/rssvarset_test.asp
+	Bin File: 
+
+API name : serialNumber
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+
+API name : serviceList
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcombodesc.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_plus_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc_550a.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvdevicedesc.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+
+API name : stateVariable
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvpictureSCPD.xml
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/etc/onelink-upnp/web/tvcontrolSCPD.xml
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+
+API name : upgrade.cgi
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+	Bin File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/rc
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/httpd
+

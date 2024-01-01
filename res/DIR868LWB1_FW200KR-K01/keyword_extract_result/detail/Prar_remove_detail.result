@@ -1,0 +1,1810 @@
+Prar name : Advanced
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : AlertPopBody
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : AlertPopRect
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : COPYRIGHT
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/index.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileHome.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileMydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileUpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileGuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileWiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileInternet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/EULA.html
+	Bin File: 
+
+Prar name : CreatePopAlertMessage
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : Delete
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/folder_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : DetectRouterConnection
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : Disabled
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+	Bin File: 
+
+Prar name : ERROR
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileUpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : Enabled
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetSMBStatus.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMultipleSSID.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetUSBStorageSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetVpnSettingsAlpha.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetAPClientSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMulticastSnooping.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMultipleActions.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetVirtualServerSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetDLNA.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMyDLinkSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetStaticRouteIPv4Settings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetRedirectSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetPortForwardingSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetFacebookWiFiSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetWLanRadioSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetWLanRadioSecurity.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMACFilters2.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetDynamicDNSSettings.xml
+	Bin File: 
+
+Prar name : False
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/doc.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/photo.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Index.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/IndexHome.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileGuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/folder_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileWiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/movie.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileInternet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/music.php
+	Bin File: 
+
+Prar name : FunctionName
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : GetMultipleHNAPs
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : GetValue
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/header.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+	Bin File: 
+
+Prar name : GetXML
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : Get_Help
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : Loading_pop_image2
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+	Bin File: 
+
+Prar name : Name
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetStaticRouteIPv6Settings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetStaticRouteIPv4Settings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv4FirewallSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv6FirewallSettings.xml
+	Bin File: 
+
+Prar name : Password
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileWiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/index.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetAddStorageUser.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMyDLinkSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileMydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetDelStorageUser.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetStorageUsers.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileGuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetInternetProfileAlpha.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetWanSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetDynamicDNSSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetVpnSettingsAlpha.xml
+	Bin File: 
+
+Prar name : REBOOT
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+	Bin File: 
+
+Prar name : RadioID
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetWLanRadioSecurity.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/GetSiteSurvey.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMultipleActions.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/GetAPClientSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMultipleSSID.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetTriggerWirelessSiteSurvey.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/GetWLanRadioSecurity.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/GetWLanRadioSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileHome.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetWirelessMode.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetOperationMode.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetAPClientSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetWLanRadioSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/GetMultipleSSID.xml
+	Bin File: 
+
+Prar name : Save_Disable_btn
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : Save_btn
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : Schedule
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv4FirewallSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv6FirewallSettings.xml
+	Bin File: 
+
+Prar name : Status
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetMACFilters2.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv6IngressFiltering.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetStaticRouteIPv6Settings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetDynamicDNSIPv6Settings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv6SimpleSecurity.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv4FirewallSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetIPv6FirewallSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+	Bin File: 
+
+Prar name : Username
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetDeviceSettings2.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetDynamicDNSSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetVpnSettingsAlpha.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/SetWanSettings.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/hnap/Login.xml
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/index.php
+	Bin File: 
+
+Prar name : attach
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : block
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileMydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileUpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileGuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileWiFi.html
+	Bin File: 
+
+Prar name : checkbox_off
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+	Bin File: 
+
+Prar name : checkbox_on
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+	Bin File: 
+
+Prar name : class
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : className
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : closeCreatePopBtn
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : content
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/index.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/blockedPage.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/EULA.html
+	Bin File: 
+
+Prar name : copyright
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileHome.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileMydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileUpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileGuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileWiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileInternet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/EULA.html
+	Bin File: 
+
+Prar name : detach
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : dialog_msg_black2
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+	Bin File: 
+
+Prar name : directions
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : disabled
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileInternet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+	Bin File: 
+
+Prar name : false
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/index.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileMydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileUpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : footer
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/doc.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/index.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/photo.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/folder_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/movie.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/category_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/EULA.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/music.php
+	Bin File: 
+
+Prar name : funcBar
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : header
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/doc.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/photo.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/folder_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/movie.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/category_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/music.php
+	Bin File: 
+
+Prar name : info
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : inline
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/MobileInternet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : input
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+	Bin File: 
+
+Prar name : main
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : menu
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : menu_Advanced
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : menu_edge
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : networkStatus
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : pagePath
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : page_btn
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+	Bin File: 
+
+Prar name : reciprocal_Number
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : rightFunc
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : save_td
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+	Bin File: 
+
+Prar name : styled_button_dis
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+	Bin File: 
+
+Prar name : styled_button_s
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/MobileLogin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+	Bin File: 
+
+Prar name : sumbit_CheckData
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : waitSettingFinish
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+	Bin File: 
+
+Prar name : wallimage
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+	Bin File: 
+
+Prar name : wrapper
+Source File : 
+	Text File: 
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard_Manual.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Statistics.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware_Fail.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort_CreateUser.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/doc.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Wizard.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/index.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/DynamicDNS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WebsiteFilter.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Home_Demo.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SharePort.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRoute.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Time.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Admin.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Schedule.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/photo.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/QoS.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/WiFi.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv4.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/System.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/blockedPage.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/UpdateFirmware.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Firewall_IPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/StaticRouteIPv6.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/SystemLog.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/VirtualServer.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Network.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/folder_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_ProAdd.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/category_view.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PPTPVPN.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/PortForwarding.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Internet_Pro.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/Mydlink.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/movie.php
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/Login.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/GuestZone.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/info/EULA.html
+		/firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/htdocs/web/webaccess/music.php
+	Bin File: 
+

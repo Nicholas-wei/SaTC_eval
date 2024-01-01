@@ -1,0 +1,6 @@
+binary: /firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/sbin/httpd
+configfile: /home/satc/res/DIR868LWB1_FW200KR-K01/ghidra_extract_result/httpd/httpd_ref2sink_cmdi.result-alter2
+total cases: 0
+find cases: 0
+binary: /firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/sbin/httpd
+configfile: /home/satc/res/DIR868LWB1_FW200KR-K01/ghidra_extract_result/httpd/httpd_ref2sink_cmdi.result-alter2

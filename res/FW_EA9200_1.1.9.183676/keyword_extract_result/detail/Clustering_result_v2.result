@@ -1,0 +1,1456 @@
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/local/MediaServer/twonkymediaserver
+Strings count : 6938
+Para + API count : 133
+Para: 
+	Hits Para count: 109
+	Hits Para : 
+		restore protocol contentdir mute video/quicktime REGISTERED disabled keywords pointer imageItem uploadInfo cache failed detected Sink photo hidden sent updated egal stop aggregation util scheduler friendlyname logfile advanced errorCode videoItem success mediabrowser upload ignore continue cdkey searching remoteaccessflash Source video portalpage dtcpMove mirror clientautoenable stopserver port nicrestart retry network accesspwd filename waiting VALIDATED remoteaccess video/titleindex rendererlist resetclients pause media-server manufacturer sending logging language audioItem shuffle scantime PORTMAPPING cancel message serverlist select support submit music volume httpport info none /usr/home default clients value FAILURE home upnp contents transcoding httpremoteport picture/keywords hostname dyndns details friendlyName events rmautoshare play object aggmode suppressmenu connected aggregate video/genre compilationsdir failure clear accessuser callback bgtrans model defaultview 
+	Number of Para source files: 56
+API: 
+	Hits API count: 24
+	Hits API : 
+		major jnap stateVariable get_nmc_version rpc renderer log_getfile action container /renderer igd GetProtocolInfoResponse nodes minor core /server log_clear nmc rss setup configpage server get_nmc_mode debug 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/local/MediaServer/twonkymediaserver
+Strings count : 6938
+Para + API count : 133
+Para: 
+	Hits Para count: 109
+	Hits Para : 
+		restore protocol contentdir mute video/quicktime REGISTERED disabled keywords pointer imageItem uploadInfo cache failed detected Sink photo hidden sent updated egal stop aggregation util scheduler friendlyname logfile advanced errorCode videoItem success mediabrowser upload ignore continue cdkey searching remoteaccessflash Source video portalpage dtcpMove mirror clientautoenable stopserver port nicrestart retry network accesspwd filename waiting VALIDATED remoteaccess video/titleindex rendererlist resetclients pause media-server manufacturer sending logging language audioItem shuffle scantime PORTMAPPING cancel message serverlist select support submit music volume httpport info none /usr/home default clients value FAILURE home upnp contents transcoding httpremoteport picture/keywords hostname dyndns details friendlyName events rmautoshare play object aggmode suppressmenu connected aggregate video/genre compilationsdir failure clear accessuser callback bgtrans model defaultview 
+	Number of Para source files: 56
+API: 
+	Hits API count: 24
+	Hits API : 
+		major jnap stateVariable get_nmc_version rpc renderer log_getfile action container /renderer igd GetProtocolInfoResponse nodes minor core /server log_clear nmc rss setup configpage server get_nmc_mode debug 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/smbd
+Strings count : 9214
+Para + API count : 85
+Para: 
+	Hits Para count: 66
+	Hits Para : 
+		restore hostname protocol logs mute outgoing disabled Source default sharing home cancel logo message label pointer port select blocked retry checked network FAILURE support cache administration submit filename failed waiting details basic dhcp hidden events sent play updated egal consume object stop searching volume failure pause connected logging placeholder advanced info sending none incoming /usr/home device_list visible admin clear success value ignore callback continue DHCP security 
+	Number of Para source files: 70
+API: 
+	Hits API count: 19
+	Hits API : 
+		core major container jnap /server setup get_nmc_version debug server log_clear rpc igd nmc log_getfile get_nmc_mode action nodes minor rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/smbd
+Strings count : 9214
+Para + API count : 85
+Para: 
+	Hits Para count: 66
+	Hits Para : 
+		restore hostname protocol logs mute outgoing disabled Source default sharing home cancel logo message label pointer port select blocked retry checked network FAILURE support cache administration submit filename failed waiting details basic dhcp hidden events sent play updated egal consume object stop searching volume failure pause connected logging placeholder advanced info sending none incoming /usr/home device_list visible admin clear success value ignore callback continue DHCP security 
+	Number of Para source files: 70
+API: 
+	Hits API count: 19
+	Hits API : 
+		core major container jnap /server setup get_nmc_version debug server log_clear rpc igd nmc log_getfile get_nmc_mode action nodes minor rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/wl
+Strings count : 5091
+Para + API count : 74
+Para: 
+	Hits Para count: 57
+	Hits Para : 
+		restore protocol logs bssid scantime video/quicktime updated band5 disabled Source repeat video filters mirror home message label port contents wireless retry ssid support cache filename failed detected select basic details events sent play video/titleindex egal vlan stop util failure management Unconfigured scheduler aggregate video/genre network info sending none success /usr/home default clear clients value ignore cisco security 
+	Number of Para source files: 48
+API: 
+	Hits API count: 17
+	Hits API : 
+		core jnap /server setup get_nmc_version debug server log_clear rpc igd renderer nmc log_getfile get_nmc_mode action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/wl
+Strings count : 5091
+Para + API count : 74
+Para: 
+	Hits Para count: 57
+	Hits Para : 
+		restore protocol logs bssid scantime video/quicktime updated band5 disabled Source repeat video filters mirror home message label port contents wireless retry ssid support cache filename failed detected select basic details events sent play video/titleindex egal vlan stop util failure management Unconfigured scheduler aggregate video/genre network info sending none success /usr/home default clear clients value ignore cisco security 
+	Number of Para source files: 48
+API: 
+	Hits API count: 17
+	Hits API : 
+		core jnap /server setup get_nmc_version debug server log_clear rpc igd renderer nmc log_getfile get_nmc_mode action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/bin/gpg
+Strings count : 3921
+Para + API count : 57
+Para: 
+	Hits Para count: 47
+	Hits Para : 
+		restore protocol photo play disabled serial-number cancel home message port select retry checked network confirm support cache detected filename failed waiting details hidden override-session sent updated repeat stop searching util pause logfile model advanced info sending none logging /usr/home default clear value ignore FAILURE continue security playing 
+	Number of Para source files: 36
+API: 
+	Hits API count: 10
+	Hits API : 
+		core jnap /server setup server debug nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/bin/gpg
+Strings count : 3921
+Para + API count : 57
+Para: 
+	Hits Para count: 47
+	Hits Para : 
+		restore protocol photo play disabled serial-number cancel home message port select retry checked network confirm support cache detected filename failed waiting details hidden override-session sent updated repeat stop searching util pause logfile model advanced info sending none logging /usr/home default clear value ignore FAILURE continue security playing 
+	Number of Para source files: 36
+API: 
+	Hits API count: 10
+	Hits API : 
+		core jnap /server setup server debug nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/dhclient
+Strings count : 2197
+Para + API count : 52
+Para: 
+	Hits Para count: 44
+	Hits Para : 
+		hostname protocol consume play ftp-server cancel home message pointer port contents retry network support cache submit filename failed detected select dhcp events sent updated egal object server-address failure connected ddns aggregate info sending none incoming success /usr/home default clear clients value ignore continue DHCP 
+	Number of Para source files: 36
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap /server server debug nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/dhclient
+Strings count : 2197
+Para + API count : 52
+Para: 
+	Hits Para count: 44
+	Hits Para : 
+		hostname protocol consume play ftp-server cancel home message pointer port contents retry network support cache submit filename failed detected select dhcp events sent updated egal object server-address failure connected ddns aggregate info sending none incoming success /usr/home default clear clients value ignore continue DHCP 
+	Number of Para source files: 36
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap /server server debug nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/pppd
+Strings count : 2452
+Para + API count : 51
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		restore protocol getlog disabled Source Master filters logo message port select retry network FAILURE support hostname detected gateway failed waiting details hidden sent egal sending vlan failure connected logfile info Bridge none logging success default clear value ignore callback continue PPPoE 
+	Number of Para source files: 40
+API: 
+	Hits API count: 10
+	Hits API : 
+		core major jnap /server server debug nmc action minor rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/pppd
+Strings count : 2452
+Para + API count : 51
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		restore protocol getlog disabled Source Master filters logo message port select retry network FAILURE support hostname detected gateway failed waiting details hidden sent egal sending vlan failure connected logfile info Bridge none logging success default clear value ignore callback continue PPPoE 
+	Number of Para source files: 40
+API: 
+	Hits API count: 10
+	Hits API : 
+		core major jnap /server server debug nmc action minor rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/bin/openssl
+Strings count : 4276
+Para + API count : 47
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		pause hostname protocol play cancel message label port select retry checked contents FAILURE support cache filename failed details basic sent updated egal object util failure management info none success default clear serialNumber value ignore callback security 
+	Number of Para source files: 28
+API: 
+	Hits API count: 11
+	Hits API : 
+		core jnap /server setup server rpc igd nmc debug nodes rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/bin/openssl
+Strings count : 4276
+Para + API count : 47
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		pause hostname protocol play cancel message label port select retry checked contents FAILURE support cache filename failed details basic sent updated egal object util failure management info none success default clear serialNumber value ignore callback security 
+	Number of Para source files: 28
+API: 
+	Hits API count: 11
+	Hits API : 
+		core jnap /server setup server rpc igd nmc debug nodes rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/stunnel
+Strings count : 1420
+Para + API count : 44
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		protocol firewall play disabled message port contents retry checked network support cache detected filename failed waiting select basic events sent updated egal util failure connected info sending none logging success default clear clients value ignore callback 
+	Number of Para source files: 30
+API: 
+	Hits API count: 8
+	Hits API : 
+		jnap /server setup server nmc debug nodes rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/stunnel
+Strings count : 1420
+Para + API count : 44
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		protocol firewall play disabled message port contents retry checked network support cache detected filename failed waiting select basic events sent updated egal util failure connected info sending none logging success default clear clients value ignore callback 
+	Number of Para source files: 30
+API: 
+	Hits API count: 8
+	Hits API : 
+		jnap /server setup server nmc debug nodes rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/dnsmasq
+Strings count : 855
+Para + API count : 40
+Para: 
+	Hits Para count: 33
+	Hits Para : 
+		hostname cisco disabled repeat home message port select retry network support cache filename failed detected dhcp sent play egal stop ftp-server ip-addr info sending none logging /usr/home default clear clients ignore DHCP security 
+	Number of Para source files: 30
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server action nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/dnsmasq
+Strings count : 855
+Para + API count : 40
+Para: 
+	Hits Para count: 33
+	Hits Para : 
+		hostname cisco disabled repeat home message port select retry network support cache filename failed detected dhcp sent play egal stop ftp-server ip-addr info sending none logging /usr/home default clear clients ignore DHCP security 
+	Number of Para source files: 30
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server action nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/zebra
+Strings count : 1101
+Para + API count : 35
+Para: 
+	Hits Para count: 29
+	Hits Para : 
+		protocol disabled Source router-address cancel home message port select management label failed detected gateway events sent play egal connected info sending none /usr/home default clients value ignore Static DHCP 
+	Number of Para source files: 30
+API: 
+	Hits API count: 6
+	Hits API : 
+		jnap /server server nmc debug rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/zebra
+Strings count : 1101
+Para + API count : 35
+Para: 
+	Hits Para count: 29
+	Hits Para : 
+		protocol disabled Source router-address cancel home message port select management label failed detected gateway events sent play egal connected info sending none /usr/home default clients value ignore Static DHCP 
+	Number of Para source files: 30
+API: 
+	Hits API count: 6
+	Hits API : 
+		jnap /server server nmc debug rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/devidentd
+Strings count : 538
+Para + API count : 36
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		message upnp firmwareVersion retry cache failed detected friendlyName dhcp sent updated Logging object device-info X-JNAP-Action failure manufacturer info Bridge success ipv6Address serialNumber value deviceID DHCP model operatingSystem 
+	Number of Para source files: 28
+API: 
+	Hits API count: 9
+	Hits API : 
+		core major jnap setup debug firmwareupdate action nodes minor 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/devidentd
+Strings count : 538
+Para + API count : 36
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		message upnp firmwareVersion retry cache failed detected friendlyName dhcp sent updated Logging object device-info X-JNAP-Action failure manufacturer info Bridge success ipv6Address serialNumber value deviceID DHCP model operatingSystem 
+	Number of Para source files: 28
+API: 
+	Hits API count: 9
+	Hits API : 
+		core major jnap setup debug firmwareupdate action nodes minor 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/mdnsd
+Strings count : 634
+Para + API count : 39
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		hostname protocol disabled cancel message pointer port select retry network confirm support cache label failed sent egal object stop failure info sending success default ignore callback Static 
+	Number of Para source files: 28
+API: 
+	Hits API count: 12
+	Hits API : 
+		core jnap /server setup server debug rpc igd nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/mdnsd
+Strings count : 634
+Para + API count : 39
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		hostname protocol disabled cancel message pointer port select retry network confirm support cache label failed sent egal object stop failure info sending success default ignore callback Static 
+	Number of Para source files: 28
+API: 
+	Hits API count: 12
+	Hits API : 
+		core jnap /server setup server debug rpc igd nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/dhd
+Strings count : 841
+Para + API count : 34
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		logs disabled message pointer upnp retry network support filename port failed detected dhcp sent play stop failure info sending logging default clear upload value ignore continue 
+	Number of Para source files: 26
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap /server server debug nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/dhd
+Strings count : 841
+Para + API count : 34
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		logs disabled message pointer upnp retry network support filename port failed detected dhcp sent play stop failure info sending logging default clear upload value ignore continue 
+	Number of Para source files: 26
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap /server server debug nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/pptp
+Strings count : 447
+Para + API count : 33
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		logs outgoing message gateway select management network callback support hostname port default waiting details sent play PPTP util pause info sending failed loglevel value ignore admin 
+	Number of Para source files: 28
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server action nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/pptp
+Strings count : 447
+Para + API count : 33
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		logs outgoing message gateway select management network callback support hostname port default waiting details sent play PPTP util pause info sending failed loglevel value ignore admin 
+	Number of Para source files: 28
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server action nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/ip
+Strings count : 1762
+Para + API count : 28
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		restore protocol play home message label port select network support cache filename failed details dhcp updated egal vlan util connected info sending none /usr/home default value security 
+	Number of Para source files: 30
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/ip
+Strings count : 1762
+Para + API count : 28
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		restore protocol play home message label port select network support cache filename failed details dhcp updated egal vlan util connected info sending none /usr/home default value security 
+	Number of Para source files: 30
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/lighttpd
+Strings count : 1301
+Para + API count : 35
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		protocol disabled port select network support cache filename failed events play object stop ip-addr logfile info sending language default clear upload value ignore callback continue 
+	Number of Para source files: 28
+API: 
+	Hits API count: 10
+	Hits API : 
+		core jnap /server setup server debug nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/lighttpd
+Strings count : 1301
+Para + API count : 35
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		protocol disabled port select network support cache filename failed events play object stop ip-addr logfile info sending language default clear upload value ignore callback continue 
+	Number of Para source files: 28
+API: 
+	Hits API count: 10
+	Hits API : 
+		core jnap /server setup server debug nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/chkntfs
+Strings count : 814
+Para + API count : 26
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		restore protocol mirror cancel message port checked network support label failed detected play egal object stop volume connected info none success default value continue security 
+	Number of Para source files: 26
+API: 
+	Hits API count: 1
+	Hits API : 
+		minor 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/chkntfs
+Strings count : 814
+Para + API count : 26
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		restore protocol mirror cancel message port checked network support label failed detected play egal object stop volume connected info none success default value continue security 
+	Number of Para source files: 26
+API: 
+	Hits API count: 1
+	Hits API : 
+		minor 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/nmbd
+Strings count : 1154
+Para + API count : 36
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		logs Source Master home logo message port select support cache failed waiting sent stop failure logfile info sending logging success /usr/home default clear clients security 
+	Number of Para source files: 34
+API: 
+	Hits API count: 11
+	Hits API : 
+		core major jnap /server setup server nmc debug nodes minor rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/nmbd
+Strings count : 1154
+Para + API count : 36
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		logs Source Master home logo message port select support cache failed waiting sent stop failure logfile info sending logging success /usr/home default clear clients security 
+	Number of Para source files: 34
+API: 
+	Hits API count: 11
+	Hits API : 
+		core major jnap /server setup server nmc debug nodes minor rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/local/sbin/vsftpd
+Strings count : 1173
+Para + API count : 32
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		protocol disabled message pointer port select network support filename failed sent egal util failure connected security info success clients upload value ignore callback model 
+	Number of Para source files: 34
+API: 
+	Hits API count: 8
+	Hits API : 
+		jnap /server server action renderer nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/local/sbin/vsftpd
+Strings count : 1173
+Para + API count : 32
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		protocol disabled message pointer port select network support filename failed sent egal util failure connected security info success clients upload value ignore callback model 
+	Number of Para source files: 34
+API: 
+	Hits API count: 8
+	Hits API : 
+		jnap /server server action renderer nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/ripd
+Strings count : 740
+Para + API count : 26
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		protocol play disabled Source cancel message port network support failed basic events sent outgoing stop failure connected info incoming success default value ignore Static 
+	Number of Para source files: 28
+API: 
+	Hits API count: 2
+	Hits API : 
+		debug jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/ripd
+Strings count : 740
+Para + API count : 26
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		protocol play disabled Source cancel message port network support failed basic events sent outgoing stop failure connected info incoming success default value ignore Static 
+	Number of Para source files: 28
+API: 
+	Hits API count: 2
+	Hits API : 
+		debug jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/bin/guardian
+Strings count : 743
+Para + API count : 29
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		info wireless egal failed mute firewall hostname stop util value disabled callback detected pause cache scheduler dhcp message port default blocked 
+	Number of Para source files: 38
+API: 
+	Hits API count: 8
+	Hits API : 
+		jnap /server setup server nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/bin/guardian
+Strings count : 743
+Para + API count : 29
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		info wireless egal failed mute firewall hostname stop util value disabled callback detected pause cache scheduler dhcp message port default blocked 
+	Number of Para source files: 38
+API: 
+	Hits API count: 8
+	Hits API : 
+		jnap /server setup server nmc action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/ez-ipupdate
+Strings count : 502
+Para + API count : 27
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		info default play cache success failed admin support hostname submit failure waiting retry dyndns value connected select port sent blocked 
+	Number of Para source files: 34
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server action nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/ez-ipupdate
+Strings count : 502
+Para + API count : 27
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		info default play cache success failed admin support hostname submit failure waiting retry dyndns value connected select port sent blocked 
+	Number of Para source files: 34
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server action nmc debug rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/IGD
+Strings count : 345
+Para + API count : 23
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		info Bridge PPPoE mute PPTP support hostname value port ignore model Static Unconfigured L2TP cancel DHCP message connected upnp manufacturer 
+	Number of Para source files: 24
+API: 
+	Hits API count: 3
+	Hits API : 
+		action major minor 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/IGD
+Strings count : 345
+Para + API count : 23
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		info Bridge PPPoE mute PPTP support hostname value port ignore model Static Unconfigured L2TP cancel DHCP message connected upnp manufacturer 
+	Number of Para source files: 24
+API: 
+	Hits API count: 3
+	Hits API : 
+		action major minor 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/bsd
+Strings count : 839
+Para + API count : 33
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		info sending video/titleindex retry checked ssid bssid failure default video/quicktime clear message value util failed detected video select video/genre port sent 
+	Number of Para source files: 26
+API: 
+	Hits API count: 12
+	Hits API : 
+		core jnap get_nmc_version server log_clear rpc igd nmc log_getfile get_nmc_mode rss renderer 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/bsd
+Strings count : 839
+Para + API count : 33
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		info sending video/titleindex retry checked ssid bssid failure default video/quicktime clear message value util failed detected video select video/genre port sent 
+	Number of Para source files: 26
+API: 
+	Hits API count: 12
+	Hits API : 
+		core jnap get_nmc_version server log_clear rpc igd nmc log_getfile get_nmc_mode rss renderer 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/tc
+Strings count : 1157
+Para + API count : 25
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info none egal protocol ssid success default support value filename util failed continue details message label port sent 
+	Number of Para source files: 30
+API: 
+	Hits API count: 7
+	Hits API : 
+		core jnap setup debug action nodes minor 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/chkhfs
+Strings count : 997
+Para + API count : 22
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info restore none egal protocol network success default support object play volume failed connected cancel checked message port 
+	Number of Para source files: 22
+API: 
+	Hits API count: 4
+	Hits API : 
+		nodes setup minor jnap 
+	Number of API source files: 48
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/acsd
+Strings count : 678
+Para + API count : 26
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info sending success failed default support stop value events disabled failure continue restore select connected message port sent 
+	Number of Para source files: 24
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap server debug renderer nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/tc
+Strings count : 1157
+Para + API count : 25
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info none egal protocol ssid success default support value filename util failed continue details message label port sent 
+	Number of Para source files: 30
+API: 
+	Hits API count: 7
+	Hits API : 
+		core jnap setup debug action nodes minor 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/chkhfs
+Strings count : 997
+Para + API count : 22
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info restore none egal protocol network success default support object play volume failed connected cancel checked message port 
+	Number of Para source files: 22
+API: 
+	Hits API count: 4
+	Hits API : 
+		nodes setup minor jnap 
+	Number of API source files: 48
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/acsd
+Strings count : 678
+Para + API count : 26
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info sending success failed default support stop value events disabled failure continue restore select connected message port sent 
+	Number of Para source files: 24
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap server debug renderer nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/wps_monitor
+Strings count : 614
+Para + API count : 22
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info restore vlan ssid bssid failed default broadcom stop success object port disabled FAILURE cancel model upnp select 
+	Number of Para source files: 30
+API: 
+	Hits API count: 4
+	Hits API : 
+		action major stateVariable minor 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/wps_monitor
+Strings count : 614
+Para + API count : 22
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info restore vlan ssid bssid failed default broadcom stop success object port disabled FAILURE cancel model upnp select 
+	Number of Para source files: 30
+API: 
+	Hits API count: 4
+	Hits API : 
+		action major stateVariable minor 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/l2tpd
+Strings count : 515
+Para + API count : 20
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		info outgoing protocol network failed default support hostname stop value port callback select incoming hidden message sent 
+	Number of Para source files: 18
+API: 
+	Hits API count: 3
+	Hits API : 
+		debug action jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/l2tpd
+Strings count : 515
+Para + API count : 20
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		info outgoing protocol network failed default support hostname stop value port callback select incoming hidden message sent 
+	Number of Para source files: 18
+API: 
+	Hits API count: 3
+	Hits API : 
+		debug action jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/fwupd
+Strings count : 487
+Para + API count : 23
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		info updated Flash checked failed success mute serialNumber filename callback details basic cancel model pointer select 
+	Number of Para source files: 24
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server nmc firmwareupdate debug rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/fwupd
+Strings count : 487
+Para + API count : 23
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		info updated Flash checked failed success mute serialNumber filename callback details basic cancel model pointer select 
+	Number of Para source files: 24
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server server nmc firmwareupdate debug rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/ipv4_firewall
+Strings count : 698
+Para + API count : 23
+Para: 
+	Hits Para count: 19
+	Hits Para : 
+		info restore video/titleindex default protocol network httpport firewall video/quicktime stop none port disabled admin detected video Static security video/genre 
+	Number of Para source files: 24
+API: 
+	Hits API count: 4
+	Hits API : 
+		debug nodes setup jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/ipv4_firewall
+Strings count : 698
+Para + API count : 23
+Para: 
+	Hits Para count: 19
+	Hits Para : 
+		info restore video/titleindex default protocol network httpport firewall video/quicktime stop none port disabled admin detected video Static security video/genre 
+	Number of Para source files: 24
+API: 
+	Hits API count: 4
+	Hits API : 
+		debug nodes setup jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/parted
+Strings count : 459
+Para + API count : 20
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info play egal failure default object searching value label Source continue details message port select 
+	Number of Para source files: 20
+API: 
+	Hits API count: 5
+	Hits API : 
+		debug action nodes setup jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/parted
+Strings count : 459
+Para + API count : 20
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info play egal failure default object searching value label Source continue details message port select 
+	Number of Para source files: 20
+API: 
+	Hits API count: 5
+	Hits API : 
+		debug action nodes setup jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/dhcp6s
+Strings count : 301
+Para + API count : 19
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info play protocol confirm loglevel clear support value failed detected failure dhcp message port select 
+	Number of Para source files: 20
+API: 
+	Hits API count: 4
+	Hits API : 
+		/server rss nmc server 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/syseventd
+Strings count : 403
+Para + API count : 18
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info logging mute failure clients stop detected value ignore failed waiting select message port sent 
+	Number of Para source files: 18
+API: 
+	Hits API count: 3
+	Hits API : 
+		debug action jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/dhcp6s
+Strings count : 301
+Para + API count : 19
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info play protocol confirm loglevel clear support value failed detected failure dhcp message port select 
+	Number of Para source files: 20
+API: 
+	Hits API count: 4
+	Hits API : 
+		/server rss nmc server 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/syseventd
+Strings count : 403
+Para + API count : 18
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info logging mute failure clients stop detected value ignore failed waiting select message port sent 
+	Number of Para source files: 18
+API: 
+	Hits API count: 3
+	Hits API : 
+		debug action jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/local/sbin/pptpctrl
+Strings count : 209
+Para + API count : 17
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		info retry logs /usr/home admin clear support PPTP util failed waiting home message port select network 
+	Number of Para source files: 26
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/local/sbin/pptpctrl
+Strings count : 209
+Para + API count : 17
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		info retry logs /usr/home admin clear support PPTP util failed waiting home message port select network 
+	Number of Para source files: 26
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/wmon
+Strings count : 230
+Para + API count : 19
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		info protocol PPPoE default stop events failed select L2TP dhcp message gateway firewall PPTP 
+	Number of Para source files: 18
+API: 
+	Hits API count: 5
+	Hits API : 
+		action /server rss nmc server 
+	Number of API source files: 48
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/wmon
+Strings count : 230
+Para + API count : 19
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		info protocol PPPoE default stop events failed select L2TP dhcp message gateway firewall PPTP 
+	Number of Para source files: 18
+API: 
+	Hits API count: 5
+	Hits API : 
+		action /server rss nmc server 
+	Number of API source files: 48
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/lld2d
+Strings count : 234
+Para + API count : 16
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		info wireless egal protocol ssid bssid Sink value ignore failed pause select sent network 
+	Number of Para source files: 30
+API: 
+	Hits API count: 2
+	Hits API : 
+		debug jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/lld2d
+Strings count : 234
+Para + API count : 16
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		info wireless egal protocol ssid bssid Sink value ignore failed pause select sent network 
+	Number of Para source files: 30
+API: 
+	Hits API count: 2
+	Hits API : 
+		debug jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/radvd
+Strings count : 412
+Para + API count : 21
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		info sending clear logging default support none value disabled failed logfile port select 
+	Number of Para source files: 16
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap /server server debug nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/radvd
+Strings count : 412
+Para + API count : 21
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		info sending clear logging default support none value disabled failed logfile port select 
+	Number of Para source files: 16
+API: 
+	Hits API count: 8
+	Hits API : 
+		core jnap /server server debug nmc action rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/pppoe
+Strings count : 247
+Para + API count : 19
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		info outgoing egal incoming Source default value filename failed waiting message PPPoE select 
+	Number of Para source files: 18
+API: 
+	Hits API count: 6
+	Hits API : 
+		jnap /server server nmc debug rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/pppoe
+Strings count : 247
+Para + API count : 19
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		info outgoing egal incoming Source default value filename failed waiting message PPPoE select 
+	Number of Para source files: 18
+API: 
+	Hits API count: 6
+	Hits API : 
+		jnap /server server nmc debug rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/udevadm
+Strings count : 423
+Para + API count : 18
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		info none retry network stop value events ignore failed message port select 
+	Number of Para source files: 16
+API: 
+	Hits API count: 6
+	Hits API : 
+		core major jnap debug action minor 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/udevadm
+Strings count : 423
+Para + API count : 18
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		info none retry network stop value events ignore failed message port select 
+	Number of Para source files: 16
+API: 
+	Hits API count: 6
+	Hits API : 
+		core major jnap debug action minor 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/conntrack
+Strings count : 361
+Para + API count : 16
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		info updated egal protocol failed Source support value events callback message port 
+	Number of Para source files: 20
+API: 
+	Hits API count: 4
+	Hits API : 
+		/server rss nmc server 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/conntrack
+Strings count : 361
+Para + API count : 16
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		info updated egal protocol failed Source support value events callback message port 
+	Number of Para source files: 20
+API: 
+	Hits API count: 4
+	Hits API : 
+		/server rss nmc server 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/ipv6_firewall
+Strings count : 509
+Para + API count : 17
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info restore video/titleindex protocol httpport firewall video/quicktime stop none disabled admin video dhcp video/genre port 
+	Number of Para source files: 20
+API: 
+	Hits API count: 2
+	Hits API : 
+		debug jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/ipv6_firewall
+Strings count : 509
+Para + API count : 17
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		info restore video/titleindex protocol httpport firewall video/quicktime stop none disabled admin video dhcp video/genre port 
+	Number of Para source files: 20
+API: 
+	Hits API count: 2
+	Hits API : 
+		debug jnap 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/wlconf
+Strings count : 320
+Para + API count : 22
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info restore retry ssid default vlan port disabled filters security upnp 
+	Number of Para source files: 20
+API: 
+	Hits API count: 11
+	Hits API : 
+		core jnap get_nmc_version server log_clear rpc renderer log_getfile get_nmc_mode rss nmc 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/wlconf
+Strings count : 320
+Para + API count : 22
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info restore retry ssid default vlan port disabled filters security upnp 
+	Number of Para source files: 20
+API: 
+	Hits API count: 11
+	Hits API : 
+		core jnap get_nmc_version server log_clear rpc renderer log_getfile get_nmc_mode rss nmc 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/xtables-multi
+Strings count : 543
+Para + API count : 12
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info restore play egal protocol network default value ignore failed port 
+	Number of Para source files: 18
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/xtables-multi
+Strings count : 543
+Para + API count : 12
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info restore play egal protocol network default value ignore failed port 
+	Number of Para source files: 18
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/mkdosfs
+Strings count : 204
+Para + API count : 11
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info none default value label volume failed detected hidden message select 
+	Number of Para source files: 12
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/guest-access
+Strings count : 152
+Para + API count : 11
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info pause logging mute failed Static cancel dhcp guest-access guest_access select 
+	Number of Para source files: 18
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/mkdosfs
+Strings count : 204
+Para + API count : 11
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info none default value label volume failed detected hidden message select 
+	Number of Para source files: 12
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/guest-access
+Strings count : 152
+Para + API count : 11
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info pause logging mute failed Static cancel dhcp guest-access guest_access select 
+	Number of Para source files: 18
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/jnap
+Strings count : 225
+Para + API count : 21
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info restore Logging network admin value failed default DHCP dhcp 
+	Number of Para source files: 14
+API: 
+	Hits API count: 11
+	Hits API : 
+		core jnap /server setup server debug nmc firmwareupdate action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/jnap
+Strings count : 225
+Para + API count : 21
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info restore Logging network admin value failed default DHCP dhcp 
+	Number of Para source files: 14
+API: 
+	Hits API count: 11
+	Hits API : 
+		core jnap /server setup server debug nmc firmwareupdate action nodes rss 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/apply_system_defaults
+Strings count : 167
+Para + API count : 17
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info cisco ssid default value util failed model port manufacturer 
+	Number of Para source files: 22
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server setup server nmc nodes rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/apply_system_defaults
+Strings count : 167
+Para + API count : 17
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info cisco ssid default value util failed model port manufacturer 
+	Number of Para source files: 22
+API: 
+	Hits API count: 7
+	Hits API : 
+		jnap /server setup server nmc nodes rss 
+	Number of API source files: 46
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/tzoupdate
+Strings count : 189
+Para + API count : 14
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info outgoing success support play filename select port sent blocked 
+	Number of Para source files: 26
+API: 
+	Hits API count: 4
+	Hits API : 
+		/server rss nmc server 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/sbin/igmpproxy
+Strings count : 235
+Para + API count : 13
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info play failure default disabled failed sent message port select 
+	Number of Para source files: 16
+API: 
+	Hits API count: 3
+	Hits API : 
+		debug action jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/tzoupdate
+Strings count : 189
+Para + API count : 14
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info outgoing success support play filename select port sent blocked 
+	Number of Para source files: 26
+API: 
+	Hits API count: 4
+	Hits API : 
+		/server rss nmc server 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/sbin/igmpproxy
+Strings count : 235
+Para + API count : 13
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info play failure default disabled failed sent message port select 
+	Number of Para source files: 16
+API: 
+	Hits API count: 3
+	Hits API : 
+		debug action jnap 
+	Number of API source files: 49
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/linkmgr
+Strings count : 213
+Para + API count : 13
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info mute clear support value util failed connected basic port 
+	Number of Para source files: 16
+API: 
+	Hits API count: 3
+	Hits API : 
+		nodes setup jnap 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/linkmgr
+Strings count : 213
+Para + API count : 13
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info mute clear support value util failed connected basic port 
+	Number of Para source files: 16
+API: 
+	Hits API count: 3
+	Hits API : 
+		nodes setup jnap 
+	Number of API source files: 45
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root/usr/sbin/skuapi
+Strings count : 134
+Para + API count : 10
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info ssid success default support value model port sent manufacturer 
+	Number of Para source files: 22
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /firmware/FW_EA9200_1.1.9.183676_prod/_FW_EA9200_1.1.9.183676_prod.img.extracted/squashfs-root-0/usr/sbin/skuapi
+Strings count : 134
+Para + API count : 10
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		info ssid success default support value model port sent manufacturer 
+	Number of Para source files: 22
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+

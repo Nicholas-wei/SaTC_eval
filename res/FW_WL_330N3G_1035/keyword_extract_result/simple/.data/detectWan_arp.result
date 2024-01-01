@@ -1,0 +1,1 @@
+wan_gateway detect lan_proto_x enable_failover dhcp_end lan_netmask wan1_proto dhcp_start sw_mode wan_ipaddr ipconflict lan_gateway dhcp_enable_x lan_ipaddr name link x_Setting 

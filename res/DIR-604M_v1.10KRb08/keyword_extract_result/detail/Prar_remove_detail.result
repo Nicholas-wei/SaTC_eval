@@ -1,0 +1,531 @@
+Prar name : ImageApply
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+
+Prar name : ImageCancel
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+	Bin File: 
+
+Prar name : action
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+
+Prar name : body
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/wlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wizard.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_counter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/advwlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/diag_ping_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_details.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_clients.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/version.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+
+Prar name : body_middle
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/wlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wizard.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_counter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/advwlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/diag_ping_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_details.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_clients.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/version.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+
+Prar name : footer
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/ddns_popup.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wizard.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/diag_ping_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_details.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_clients.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/version.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+
+Prar name : header
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/wlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/ddns_popup.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wizard.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_counter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/advwlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/diag_ping_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_details.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_clients.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/version.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+
+Prar name : myImage
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/ddns_popup.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+	Bin File: 
+
+Prar name : myImage2
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+	Bin File: 
+
+Prar name : page
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/wlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/ddns_popup.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wizard.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_counter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/advwlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/diag_ping_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_details.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_clients.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/version.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+
+Prar name : viewport
+Source File : 
+	Text File: 
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_port_trigger.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/wlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_redirect.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/ddns_popup.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddos.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_static_lease.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wizard.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_lan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wol.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_1a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_routing.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_network.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_diag.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_counter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_pptps.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/url_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_log.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vpnpassthrough.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_ddns.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_account.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/super_dmz.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/telnetd.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/static_scan.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_after.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_firewall.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_4.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/dhcp_reserve_scan_host.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_2_before.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/index.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/advwlan_setup_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_7.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/login1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_5a.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_mac_filter.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_firmup.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/diag_ping_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_details.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_2.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/scan_add_ip.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_3.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/setup_wlan.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_reset.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/mgmt_time.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/status_clients.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/version.htm
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_repeater_mode/repeater_mode_1.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_ap_mode/ap_mode.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_iptv.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_router_mode/router_mode_6.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/reboot_info.html
+		/firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/www/main_details/adv_vserver.html
+	Bin File: 
+

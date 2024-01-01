@@ -1,0 +1,7 @@
+binary: /firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/sbin/httpd
+configfile: /home/satc/res/DIR868LWB1_FW200KR-K01/ghidra_extract_result/httpd/httpd_ref2sink_bof.result-alter2
+0x1eca8 0x1344c   not found
+total cases: 1
+find cases: 0
+binary: /firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin.extracted/squashfs-root-0/sbin/httpd
+configfile: /home/satc/res/DIR868LWB1_FW200KR-K01/ghidra_extract_result/httpd/httpd_ref2sink_bof.result-alter2

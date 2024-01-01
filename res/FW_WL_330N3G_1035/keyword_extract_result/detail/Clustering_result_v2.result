@@ -1,0 +1,126 @@
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/httpd
+Strings count : 2624
+Para + API count : 207
+Para: 
+	Hits Para count: 196
+	Hits Para : 
+		sta_ssid misc_ping_x dhcp_start ntp_server0 SystemCmd misc_http_x wps_mode wl_bcn wan1_proto Internet wl_radio_x disk wl_macmode wl0_1_key_type wl_wme_no_ack wl_ap_isolate wan_heartbeat_x wan_stb_x wl0_1_crypto dmz_ip DLSCapable fw_lw_enable_x wl_radius_port wl_wdsapply_x sta_key4 filter_lw_icmp_x sta_key2 sta_key3 hsdpa_pass sta_key1 hidden wan_pppoe_mtu hsdpa_user macfilter_enable_x sta_wep_x wl_dtim wan_pppoe_relay_x dhcp_wins_x ManualDHCPList password HT_OpMode EVDO_on name wl_crypto fw_log_x pppoe url_date_x dhcp_static_x sta_bssid lan_domain Dev3G APSDCapable wl_wep_x wl_key3 ddns_server_x wl_radius_ipaddr wl0_1_key wan_dns2_x dr_enable_x UrlList ipconflict lan_ipaddr detect wan_netmask wl0_1_key3 wl0_1_key2 wl0_1_key1 MFList wl_radio_time_x wsc_config_command wl0_1_key4 r_Setting ACLList wl0_1_wpa_mode LWFilterList lan_netmask mr_enable_x wl_wpa_psk HT_BW dhcp_enable_x wan_proto wan_3g_pin wl_wpa_mode sta_crypto wl0_1_wep_x url_time_x wl_mode_x sta_auth_mode service wl_key4 wan_pppoe_username wl_key1 wl_key2 wl0_1_ssid upnp_enable time_zone ddns_wildcard_x action sta_check_ha sr_enable_x sw_mode_ex log_ipaddr url_enable_x TxBurst wl0_1_auth_mode lan_proto_x x_Setting lan_gateway wan_pppoe_mru wl_rateset misc_httpport_x wl0_1_wpa_psk wl_rts IP_Bridged PktAggregate wl_key_type wsc_client_role wan_pppoe_ac sta_key hsdpa_dialnum HT_EXTCHA GWStatic wl_radio_date_x wl_wme wan_dns1_x hsdpa_country wl_frag dhcp_end Opera wan_pppoe_idletime wl_closed wan_ipaddr Client link wan_pppoe_options_x http_passwd wan_nat_x autofw_enable_x wps_enable wl_ssid wl_mrate wan_hostname ddns_enable_x wan_gateway dhcp_dns1_x sta_key_type hsdpa_apn wl_gmode_protection dhcp_gateway_x wl_gmode wan_pppoe_service dhcp_lease wl_wpa_gtk_rekey wl_gmode_protection_x argument wl_key TxPower filter_lw_default_x filter_lw_time_x file wps_pin time_zone_dstoff wan_pppoe_passwd VSList ddns_passwd_x x_DHCPClient filter_lw_date_x LANIP sw_mode wan_dnsenable_x fw_dos_x time_zone_dst wan_hwaddr_x TriggerList hsdpa_isp enable_failover sta_wpa_psk wl_auth_mode wsc_config_state AUTO wl_rate vts_enable_x sta_wpa_mode RBRList ddns_username_x wl_phrase_x ddns_hostname_x Reset_OOB wl_radius_key serviceId wl_channel fw_enable_x wan_route_x wan_pptp_options_x wan_pppoe_txonly_x sp_battle_ips 
+	Number of Para source files: 44
+API: 
+	Hits API count: 11
+	Hits API : 
+		apply.cgi  upload.cgi wlconn_apply.htm start_apply2.htm / syslog.cgi action upgrade.cgi start_apply.htm manufacturer 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/rc
+Strings count : 4315
+Para + API count : 177
+Para: 
+	Hits Para count: 174
+	Hits Para : 
+		sta_ssid misc_ping_x dhcp_start ntp_server0 wl_gmode_protection wps_mode wl_bcn wan1_proto wl_radio_x disk wl0_1_key_type wl_wme_no_ack wl_ap_isolate wan_heartbeat_x wan_stb_x wl0_1_crypto dmz_ip DLSCapable fw_lw_enable_x wl_radius_port wl_wdsapply_x sta_key4 HT_EXTCHA sta_key2 sta_key3 sta_key1 hidden wan_pppoe_mtu wl_rate macfilter_enable_x sta_wep_x wl_dtim wan_pppoe_relay_x dhcp_wins_x password HT_OpMode wl_frag wan_pppoe_mru name wl_crypto fw_log_x pppoe url_date_x dhcp_static_x sta_bssid lan_domain Dev3G lan_gateway wl_wep_x ddns_server_x wl_radius_ipaddr wl0_1_key wan_dns2_x dr_enable_x ipconflict lan_ipaddr detect wan_netmask wl0_1_key3 wl0_1_key2 wl0_1_key1 misc_http_x wl0_1_key4 r_Setting wl0_1_wpa_mode lan_netmask mr_enable_x wl_wpa_psk HT_BW ui_triggered dhcp_enable_x wan_proto wan_3g_pin wl_wpa_mode sta_crypto wl0_1_wep_x url_time_x wl_mode_x sta_auth_mode service wl_key4 wan_pppoe_username wl_key1 wl_key2 time_zone_dstoff wl_radio_time_x upnp_enable time_zone ddns_wildcard_x sta_check_ha sr_enable_x sw_mode_ex log_ipaddr url_enable_x TxBurst wl0_1_auth_mode lan_proto_x x_Setting APSDCapable dhcp_gateway_x wl_rateset misc_httpport_x wl0_1_wpa_psk wl_rts IP_Bridged PktAggregate wl_key_type support_cdma wl_macmode wan_pppoe_ac wl_radio_date_x wl_wme wan_dns1_x dhcp_end wan_pppoe_idletime PINCode wan_ipaddr Client link wan_pppoe_options_x http_passwd wan_nat_x autofw_enable_x wps_enable wl_ssid wl_mrate wan_hostname ddns_enable_x wan_gateway dhcp_dns1_x sta_key_type hsdpa_apn wl0_1_ssid wl_gmode wan_pppoe_service dhcp_lease wl_wpa_gtk_rekey wl_key TxPower filter_lw_default_x filter_lw_time_x file wps_pin wl_key3 wan_pppoe_passwd ddns_passwd_x x_DHCPClient filter_lw_date_x sw_mode wan_dnsenable_x fw_dos_x time_zone_dst wan_hwaddr_x hsdpa_isp enable_failover sta_wpa_psk wl_auth_mode wsc_config_state AUTO wl_closed vts_enable_x sta_wpa_mode ddns_username_x wl_phrase_x ddns_hostname_x sta_key wl_radius_key filter_lw_icmp_x wl_channel fw_enable_x wan_route_x wan_pptp_options_x wan_pppoe_txonly_x sp_battle_ips 
+	Number of Para source files: 41
+API: 
+	Hits API count: 3
+	Hits API : 
+		action  / 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/nvram
+Strings count : 654
+Para + API count : 170
+Para: 
+	Hits Para count: 167
+	Hits Para : 
+		sta_ssid misc_ping_x dhcp_start ntp_server0 wl_radio_time_x wps_mode wl_bcn wan1_proto wl_radio_x wl_macmode wl_wme_no_ack wl_ap_isolate wan_heartbeat_x wan_stb_x wan_dnsenable_x dmz_ip DLSCapable fw_lw_enable_x wl_radius_port wl_wdsapply_x sta_key4 HT_EXTCHA sta_key2 sta_key3 hsdpa_pass sta_key1 wan_pppoe_mtu hsdpa_user macfilter_enable_x sta_wep_x wl_dtim wan_pppoe_relay_x dhcp_wins_x password HT_OpMode EVDO_on wan_pppoe_mru name wl_crypto fw_log_x enable_failover wan_netmask dhcp_static_x sta_bssid lan_domain Dev3G lan_gateway wl_wep_x ddns_server_x wl_radius_ipaddr wl0_1_key wan_dns2_x dr_enable_x lan_ipaddr detect url_date_x wl0_1_key3 wl0_1_key2 wl0_1_key1 misc_http_x wl0_1_key4 r_Setting wl0_1_wpa_mode lan_netmask mr_enable_x wl_wpa_psk HT_BW dhcp_enable_x wan_proto wl_wpa_mode sta_crypto wl0_1_wep_x wl_radio_date_x wl_mode_x sta_auth_mode service wl_key4 wan_pppoe_username time_zone wl_key2 wl_key3 upnp_enable ddns_wildcard_x sta_check_ha sr_enable_x log_ipaddr url_enable_x TxBurst wl0_1_auth_mode lan_proto_x x_Setting APSDCapable dhcp_gateway_x wl_rateset misc_httpport_x wl0_1_wpa_psk wl_rts filter_lw_default_x PktAggregate wl_key_type wan_pppoe_ac hsdpa_dialnum url_time_x wl_wme wan_dns1_x hsdpa_country dhcp_end wan_pppoe_idletime wl_closed wan_ipaddr Client wan_pppoe_options_x http_passwd wan_nat_x autofw_enable_x wps_enable wl_ssid wl_mrate wan_hostname ddns_enable_x wan_gateway wl_key1 dhcp_dns1_x sta_key_type hsdpa_apn wl_gmode_protection wl0_1_ssid wl_gmode wan_pppoe_service dhcp_lease wl_wpa_gtk_rekey wl_gmode_protection_x wl_key TxPower filter_lw_time_x file wl_frag wan_pppoe_passwd ddns_passwd_x x_DHCPClient filter_lw_date_x sw_mode wl0_1_crypto fw_dos_x time_zone_dst wan_hwaddr_x hsdpa_isp pppoe sta_wpa_psk wl_auth_mode wsc_config_state AUTO wl_rate vts_enable_x sta_wpa_mode ddns_username_x wl_phrase_x ddns_hostname_x sta_key wl_radius_key filter_lw_icmp_x wl_channel fw_enable_x wan_route_x wan_pptp_options_x wan_pppoe_txonly_x sp_battle_ips 
+	Number of Para source files: 38
+API: 
+	Hits API count: 3
+	Hits API : 
+		 major / 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/wanduck
+Strings count : 342
+Para + API count : 23
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		dhcp_enable_x wl_wep_x lan_netmask wl_auth_mode sta_auth_mode service enable_failover r_Setting sw_mode x_Setting wan_ipaddr wan_gateway wan_proto Dev3G wan1_proto link ipconflict lan_ipaddr pppoe wan_nat_x name 
+	Number of Para source files: 20
+API: 
+	Hits API count: 2
+	Hits API : 
+		 / 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/sbin/detectWan_arp
+Strings count : 154
+Para + API count : 19
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		lan_netmask detect name dhcp_start dhcp_end lan_proto_x sw_mode x_Setting wan_ipaddr wan_gateway link lan_gateway wan1_proto ipconflict lan_ipaddr enable_failover dhcp_enable_x 
+	Number of Para source files: 16
+API: 
+	Hits API count: 2
+	Hits API : 
+		 / 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/wscd
+Strings count : 604
+Para + API count : 21
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		serviceType file service Opera AUTO eventSubURL serviceId controlURL waiting Client link SCPDURL action name 
+	Number of Para source files: 17
+API: 
+	Hits API count: 7
+	Hits API : 
+		 serviceList / action deviceType friendlyName UDN 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/infosvr
+Strings count : 274
+Para + API count : 17
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		lan_netmask disk name dhcp_start dhcp_end wsc_config_state wl_ssid Client link file action password lan_ipaddr lan_domain 
+	Number of Para source files: 21
+API: 
+	Hits API count: 3
+	Hits API : 
+		action  / 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/bin/sdparm
+Strings count : 2731
+Para + API count : 16
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		detect name service Opera AUTO argument waiting link file Internet action disk 
+	Number of Para source files: 17
+API: 
+	Hits API count: 4
+	Hits API : 
+		action  / manufacturer 
+	Number of API source files: 41
+
+Program name : /firmware/FW_WL_330N3G_1035/_FW_WL_330N3G_1035.trx.extracted/_40.extracted/_375000.extracted/cpio-root/usr/sbin/pppd
+Strings count : 1787
+Para + API count : 14
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		direction detect name argument waiting link file Internet action hidden password 
+	Number of Para source files: 16
+API: 
+	Hits API count: 3
+	Hits API : 
+		action  / 
+	Number of API source files: 41
+

@@ -1,0 +1,140 @@
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/httpd
+Strings count : 2985
+Para + API count : 224
+Para: 
+	Hits Para count: 218
+	Hits Para : 
+		wl_unit dhcp_start wl_obss_coex wl0.2_crypto lan_lease url_redavail /block/ wl_bcn wol_addr filter_client daylight_save emf_enable ntp_server ddns_status wl_wme_no_ack wl_ap_isolate pptp_passthrough_status filter_client_from_day fw_disable wan_route_netmask router_disable wan_route_ipaddr /block wan_dns dhcp_static_hostname wl_plcphdr wl_dtim is_default wl_frameburst uploadedfile host_ wan_pppoe_mtu wl_nmcsidx wl_mode wl_rxchain name wl_crypto forward_port deleteAllFilterMac list wan_netmask wl_bss_enabled forward_port_from_end filter_client_to_end wl_infra remote_access_port wan_dns0 wl0.2_key1 deleteSelvpnAccount wan_hwaddr filter_client_proto filter_client_to_start mppe_status wl_nreqd wl_bssid pptps_mppe_status wan_dns_type ddns_provider remote_access_status dhcp_dns1 lan_ipaddr Username index log_ram_enable reboot http_passwd_bak deleteSelFilterMac forward_port_to_ip wl_txchain wl0.2_closed wl_rts lan_dhcp syn_ddos_defence wl_wpa_psk ddns_uname wl0.2_bss_enabled wan_proto pptps_account_name dmz_status deleteAllStaticLease filter_client_enable Delete enable_telnetd wan_dns00 dhcp_static_ipaddr lan_proto sdmz_addr wan_pppoe_username ping_ddos_defence wl_frag nvfile ddns_passwd upnp_enable time_zone port_fwd_status autofw_port_in_proto smurf_ddos_defence wl_auth url_filter_enable http_username_bak filter_client_from_sec filter_client_to_day igmp_enable wl_wds dmz_ipaddr dhcp_static_mac lan_gateway url_filter_add wan_dns1 ntp_status wan_pppoe_keepalive url_time autofw_port wan_dns11 service filter_client_entry_num pptps_account_pwd wl_wme wan_route_gateway ipsec_passthrough_status dhcp_dns_type autofw_port_in_end direction deleteSelWolMac wl_radio dhcp_end wan_pppoe_idletime wl_wep wl_closed ddns_hname broadcast wan_ipaddr available_idx wl_wps_mode staticlease http_passwd wl_key deleteSelStaticLease info forward_port_to_end wl_ure wl_ssid enabled dhcp_dns0 wl_akm deleteAllFilterUrl wan_gateway wl_nbw_cap deleteSelPortFwd url_redaddr no_ack autofw_port_out_end autofw_port_out_proto dhcp_static wl_gmode wl0.2_ap_isolate wl_wme_apsd http_username wl_nmode wl_wme_bss_disable pptps_status argument wl_key1 WakeOnPC wan_route wl0.2_wpa_psk autofw_port_out_start filter_macmode wol_status_enable url_filter_address available_index device_name wan_pppoe_passwd log_level autofw_port_in_start author Delete All hostname forward_port_from_start lan_mtu wl_tx_power filter_client_from_start web_language wl_country_code wl0.2_ssid lan_netmask korean Password cssmenu dhcp_static_ip mac_filter_address forward_port_proto wl_auth_mode passwd wl_sta_retry_time deleteAllPortFwd english update deleteSelFilterUrl wl_rate forward_port_to_start ddns wan_pppoe_mru disconectSelvpnAccount wan_route_metric wan_unit autofw_port_entry_num filter_client_to_sec wl_channel l2tp_passthrough_status enable_iptv block wan_pppoe_demand ping_ipaddr filter_client_from_end wl_nctrlsb apsd dhcp_dns 
+	Number of Para source files: 65
+API: 
+	Hits API count: 6
+	Hits API : 
+		apply.cgi nvramul.cgi .. action upgrade.cgi nvramdl.cgi 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/sbin/rc
+Strings count : 1616
+Para + API count : 113
+Para: 
+	Hits Para count: 107
+	Hits Para : 
+		dhcp_start wl_obss_coex wl0.2_crypto /block/ remote_access_port daylight_save emf_enable ntp_server ddns_status ddns_uname pptp_passthrough_status fw_disable dmz_ipaddr /block wan_dns is_default host_ wl_mode name wl_crypto forward_port list wan_netmask filter_client autofw_port wl0.2_key1 mppe_status lan_netmask pptps_mppe_status wan_dns_type ddns_provider remote_access_status lan_ipaddr index reboot ntp_status wl0.2_closed mac_filter_list syn_ddos_defence wl_wpa_psk wl0.2_bss_enabled wan_proto url_redaddr dmz_status lan_proto wl0.2_ap_isolate wan_pppoe_username time_zone ddns_passwd upnp_enable port_fwd_status smurf_ddos_defence block url_filter_enable http_username_bak igmp_enable lan_gateway ipsec_passthrough_status http_passwd_bak url_time service pptps_account_pwd wl_wme router_disable dhcp_dns_type wl_radio dhcp_end wl0.2_ssid wl_wep broadcast wan_ipaddr wl_wps_mode staticlease http_passwd info url_redavail wl_ssid enabled wl_akm log_ram_enable wan_gateway wl_nbw_cap pptps_account_name dhcp_static sdmz_addr http_username pptps_status ping_ddos_defence wan_route wl0.2_wpa_psk filter_macmode wol_status_enable wl_channel wan_pppoe_passwd url_filter_list log_level hostname lan_mtu passwd wl0_crypto update ddns lan_dhcp device_name l2tp_passthrough_status ddns_hname dhcp_dns 
+	Number of Para source files: 49
+API: 
+	Hits API count: 6
+	Hits API : 
+		apply.cgi nvramul.cgi .. action upgrade.cgi nvramdl.cgi 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_c
+Strings count : 1459
+Para + API count : 50
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		wl_gmode wl_nmode enabled eventSubURL argument wl_key /block/ wl_channel index service author hostname reboot controlURL router_disable wl_wme /block serviceType wl_wpa_psk wl_wep is_default serviceId SCPDURL lan_dhcp Delete info broadcast wl_mode name wl_crypto lan_proto wl_ure wl_ssid list wl_key1 wl_sta_retry_time wl_akm wl0_crypto block 
+	Number of Para source files: 33
+API: 
+	Hits API count: 11
+	Hits API : 
+		apply.cgi nvramul.cgi serviceList .. action deviceType friendlyName presentationURL upgrade.cgi UDN nvramdl.cgi 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/onelink_s
+Strings count : 415
+Para + API count : 37
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		info index wl_gmode wl_akm name wl_crypto wl_nmode argument wl_key wl_wep wl_wpa_psk enabled wl_key1 wl_channel argumentList serviceId service router_disable Password wl_ssid Delete 
+	Number of Para source files: 19
+API: 
+	Hits API count: 16
+	Hits API : 
+		manufacturerURL major modelName serialNumber UPC serviceList action modelNumber deviceType friendlyName presentationURL modelURL modelDescription UDN minor manufacturer 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/wl
+Strings count : 3636
+Para + API count : 26
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		info index direction name service author enabled update wifi list reboot wl_chanspec argument minimum wl_bcn apsd host_ operation maximum Delete 
+	Number of Para source files: 30
+API: 
+	Hits API count: 6
+	Hits API : 
+		apply.cgi nvramul.cgi .. action upgrade.cgi nvramdl.cgi 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/pppd
+Strings count : 2098
+Para + API count : 24
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		info direction name author passwd enabled hostname list update layer argument /block /block/ maximum host_ operation Password block 
+	Number of Para source files: 27
+API: 
+	Hits API count: 6
+	Hits API : 
+		apply.cgi nvramul.cgi .. action upgrade.cgi nvramdl.cgi 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/lld2d
+Strings count : 552
+Para + API count : 19
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		info index layer name service wl_unit wl_ssid hostname list argument broadcast /block/ /block block 
+	Number of Para source files: 28
+API: 
+	Hits API count: 5
+	Hits API : 
+		apply.cgi nvramul.cgi upgrade.cgi nvramdl.cgi .. 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/usr/sbin/igd
+Strings count : 552
+Para + API count : 27
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info index layer name service argumentList argument serviceId router_disable allowedValueRange Delete 
+	Number of Para source files: 21
+API: 
+	Hits API count: 16
+	Hits API : 
+		manufacturerURL major modelName stateVariable serialNumber serviceList action modelNumber deviceType friendlyName presentationURL modelURL modelDescription UDN minor manufacturer 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/goahead
+Strings count : 1476
+Para + API count : 21
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info index Loading log_level name author list enabled update Password Delete 
+	Number of Para source files: 23
+API: 
+	Hits API count: 10
+	Hits API : 
+		apply.cgi nvramul.cgi .. nvramdl.cgi rssui checkuser.xgi rssset.xgi upgrade.cgi rssset_cloning.xgi public 
+	Number of API source files: 39
+
+Program name : /firmware/DIR-604M_v1.10KRb08/_DIR-604M_v1.10KRb08.trx.extracted/squashfs-root/bin/gpio_check
+Strings count : 124
+Para + API count : 16
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		info wl_mode name lan_proto wan_hwaddr enabled wl_sta_retry_time is_default router_disable wl_wme lan_dhcp 
+	Number of Para source files: 14
+API: 
+	Hits API count: 5
+	Hits API : 
+		apply.cgi nvramul.cgi upgrade.cgi nvramdl.cgi .. 
+	Number of API source files: 39
+

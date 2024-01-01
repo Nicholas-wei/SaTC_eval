@@ -1,0 +1,9722 @@
+FileName: Public_UPNP_WANEtherLinkCfg.xml
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Public_UPNP_WANEtherLinkCfg.xml
+API: 
+	count: 4
+	name:
+		action
+		major
+		minor
+		stateVariable
+Para: 
+	count: 11
+	name:
+		allowedValue
+		allowedValue
+		allowedValueList
+		argument
+		argumentList
+		dataType
+		direction
+		name
+		name
+		name
+		relatedStateVariable
+
+FileName: Public_UPNP_WANIPConn.xml
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Public_UPNP_WANIPConn.xml
+API: 
+	count: 30
+	name:
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		major
+		minor
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+Para: 
+	count: 217
+	name:
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValueList
+		allowedValueList
+		allowedValueList
+		allowedValueList
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		defaultValue
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+
+FileName: Public_UPNP_WANPPPConn.xml
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Public_UPNP_WANPPPConn.xml
+API: 
+	count: 33
+	name:
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		major
+		minor
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+Para: 
+	count: 233
+	name:
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValueList
+		allowedValueList
+		allowedValueList
+		allowedValueList
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+
+FileName: Public_UPNP_WAND.xml
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Public_UPNP_WAND.xml
+API: 
+	count: 17
+	name:
+		action
+		action
+		action
+		action
+		action
+		major
+		minor
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+Para: 
+	count: 77
+	name:
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValue
+		allowedValueList
+		allowedValueList
+		allowedValueRange
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		maximum
+		minimum
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		step
+
+FileName: Public_UPNP_gatedesc.xml
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Public_UPNP_gatedesc.xml
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: Public_UPNP_LANHostCfgMag.xml
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Public_UPNP_LANHostCfgMag.xml
+API: 
+	count: 30
+	name:
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		action
+		major
+		minor
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+		stateVariable
+Para: 
+	count: 140
+	name:
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argument
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		argumentList
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		dataType
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		direction
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+		relatedStateVariable
+
+FileName: Public_UPNP_Layer3F.xml
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Public_UPNP_Layer3F.xml
+API: 
+	count: 5
+	name:
+		action
+		action
+		major
+		minor
+		stateVariable
+Para: 
+	count: 14
+	name:
+		argument
+		argument
+		argumentList
+		argumentList
+		dataType
+		direction
+		direction
+		name
+		name
+		name
+		name
+		name
+		relatedStateVariable
+		relatedStateVariable
+
+FileName: RMT_invite.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/opt/remote/bin/RMT_invite.htm
+API: 
+	count: 2
+	name:
+		/cgi-bin/RMT_invite.cgi?/cgi-bin/RMT_invite.htm
+		/cgi-bin/RMT_invite.cgi?/cgi-bin/RMT_invite.htm
+Para: 
+	count: 5
+	name:
+		BTN_reg
+		BTN_unreg
+		TXT_remote_login
+		TXT_remote_password
+		submit_flag
+
+FileName: RemoteShare.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/opt/remote/bin/RemoteShare.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WIZ_Gaming.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_Gaming.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: FW_schedule_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_schedule_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: genie_ap_mode_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_mode_check.htm
+API: 
+	count: 1
+	name:
+		genie_ap_check.cgi
+Para: 
+	count: 5
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+		loading
+
+FileName: QOS_UP_QOS_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_UP_QOS_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BAS_pppoe_basictop.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+API: 
+	count: 1
+	name:
+		basictop.cgi
+Para: 
+	count: 9
+	name:
+		basic
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		loginreq
+		target
+
+FileName: WIZ_pppoe_fleteast.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+API: 
+	count: 2
+	name:
+		bsw_pppoe.cgi
+		wizpppoe.cgi
+Para: 
+	count: 45
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr2_1
+		DAddr2_2
+		DAddr2_3
+		DAddr2_4
+		DAddr3
+		DAddr4
+		DNSAssign
+		DNSAssign2
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr2_1
+		PDAddr2_2
+		PDAddr2_3
+		PDAddr2_4
+		PDAddr3
+		PDAddr4
+		Test
+		WANAssign
+		WANAssign2
+		WPethr1
+		WPethr2
+		WPethr2_1
+		WPethr2_2
+		WPethr2_3
+		WPethr2_4
+		WPethr3
+		WPethr4
+		apply
+		buttonHit
+		buttonValue
+		formname
+		pppoe2_passwd
+		pppoe2_servicename
+		pppoe2_username
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		session_type
+		target
+
+FileName: FW_page_block.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_page_block.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: UPNP_upnp_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPNP_upnp_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: genie_apply.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_apply.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		disable_menu
+		loading
+		next_file
+		update
+
+FileName: genie_ap_disable_wifi.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_disable_wifi.htm
+API: 
+	count: 1
+	name:
+		genie_ap_wifi_change.cgi
+Para: 
+	count: 8
+	name:
+		Apply
+		choose
+		formname
+		pass_2g
+		pass_5g
+		ssid_2g
+		ssid_5g
+		target
+
+FileName: FW_email.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_email.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 22
+	name:
+		Cancel
+		block_site
+		buttonHit
+		buttonValue
+		cfAlert_Apply
+		cfAlert_Day
+		cfAlert_Hour
+		cfAlert_Select
+		cfAlert_am
+		download_finish_alert
+		email_addr
+		email_notify
+		email_smtp
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		rupr_download_support_line
+		rupr_download_support_str
+		smtp_auth
+		smtp_port
+		target
+
+FileName: MNU_access_close_page.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_close_page.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: LAN_reserv_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+API: 
+	count: 1
+	name:
+		reserv.cgi
+Para: 
+	count: 21
+	name:
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		dv_name
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		lanIP
+		macaddr
+		refresh
+		reserved_devname
+		reserved_ips
+		reserved_macs
+		rsv_ip1
+		rsv_ip2
+		rsv_ip3
+		rsv_ip4
+		rsv_mac
+		target
+
+FileName: genie_download_href.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_download_href.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 9
+	name:
+		download_head
+		download_head
+		string_genie
+		string_genie
+		string_genie_rs
+		string_genie_rs
+		string_rs
+		string_rs
+		wait_img
+
+FileName: LANG_lang_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_lang_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: csrf_timeout.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/csrf_timeout.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WLG_wireless1.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+API: 
+	count: 1
+	name:
+		wireless.cgi
+Para: 
+	count: 37
+	name:
+		<%1478%>
+		Apply
+		Cancel
+		KEY1
+		KEY2
+		KEY3
+		KEY4
+		WRegion
+		authAlgm
+		buttonHit
+		buttonValue
+		enable_isolation
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		initAuthType
+		initChannel
+		initDefaultKey
+		keygen
+		only_mode
+		opmode
+		passphraseStr
+		security_type
+		security_type_2G
+		show_wps_alert
+		ssid
+		ssid_bc
+		target
+		tempRegion
+		tempSetting
+		w_channel
+		wds_enable
+		wep_key_no
+		wep_radio_2G
+		wepenc
+		wpa_radio_2G
+
+FileName: WPS_PIN.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_PIN.htm
+API: 
+	count: 1
+	name:
+		wps_pin.cgi
+Para: 
+	count: 7
+	name:
+		WPS_type
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		target
+
+FileName: DNS_ddns_Netgear_yes_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DNS_ddns_Netgear_yes_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WIZ_dyn_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_dyn_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WIZ_sel.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_sel.htm
+API: 
+	count: 1
+	name:
+		adv_user.cgi
+Para: 
+	count: 10
+	name:
+		WANDetc
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		next
+		target
+
+FileName: WIZ_cfm_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_cfm_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BAS_wtest_ppp2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_wtest_ppp2.htm
+API: 
+	count: 1
+	name:
+		wtest_l
+Para: 
+	count: 2
+	name:
+		close
+		testOK
+
+FileName: traffic_important_update.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_important_update.htm
+API: 
+	count: 1
+	name:
+		traffic_important_update.cgi
+Para: 
+	count: 1
+	name:
+		tm_important_update
+
+FileName: RST_st_dhcp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_st_dhcp.htm
+API: 
+	count: 1
+	name:
+		st_dhcp.cgi
+Para: 
+	count: 6
+	name:
+		buttonHit
+		buttonValue
+		close
+		connect
+		refreshScrn
+		target
+
+FileName: POT.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/POT.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		Refresh
+		potpage
+
+FileName: UPNP_media.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPNP_media.htm
+API: 
+	count: 1
+	name:
+		upnp_media.cgi
+Para: 
+	count: 21
+	name:
+		Apply
+		allowcontrol
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		iserver
+		iserver_device_name
+		iserver_onoff
+		iserver_passcode
+		iserver_remote_device
+		iserver_remote_pass
+		media_server
+		media_server_name
+		media_server_onoff
+		target
+		tivo_support
+		tivo_support_onoff
+		upnp_media_name
+
+FileName: WLG_2g_wireless1_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_2g_wireless1_2.htm
+API: 
+	count: 1
+	name:
+		wlg_sec_profile_main.cgi
+Para: 
+	count: 21
+	name:
+		KEY1
+		KEY2
+		KEY3
+		KEY4
+		allow_see_access
+		authAlgm
+		bssid_enable
+		buttonHit
+		buttonValue
+		enable_allow_see_access
+		enable_apmode
+		enable_bssid
+		enable_ssid_bc
+		initAuthType
+		initDefaultKey
+		only_mode
+		security_type
+		ssid
+		ssid_bc_enable
+		wep_key_no
+		wepenc
+
+FileName: USB_basic_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: USB_download_folder.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_download_folder.htm
+API: 
+	count: 1
+	name:
+		usb_downloadbrowse.cgi
+Para: 
+	count: 4
+	name:
+		buttonHit
+		buttonValue
+		close
+		target
+
+FileName: MNU_access_failure.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_failure.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_top.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_top.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: FW_schedule_ppp2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+API: 
+	count: 1
+	name:
+		fwSchedulePPP2.cgi
+Para: 
+	count: 7
+	name:
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: MNU_access_setRecovery_redirect.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_setRecovery_redirect.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: LANG_check_redirect.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_check_redirect.htm
+API: 
+	count: 1
+	name:
+		lang_settop.cgi
+Para: 
+	count: 2
+	name:
+		formname
+		targetlang
+
+FileName: WLG_wireless_dual_band_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+API: 
+	count: 1
+	name:
+		wlg_sec_profile_main.cgi
+Para: 
+	count: 48
+	name:
+		Apply
+		Cancel
+		KEY1
+		KEY1_an
+		KEY2
+		KEY2_an
+		KEY3
+		KEY3_an
+		KEY4
+		KEY4_an
+		allow_access
+		allow_access_an
+		allow_see_access
+		allow_see_access_an
+		authAlgm
+		authAlgm_an
+		buttonHit
+		buttonValue
+		enable_bssid
+		enable_bssid_an
+		enable_isolate
+		enable_isolate_an
+		enable_ssid_bc
+		enable_ssid_bc_an
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		load_2g_frame
+		load_5g_frame
+		only_mode
+		passphrase
+		passphrase_an
+		security_type
+		security_type_an
+		show_wps_alert
+		ssid
+		ssid_an
+		target
+		tempRegion
+		tempSetting
+		wds_enable
+		wep_key_no
+		wep_key_no_an
+		wepenc
+		wepenc_an
+		wl2gsetting
+		wl5gsetting
+
+FileName: UPNP_media_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPNP_media_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WEB_site_block.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WEB_site_block.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: RST_st_pptp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_st_pptp.htm
+API: 
+	count: 1
+	name:
+		st_pptp.cgi
+Para: 
+	count: 8
+	name:
+		ConMethod
+		buttonHit
+		buttonValue
+		close
+		connect
+		disconnect
+		pptp_st
+		target
+
+FileName: ADVANCED_home.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ADVANCED_home.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: ADVANCED_home2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ADVANCED_home2.htm
+API: 
+	count: 1
+	name:
+		newgui_adv_home.cgi
+Para: 
+	count: 28
+	name:
+		INT_setup
+		LAN_setup
+		Remove
+		Status
+		box-header-table1
+		box-header-table2
+		box-header-table3
+		box-header-table4
+		box-header-table5
+		box-header-table6
+		buttonSelect
+		curlang
+		enable_apmode
+		guest_setup
+		guest_setup_5G
+		page-table1
+		page-table2
+		page-table3
+		page-table4
+		page-table5
+		page-table6
+		reboot
+		scroll-pane
+		statistics
+		status
+		wantype
+		wireless_setup
+		wireless_setup_5G
+
+FileName: genie_ap_help_choose_3_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_help_choose_3_2.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 3
+	name:
+		Apply
+		formname
+		target
+
+FileName: genie_detwan.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_detwan.htm
+API: 
+	count: 1
+	name:
+		geniewan.cgi
+Para: 
+	count: 4
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+
+FileName: BAS_l2tp_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_l2tp_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BAS_l2tp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+API: 
+	count: 1
+	name:
+		l2tp.cgi
+Para: 
+	count: 48
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DNSAssign
+		MACAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		Spoofmac
+		Test
+		WANAssign
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		l2tp_dod
+		l2tp_idletime
+		l2tp_passwd
+		l2tp_serv_ip
+		l2tp_username
+		login_type
+		mygw_1
+		mygw_2
+		mygw_3
+		mygw_4
+		myip_1
+		myip_2
+		myip_3
+		myip_4
+		mymask_1
+		mymask_2
+		mymask_3
+		mymask_4
+		passwdEnterStatus
+		runtest
+		target
+		topframe
+
+FileName: LAN_reserv_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+API: 
+	count: 1
+	name:
+		reserv.cgi
+Para: 
+	count: 21
+	name:
+		Cancel
+		apply
+		buttonHit
+		buttonValue
+		dv_name
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		orig_dv_name
+		orig_rsv_ip
+		orig_rsv_mac
+		reserved_devname
+		reserved_ips
+		reserved_macs
+		rsv_ip1
+		rsv_ip2
+		rsv_ip3
+		rsv_ip4
+		rsv_mac
+		target
+
+FileName: IPV6_tunnel.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+API: 
+	count: 1
+	name:
+		ipv6_tunnel.cgi
+Para: 
+	count: 51
+	name:
+		Cancel
+		DNSAssign
+		IPv6_interface_id1
+		IPv6_interface_id2
+		IPv6_interface_id3
+		IPv6_interface_id4
+		IpAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		PDAddr5
+		PDAddr6
+		PDAddr7
+		PDAddr8
+		Refresh
+		SDAddr1
+		SDAddr2
+		SDAddr3
+		SDAddr4
+		SDAddr5
+		SDAddr6
+		SDAddr7
+		SDAddr8
+		WIp1
+		WIp2
+		WIp3
+		WIp4
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_interface_id
+		ipv6_interfaceid_enable
+		ipv6_proto
+		ipv6_static_ip
+		ipv6rd_wan_dns1_pri
+		ipv6rd_wan_dns1_sec
+		ipv6rd_wan_dns_sel
+		login_type
+		relay
+		target
+		useInterfaceId
+		wan_l2tp_dod
+		wan_pppoe_dod
+		wan_pptp_dod
+		wan_proto
+
+FileName: Congratulations.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Congratulations.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: RST_status_dual_band.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_status_dual_band.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: VER_result_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_result_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MNU_access_multiLogin2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_multiLogin2.htm
+API: 
+	count: 1
+	name:
+		multi_login.cgi
+Para: 
+	count: 0
+	name:
+
+FileName: DEV_device.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_device.htm
+API: 
+	count: 1
+	name:
+		devices.cgi
+Para: 
+	count: 8
+	name:
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		refresh
+		target
+
+FileName: BAS_basictop.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_basictop.htm
+API: 
+	count: 1
+	name:
+		basictop.cgi
+Para: 
+	count: 2
+	name:
+		basic
+		loginreq
+
+FileName: traffic_meter.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_meter.htm
+API: 
+	count: 1
+	name:
+		traffic.cgi
+Para: 
+	count: 24
+	name:
+		ampm
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		checkBlock
+		checkLed
+		checkTraffic
+		conntime_monthly_limit
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		hour
+		refresh
+		restartCounter
+		round_up_volume
+		target
+		tm_type
+		traff_dir
+		trafficStatus
+		volume_monthly_limit
+		waterMark
+
+FileName: genie_basic.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_basic.htm
+API: 
+	count: 1
+	name:
+		geniemanual.cgi
+Para: 
+	count: 3
+	name:
+		WDect
+		disable_menu
+		formname
+
+FileName: Add_WPS_Client.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: WLG_wifi_sche_set_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DIG_reboot_guestNetwork.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DIG_reboot_guestNetwork.htm
+API: 
+	count: 1
+	name:
+		update.cgi
+Para: 
+	count: 3
+	name:
+		next_file
+		progress
+		update
+
+FileName: USB_basic_remote_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_remote_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: RST_statistics.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_statistics.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: USB_download_file.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_download_file.htm
+API: 
+	count: 1
+	name:
+		usb_downloadfile.cgi
+Para: 
+	count: 4
+	name:
+		buttonHit
+		buttonValue
+		close
+		target
+
+FileName: QOS_upgrade_ver_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_upgrade_ver_check.htm
+API: 
+	count: 1
+	name:
+		ver_check_qos_upgrade_cgi_main.cgi
+Para: 
+	count: 2
+	name:
+		Check
+		upgrade_form
+
+FileName: LANG_download.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_download.htm
+API: 
+	count: 1
+	name:
+		lang_download.cgi
+Para: 
+	count: 1
+	name:
+		formname
+
+FileName: genie_ap_learn_body.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_learn_body.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_ap_learn_more.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_learn_more.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		topframe
+
+FileName: WLG_ap_dual_band.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+API: 
+	count: 1
+	name:
+		ap_mode.cgi
+Para: 
+	count: 32
+	name:
+		Apply
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		WGateway1
+		WGateway2
+		WGateway3
+		WGateway4
+		WMask1
+		WMask2
+		WMask3
+		WMask4
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		apmode_display
+		buttonHit
+		buttonValue
+		fixed_ip_setting_display
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: start.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/start.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 90
+	name:
+		AdvanceTab
+		BasicTab
+		DOW_menu
+		ECO_menu
+		INT_menu
+		LAN_set
+		ModuleName
+		PAR_menu
+		PAR_menu2
+		Qos_set
+		USBStorage_header
+		WLS_menu
+		access_control
+		administration
+		adv-home
+		adv-pane
+		adv_settings_header
+		adv_wireless_set
+		advance-table
+		advset_header
+		ap_head
+		auto_block
+		background
+		basic-atd
+		basic-dlr
+		basic-eco
+		basic-gst
+		basic-home
+		basic-int
+		basic-pane
+		basic-par
+		basic-rea
+		basic-table
+		basic-wls
+		blk_serv
+		blk_site
+		choicelang
+		container
+		curlang
+		ddns
+		dosearch
+		down_manage
+		down_set
+		downloader_header
+		email
+		enable_apmode
+		enable_stamode
+		first_brs_lang
+		footer
+		frmLanguage
+		guest_set
+		have_usb_attached
+		int_set
+		lang_menu
+		lang_menu_li
+		local_srptlang
+		logout
+		logs
+		menuActive
+		noSubActive
+		openvpn
+		page
+		page2
+		page_contain
+		page_contain2
+		pf_head
+		preloaded-images
+		remote
+		repeater
+		repeater_an
+		router_status
+		sche
+		search
+		search_button
+		search_text
+		security_header
+		security_settings_header
+		select_region
+		set_hdr
+		setup_header
+		srptlang
+		sta_rout
+		support
+		upnp
+		vlan_set
+		wan_set
+		wds_head
+		wireless_set
+		wizard
+		wps-wizard
+
+FileName: genie_otherissue.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_otherissue.htm
+API: 
+	count: 1
+	name:
+		geniereset.cgi
+Para: 
+	count: 3
+	name:
+		Next
+		WANDetc
+		formname
+
+FileName: WIZ_det_fix_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_det_fix_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BKS_err.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_err.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 4
+	name:
+		buttonHit
+		buttonValue
+		next_file
+		target
+
+FileName: index.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/index.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: IPV6_auto_result.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_auto_result.htm
+API: 
+	count: 1
+	name:
+		ipv6auto.cgi
+Para: 
+	count: 2
+	name:
+		browser_name
+		ipv6_auto_err
+
+FileName: LAN_lan_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LAN_lan_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: genie_ap_dual_band.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_dual_band.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 24
+	name:
+		Apply
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		WGateway1
+		WGateway2
+		WGateway3
+		WGateway4
+		WMask1
+		WMask2
+		WMask3
+		WMask4
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		formname
+		helpframe-anchor
+		target
+
+FileName: genie_ap_mode_start.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_mode_start.htm
+API: 
+	count: 1
+	name:
+		genie_ap_start.cgi
+Para: 
+	count: 4
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+
+FileName: IPV6_pppoe_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_pppoe_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: pppoe2_domain_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/pppoe2_domain_edit.htm
+API: 
+	count: 1
+	name:
+		pppoe2_domain.cgi
+Para: 
+	count: 6
+	name:
+		accept
+		cancel
+		domain
+		formname
+		policyIndex
+		trigger
+
+FileName: pppoe2_ip_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/pppoe2_ip_add.htm
+API: 
+	count: 1
+	name:
+		pppoe2_ip.cgi
+Para: 
+	count: 9
+	name:
+		Addr1
+		Addr2
+		Addr3
+		Addr4
+		Addr5
+		Protocol
+		cancel
+		formname
+		trigger
+
+FileName: PWD_password.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/PWD_password.htm
+API: 
+	count: 1
+	name:
+		password.cgi
+Para: 
+	count: 15
+	name:
+		Cancel
+		PasswdRecovery
+		answer1
+		answer2
+		buttonHit
+		buttonValue
+		cfAlert_Apply
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		sysConfirmPasswd
+		sysNewPasswd
+		sysOldPasswd
+		target
+
+FileName: VLAN_IPTV_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VLAN_IPTV_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BAS_pppoe.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+API: 
+	count: 1
+	name:
+		pppoe.cgi
+Para: 
+	count: 46
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DNSAssign
+		FletSel
+		MACAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		Spoofmac
+		Test
+		WANAssign
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		apply
+		auto_conn_24hr
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		login_type
+		myip_1
+		myip_2
+		myip_3
+		myip_4
+		mymask_1
+		mymask_2
+		mymask_3
+		mymask_4
+		passwdEnterStatus
+		pppoe_dod
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		target
+		topframe
+
+FileName: SRV_response.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/SRV_response.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 12
+	name:
+		block
+		buttonHit
+		buttonValue
+		historyBack
+		next_file
+		pnpxstart
+		quit
+		quitblock
+		quitblock
+		target
+		warning
+		warning
+
+FileName: LANG_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_found.htm
+API: 
+	count: 1
+	name:
+		lang_result.cgi
+Para: 
+	count: 5
+	name:
+		buttonHit
+		buttonValue
+		enable_ap_mode
+		enable_sta_mode
+		formname
+
+FileName: Adv_USB.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Adv_USB.htm
+API: 
+	count: 1
+	name:
+		usb_approve.cgi
+Para: 
+	count: 12
+	name:
+		Apply
+		Delete
+		Refresh
+		adv_usb
+		approved_usb_only
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: WPS_Add_Client_FAIL_PBC_Conflict_Change.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict_Change.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: important_update.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/important_update.htm
+API: 
+	count: 1
+	name:
+		important_update.cgi
+Para: 
+	count: 1
+	name:
+		important_update
+
+FileName: IPV6_basictop1.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_basictop1.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 1
+	name:
+		basic
+
+FileName: DEV_control_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_control_add.htm
+API: 
+	count: 1
+	name:
+		access_control_add.cgi
+Para: 
+	count: 16
+	name:
+		Cancel
+		access_control_add_type
+		action
+		allowed_list_head
+		black_list_line2
+		blocked_list_head
+		buttonHit
+		buttonValue
+		dev_name
+		frmLan
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		mac_addr
+		target
+
+FileName: USB_basic_printing.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 7
+	name:
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: LANG_no_connection.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_no_connection.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 5
+	name:
+		Back
+		buttonHit
+		buttonValue
+		formname
+		target
+
+FileName: WLG_acl_add_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_acl_add_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DEV_device2_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_device2_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: LANG_not_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_not_found.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 6
+	name:
+		Back
+		buttonHit
+		buttonValue
+		curlang
+		formname
+		target
+
+FileName: DIG_reboot3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DIG_reboot3.htm
+API: 
+	count: 1
+	name:
+		update.cgi
+Para: 
+	count: 6
+	name:
+		buttonHit
+		buttonValue
+		next_file
+		progress
+		target
+		update
+
+FileName: genie_fix.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_fix.htm
+API: 
+	count: 1
+	name:
+		genie_fix2.cgi
+Para: 
+	count: 22
+	name:
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		WGateway1
+		WGateway2
+		WGateway3
+		WGateway4
+		WMask1
+		WMask2
+		WMask3
+		WMask4
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		formname
+
+FileName: genie_redirect_successpage2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_redirect_successpage2.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: IPV6_pppoe.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+API: 
+	count: 1
+	name:
+		ipv6_pppoe.cgi
+Para: 
+	count: 50
+	name:
+		Cancel
+		DNSAssign
+		IPv6_interface_id1
+		IPv6_interface_id2
+		IPv6_interface_id3
+		IPv6_interface_id4
+		IpAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		PDAddr5
+		PDAddr6
+		PDAddr7
+		PDAddr8
+		Refresh
+		SDAddr1
+		SDAddr2
+		SDAddr3
+		SDAddr4
+		SDAddr5
+		SDAddr6
+		SDAddr7
+		SDAddr8
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_interface_id
+		ipv6_interfaceid_enable
+		ipv6_proto
+		ipv6rd_wan_dns1_pri
+		ipv6rd_wan_dns1_sec
+		ipv6rd_wan_dns_sel
+		login_type
+		pppoe_dod
+		pppoe_login_info_display
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_share_login_display
+		pppoe_username
+		single_login
+		single_pppoe_login
+		target
+		useInterfaceId
+		wan_proto
+
+FileName: QOS_service.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_service.htm
+API: 
+	count: 1
+	name:
+		qos_serv.cgi
+Para: 
+	count: 26
+	name:
+		action
+		add_edit
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		category
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		name
+		priority
+		select
+		select_apps
+		select_category
+		select_dev_mac
+		select_dev_name
+		select_lan_port
+		select_name
+		select_port_end
+		select_port_start
+		select_priority
+		select_protocol
+		target
+
+FileName: adv-wifi.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/adv-wifi.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 84
+	name:
+		AdvanceTab
+		Advanced_Settings
+		BasicTab
+		ECO_menu
+		INT_menu
+		LAN_set
+		ModuleName
+		PAR_menu
+		PAR_menu2
+		Qos_set
+		USBStorage_header
+		WLS_menu
+		access_control
+		administration
+		adv-home
+		adv-pane
+		adv_settings_header
+		adv_wireless_set
+		advance-table
+		advset_header
+		ap_head
+		auto_block
+		background
+		basic-atd
+		basic-eco
+		basic-gst
+		basic-home
+		basic-int
+		basic-pane
+		basic-par
+		basic-rea
+		basic-table
+		basic-wls
+		blk_serv
+		blk_site
+		choicelang
+		container
+		curlang
+		ddns
+		dosearch
+		email
+		enable_apmode
+		enable_stamode
+		first_brs_lang
+		footer
+		frmLanguage
+		guest_set
+		int_set
+		lang_menu
+		lang_menu_li
+		local_srptlang
+		logout
+		logs
+		menuActive
+		noSubActive
+		openvpn
+		page
+		page2
+		page_contain
+		page_contain2
+		pf_head
+		preloaded-images
+		remote
+		repeater
+		repeater_an
+		router_status
+		sche
+		search
+		search_button
+		search_text
+		security_header
+		security_settings_header
+		select_region
+		set_hdr
+		setup_header
+		srptlang
+		sta_rout
+		support
+		upnp
+		wan_set
+		wds_head
+		wireless_set
+		wizard
+		wps-wizard
+
+FileName: genie_ap_help_choose_4.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_help_choose_4.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 4
+	name:
+		Apply
+		choose
+		formname
+		target
+
+FileName: router-info.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/router-info.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_bpa2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_bpa2.htm
+API: 
+	count: 2
+	name:
+		
+		genie_bpa.cgi
+Para: 
+	count: 9
+	name:
+		False
+		Next
+		bpa_idletime
+		bpa_passwd
+		bpa_server
+		bpa_username
+		formname
+		pppoe_username
+		runtest
+
+FileName: WPS_Add_Client_FAIL_PIN_Change.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN_Change.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: DEV_access_block.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_access_block.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WIZ_result.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_result.htm
+API: 
+	count: 1
+	name:
+		wiz_rst.cgi
+Para: 
+	count: 6
+	name:
+		back
+		buttonHit
+		buttonValue
+		formname
+		next
+		target
+
+FileName: WLG_acl_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_acl_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: VER_check_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_check_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: Adv_USB_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Adv_USB_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: IPV6_passthrough.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+API: 
+	count: 1
+	name:
+		ipv6_passthrough.cgi
+Para: 
+	count: 12
+	name:
+		Cancel
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_proto
+		login_type
+		target
+
+FileName: WLG_adv_dual_band.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+API: 
+	count: 1
+	name:
+		wlg_adv.cgi
+Para: 
+	count: 43
+	name:
+		Apply
+		Cancel
+		access
+		add_sche
+		add_sche_an
+		buttonHit
+		buttonValue
+		del_sche
+		del_sche_an
+		edit_sche
+		edit_sche_an
+		enable_ap
+		enable_ap_an
+		enable_coexistence
+		enable_coexistence_an
+		enable_shortpreamble
+		enable_shortpreamble_an
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ntp_synced_flag
+		select_2g_sche
+		select_5g_sche
+		show_wps_alert
+		target
+		wifi_2g_sche
+		wifi_2g_sche_num
+		wifi_2g_sche_onoff
+		wifi_2g_state
+		wifi_5g_sche
+		wifi_5g_sche_div1
+		wifi_5g_sche_div2
+		wifi_5g_sche_num
+		wifi_5g_sche_onoff
+		wifi_5g_state
+		wifi_onoff
+		wifi_onoff_an
+		wifi_sche_div1
+		wifi_sche_div2
+		wps_display
+		wps_enable
+
+FileName: VLAN_IPTV.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VLAN_IPTV.htm
+API: 
+	count: 1
+	name:
+		vlan.cgi
+Para: 
+	count: 31
+	name:
+		Delete
+		Edit
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		iptv_check
+		iptv_enable
+		iptv_interfaces
+		iptv_ports_0
+		iptv_ports_1
+		iptv_ports_2
+		iptv_ports_3
+		iptv_ports_4
+		iptv_ports_5
+		iptv_ports_6
+		select
+		target
+		vlan_check
+		vlan_check_button
+		vlan_enable
+		vlan_iptv_check
+		vlan_iptv_enable
+		vlan_iptv_select
+		vlan_rule_enable
+		vlan_rule_name
+		vlantag
+
+FileName: BAK_backup.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAK_backup.htm
+API: 
+	count: 1
+	name:
+		backup.cgi
+Para: 
+	count: 13
+	name:
+		Backup
+		buttonHit
+		buttonValue
+		defaults
+		file
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		mtenRestore
+		mtenRestoreCfg
+		target
+		upfile
+
+FileName: IPV6_dhcp_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_dhcp_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WPS_Add_Client_PBC.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+API: 
+	count: 1
+	name:
+		wps_status.cgi
+Para: 
+	count: 10
+	name:
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		helpframe
+		pgbarcount
+		progress
+		stop
+		target
+		wps_icon
+
+FileName: BKS_keyword_ppp2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+API: 
+	count: 1
+	name:
+		pppoe2_keyword.cgi
+Para: 
+	count: 15
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		cfKeyWord_AddKeyword
+		cfKeyWord_ClearList
+		cfKeyWord_DeleteKeyword
+		cfKeyWord_Domain
+		cfKeyWord_DomainList
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		skeyword
+		target
+		wzWAN_IPFinish
+
+FileName: MNU_accessUnauthorized_checkAnswer.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkAnswer.htm
+API: 
+	count: 1
+	name:
+		passwordrecovered.cgi
+Para: 
+	count: 4
+	name:
+		Cancel
+		Continue
+		answer1
+		answer2
+
+FileName: backpage2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/backpage2.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_IP_SUBNET.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_IP_SUBNET.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WLG_wireless2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+API: 
+	count: 1
+	name:
+		wireless.cgi
+Para: 
+	count: 27
+	name:
+		<%1478%>
+		Apply
+		Cancel
+		WRegion
+		buttonHit
+		buttonValue
+		enable_isolation
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		initChannel
+		only_mode
+		opmode
+		passphrase
+		security_type
+		security_type_2G
+		show_wps_alert
+		ssid
+		ssid_bc
+		target
+		tempRegion
+		tempSetting
+		w_channel
+		wds_enable
+		wep_radio_2G
+		wpa_radio_2G
+
+FileName: IPV6_basic.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_basic.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		basicbuttom
+		full-page-container
+
+FileName: LANG_check_brslang.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_check_brslang.htm
+API: 
+	count: 1
+	name:
+		langbrscheck.cgi
+Para: 
+	count: 4
+	name:
+		browser
+		brscheck
+		brslanguage
+		version
+
+FileName: WLG_wds.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wds.htm
+API: 
+	count: 1
+	name:
+		wds.cgi
+Para: 
+	count: 12
+	name:
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		show_wps_alert
+		sysLANIPAddr1
+		sysLANIPAddr2
+		sysLANIPAddr3
+		sysLANIPAddr4
+		target
+
+FileName: WPS_Add_Client_FAIL_Timeout.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: WLG_2g_wireless3_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_2g_wireless3_2.htm
+API: 
+	count: 1
+	name:
+		wlg_sec_profile_main.cgi
+Para: 
+	count: 13
+	name:
+		allow_see_access
+		bssid_enable
+		buttonHit
+		buttonValue
+		enable_allow_see_access
+		enable_apmode
+		enable_bssid
+		enable_ssid_bc
+		only_mode
+		security_type
+		ssid
+		ssid_bc_enable
+		wep_radio_2G
+
+FileName: Congratulations2_ap_mode.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Congratulations2_ap_mode.htm
+API: 
+	count: 1
+	name:
+		congratulations.cgi
+Para: 
+	count: 4
+	name:
+		formname
+		target
+		wireless_2g_security
+		wireless_5g_security
+
+FileName: genie_redirect.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_redirect.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WIZ_pppoe_fletother.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+API: 
+	count: 2
+	name:
+		bsw_pppoe.cgi
+		wizpppoe.cgi
+Para: 
+	count: 42
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr2_1
+		DAddr2_2
+		DAddr2_3
+		DAddr2_4
+		DAddr3
+		DAddr4
+		DNSAssign
+		DNSAssign2
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr2_1
+		PDAddr2_2
+		PDAddr2_3
+		PDAddr2_4
+		PDAddr3
+		PDAddr4
+		Test
+		WANAssign
+		WANAssign2
+		WPethr1
+		WPethr2
+		WPethr2_1
+		WPethr2_2
+		WPethr2_3
+		WPethr2_4
+		WPethr3
+		WPethr4
+		apply
+		formname
+		pppoe2_passwd
+		pppoe2_servicename
+		pppoe2_username
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		session_type
+
+FileName: RST_bridge_status.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+API: 
+	count: 1
+	name:
+		info.cgi
+Para: 
+	count: 15
+	name:
+		Client_Status
+		Version_info
+		bridge_interface
+		buttonHit
+		buttonValue
+		conn_status_24g
+		conn_status_5g
+		conn_status_line
+		curlang
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		status_24g
+		target
+
+FileName: USB_settings_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_settings_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WLG_acl_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+API: 
+	count: 1
+	name:
+		wlan_acl_add.cgi
+Para: 
+	count: 12
+	name:
+		buttonHit
+		buttonValue
+		cancel
+		device
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		macaddr
+		refresh
+		target
+
+FileName: BAK_cfm.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAK_cfm.htm
+API: 
+	count: 1
+	name:
+		backup.cgi
+Para: 
+	count: 4
+	name:
+		ROMReset
+		buttonHit
+		buttonValue
+		target
+
+FileName: WIZ_ph_fail.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_ph_fail.htm
+API: 
+	count: 1
+	name:
+		ph_fail
+Para: 
+	count: 5
+	name:
+		Button
+		buttonHit
+		buttonValue
+		formname
+		target
+
+FileName: VER_write.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_write.htm
+API: 
+	count: 1
+	name:
+		ver_write.cgi
+Para: 
+	count: 5
+	name:
+		formname
+		menu_top_hide
+		pgbarcount
+		progress
+		stop
+
+FileName: FW_forward_service_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_forward_service_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: VER_ap_fw_not_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_ap_fw_not_found.htm
+API: 
+	count: 1
+	name:
+		ver_result.cgi
+Para: 
+	count: 9
+	name:
+		back
+		buttonHit
+		buttonValue
+		call_by_genie
+		cancel_button
+		enable_ap_mode
+		enable_sta_mode
+		formname
+		target
+
+FileName: BKS_service_ppp2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+API: 
+	count: 1
+	name:
+		pppoe2_fw_serv.cgi
+Para: 
+	count: 14
+	name:
+		Delete
+		Edit
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		frmService
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		select
+		skeyword
+		target
+
+FileName: genie_check_brslang.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_check_brslang.htm
+API: 
+	count: 1
+	name:
+		genie_lang.cgi
+Para: 
+	count: 4
+	name:
+		browser
+		brscheck
+		brslanguage
+		version
+
+FileName: WIZ_detwan.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_detwan.htm
+API: 
+	count: 1
+	name:
+		detwan.cgi
+Para: 
+	count: 3
+	name:
+		WDect
+		formname
+		progress
+
+FileName: dlna.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/dlna.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: ARP_binding.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ARP_binding.htm
+API: 
+	count: 1
+	name:
+		arp.cgi
+Para: 
+	count: 13
+	name:
+		Edit
+		apply
+		arp_binding
+		arp_protection
+		buttonHit
+		buttonValue
+		cancel
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipmac_binding
+		target
+
+FileName: IPV6_auto.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_auto.htm
+API: 
+	count: 1
+	name:
+		ipv6_auto.cgi
+Para: 
+	count: 42
+	name:
+		Cancel
+		DNSAssign
+		IPv6_interface_id1
+		IPv6_interface_id2
+		IPv6_interface_id3
+		IPv6_interface_id4
+		IpAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		PDAddr5
+		PDAddr6
+		PDAddr7
+		PDAddr8
+		Refresh
+		SDAddr1
+		SDAddr2
+		SDAddr3
+		SDAddr4
+		SDAddr5
+		SDAddr6
+		SDAddr7
+		SDAddr8
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_interface_id
+		ipv6_interfaceid_enable
+		ipv6_proto
+		ipv6rd_wan_dns1_pri
+		ipv6rd_wan_dns1_sec
+		ipv6rd_wan_dns_sel
+		login_type
+		target
+		useInterfaceId
+		wan_dns_display
+
+FileName: MNU_relogin.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_relogin.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: FW_remote_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_remote_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: LAN_lan.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LAN_lan.htm
+API: 
+	count: 1
+	name:
+		lan.cgi
+Para: 
+	count: 36
+	name:
+		Cancel
+		Delete
+		Edit
+		action
+		buttonHit
+		buttonValue
+		dhcp_server
+		dlna_autoip
+		dlna_autoip_en
+		frmLan
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		repeater
+		repeater_an
+		rip_direction
+		select
+		sysLANIPAddr1
+		sysLANIPAddr2
+		sysLANIPAddr3
+		sysLANIPAddr4
+		sysLANSubnetMask1
+		sysLANSubnetMask2
+		sysLANSubnetMask3
+		sysLANSubnetMask4
+		sysPoolFinishAddr1
+		sysPoolFinishAddr2
+		sysPoolFinishAddr3
+		sysPoolFinishAddr4
+		sysPoolStartingAddr1
+		sysPoolStartingAddr2
+		sysPoolStartingAddr3
+		sysPoolStartingAddr4
+		sysRIPVersion
+		target
+
+FileName: IPV6_dhcp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+API: 
+	count: 1
+	name:
+		ipv6_dhcp.cgi
+Para: 
+	count: 43
+	name:
+		Cancel
+		DNSAssign
+		IPv6_interface_id1
+		IPv6_interface_id2
+		IPv6_interface_id3
+		IPv6_interface_id4
+		IpAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		PDAddr5
+		PDAddr6
+		PDAddr7
+		PDAddr8
+		Refresh
+		SDAddr1
+		SDAddr2
+		SDAddr3
+		SDAddr4
+		SDAddr5
+		SDAddr6
+		SDAddr7
+		SDAddr8
+		apply
+		buttonHit
+		buttonValue
+		domain_name
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_interface_id
+		ipv6_interfaceid_enable
+		ipv6_proto
+		ipv6_system
+		ipv6rd_wan_dns1_pri
+		ipv6rd_wan_dns1_sec
+		ipv6rd_wan_dns_sel
+		login_type
+		target
+		useInterfaceId
+
+FileName: genie_admin_account.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_admin_account.htm
+API: 
+	count: 1
+	name:
+		admin_account.cgi
+Para: 
+	count: 6
+	name:
+		answer1
+		answer2
+		next
+		sysConfirmPasswd
+		sysNewPasswd
+		target
+
+FileName: RST_interval.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_interval.htm
+API: 
+	count: 1
+	name:
+		POST
+Para: 
+	count: 5
+	name:
+		Button
+		Load
+		buttonHit
+		buttonValue
+		target
+
+FileName: WIZ_pppoe_fletwest.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+API: 
+	count: 2
+	name:
+		bsw_pppoe.cgi
+		wizpppoe.cgi
+Para: 
+	count: 42
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr2_1
+		DAddr2_2
+		DAddr2_3
+		DAddr2_4
+		DAddr3
+		DAddr4
+		DNSAssign
+		DNSAssign2
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr2_1
+		PDAddr2_2
+		PDAddr2_3
+		PDAddr2_4
+		PDAddr3
+		PDAddr4
+		Test
+		WANAssign
+		WANAssign2
+		WPethr1
+		WPethr2
+		WPethr2_1
+		WPethr2_2
+		WPethr2_3
+		WPethr2_4
+		WPethr3
+		WPethr4
+		apply
+		formname
+		pppoe2_passwd
+		pppoe2_servicename
+		pppoe2_username
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		session_type
+
+FileName: auto_block.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/auto_block.htm
+API: 
+	count: 1
+	name:
+		autoblock.cgi
+Para: 
+	count: 2
+	name:
+		formname
+		target
+
+FileName: IPV6_disable.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_disable.htm
+API: 
+	count: 1
+	name:
+		ipv6_disable.cgi
+Para: 
+	count: 12
+	name:
+		Apply
+		Cancel
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_proto
+		login_type
+		target
+
+FileName: WAN_wan_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WAN_wan_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WPS_Add_Client_FAIL_Timeout_Change.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout_Change.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: WIZ_dyn.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+API: 
+	count: 1
+	name:
+		wiz_dyn.cgi
+Para: 
+	count: 10
+	name:
+		Cancel
+		Test
+		apply
+		buttonHit
+		buttonValue
+		domain_name
+		formname
+		runtest
+		system_name
+		target
+
+FileName: genie_ether.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ether.htm
+API: 
+	count: 1
+	name:
+		genieether.cgi
+Para: 
+	count: 3
+	name:
+		Next
+		Spoofmac
+		formname
+
+FileName: WPS_Add_Client_FAIL_Cancel.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: USB_basic_main.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_main.htm
+API: 
+	count: 1
+	name:
+		usb_basic_main.cgi
+Para: 
+	count: 5
+	name:
+		appName
+		browser_name
+		full-page-container
+		helpframe-anchor
+		userAgent
+
+FileName: BAS_pppoe_other.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+API: 
+	count: 1
+	name:
+		pppoe2.cgi
+Para: 
+	count: 55
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr2_1
+		DAddr2_2
+		DAddr2_3
+		DAddr2_4
+		DAddr3
+		DAddr4
+		DNSAssign
+		DNSAssign2
+		FletSel
+		PDAddr1
+		PDAddr2
+		PDAddr2_1
+		PDAddr2_2
+		PDAddr2_3
+		PDAddr2_4
+		PDAddr3
+		PDAddr4
+		Policy
+		Test
+		WANAssign
+		WANAssign2
+		WPethr1
+		WPethr2
+		WPethr2_1
+		WPethr2_2
+		WPethr2_3
+		WPethr2_4
+		WPethr3
+		WPethr4
+		apply
+		buttonHit
+		buttonValue
+		delete
+		edit
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		login_type
+		pppoe2_passwd
+		pppoe2_servicename
+		pppoe2_username
+		pppoe_dod
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		session_type
+		target
+		topframe
+
+FileName: UPG_fw_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPG_fw_check.htm
+API: 
+	count: 1
+	name:
+		upgrade.cgi
+Para: 
+	count: 7
+	name:
+		YesButton
+		buttonHit
+		buttonValue
+		display
+		formname
+		progress
+		target
+
+FileName: BKS_service_add_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_service_add_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: start_update.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/start_update.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		formframe
+		topframe
+
+FileName: genie_ping_ap_mode.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ping_ap_mode.htm
+API: 
+	count: 1
+	name:
+		genieping.cgi
+Para: 
+	count: 5
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+		loading
+
+FileName: QOS_down_streaming.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_down_streaming.htm
+API: 
+	count: 1
+	name:
+		qos_main.cgi
+Para: 
+	count: 79
+	name:
+		AutoUpdateEnable
+		DownstreamTab
+		QosDatabaseList
+		UpstreamTab
+		WMMTab
+		WMM_value_2g
+		WMM_value_5g
+		add_qos
+		apply
+		applyBtn
+		apply_page
+		bandwidth
+		browser_ver
+		buttonHit
+		buttonValue
+		bwEnable
+		bw_sel
+		bw_set_sel
+		cancel
+		cancelBtn
+		checkBtn
+		check_bw
+		check_info
+		check_nowan
+		check_result
+		check_unreach
+		check_update
+		choose_selection
+		custom_idx
+		custom_mac_idx
+		delete_all_qos
+		delete_qos
+		device_name
+		downstream-pane
+		downstream-table
+		edit_qos
+		enable_apmode
+		enable_stamode
+		frmRules
+		full-page-container
+		help-button
+		helpframe-anchor
+		keyword
+		mac_list
+		name
+		office_idx
+		priority_sel
+		progress
+		qosEnable
+		qosHelpFile
+		qosStreamingEnable
+		qos_bw_enable
+		qos_down_streaming_enable
+		qos_enable
+		qos_keyword
+		qos_macaddress
+		qos_name
+		qos_table_list
+		qos_update_enable
+		radio_selection
+		rate
+		repeater
+		repeater_an
+		reset_qos
+		ruleSelect
+		select
+		selection_button
+		setup_qos_rule
+		setup_qos_ruleBtn
+		target
+		uplink_bd
+		uplink_bw
+		upstream-pane
+		upstream-table
+		video_streaming_qos
+		wmm-pane
+		wmm-table
+		wmm_enable_2g
+		wmm_enable_5g
+
+FileName: MNU_top.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_top.htm
+API: 
+	count: 1
+	name:
+		lang_top.cgi
+Para: 
+	count: 7
+	name:
+		Apply
+		choicelang
+		curlang
+		frmLanguage
+		local_srptlang
+		select_region
+		srptlang
+
+FileName: BAS_pptp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pptp.htm
+API: 
+	count: 1
+	name:
+		pptp.cgi
+Para: 
+	count: 50
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DNSAssign
+		MACAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		Spoofmac
+		Test
+		WANAssign
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		apply
+		auto_conn_24hr
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		login_type
+		mygw_1
+		mygw_2
+		mygw_3
+		mygw_4
+		myip_1
+		myip_2
+		myip_3
+		myip_4
+		mymask_1
+		mymask_2
+		mymask_3
+		mymask_4
+		passwdEnterStatus
+		pptp_conn_id
+		pptp_dod
+		pptp_idletime
+		pptp_passwd
+		pptp_serv_ip
+		pptp_username
+		runtest
+		target
+		topframe
+
+FileName: LANG_brs_conflict_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_brs_conflict_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: debug.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/debug.htm
+API: 
+	count: 1
+	name:
+		advanced_control.cgi
+Para: 
+	count: 18
+	name:
+		Allow_external_IPv6_hosts_ping_internal_IPv6_hosts
+		DebugLog
+		Enable_Telnet
+		IPv6_debug
+		ModuleName
+		Start_When_Boot_Up
+		WAN_port_mirror_to_LAN_port
+		action_Capture_Packets
+		action_Enable_Telnet
+		action_Mirror_Port
+		action_Start_Capture
+		action_Start_When_Boot_Up
+		capture_in_process
+		dump_LAN_WAN_pkt
+		form
+		ipv6_debug
+		store_location
+		wan_ping_to_lan
+
+FileName: WPS.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS.htm
+API: 
+	count: 1
+	name:
+		wps_button.cgi
+Para: 
+	count: 8
+	name:
+		WPS_type
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: FW_pt_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_pt_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: MNU_top_hide.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_top_hide.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 1
+	name:
+		frmLanguage
+
+FileName: PWD_passwd_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/PWD_passwd_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BAS_pppoe_basic.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pppoe_basic.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		basicbuttom
+		basictop
+
+FileName: BKS_service_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_service_add.htm
+API: 
+	count: 2
+	name:
+		fw_serv_add.cgi
+		pppoe2_fw_serv_add.cgi
+Para: 
+	count: 28
+	name:
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		f_endip1
+		f_endip2
+		f_endip3
+		f_endip4
+		f_pcip1
+		f_pcip2
+		f_pcip3
+		f_pcip4
+		f_startip1
+		f_startip2
+		f_startip3
+		f_startip4
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		iptype
+		portend
+		portstart
+		protocol
+		target
+		userdefined
+		which_mode
+
+FileName: VER_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_check.htm
+API: 
+	count: 1
+	name:
+		ver_check.cgi
+Para: 
+	count: 8
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		call_by_genie
+		formname
+		menu_top_hide
+		stop
+		target
+
+FileName: StringTableUpload.html
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/StringTableUpload.html
+API: 
+	count: 1
+	name:
+		strtblupgrade.cgi
+Para: 
+	count: 2
+	name:
+		StringFilepload
+		mtenRestore
+
+FileName: wifisettings.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/wifisettings.htm
+API: 
+	count: 1
+	name:
+		wifichset.cgi
+Para: 
+	count: 4
+	name:
+		Cancel
+		action
+		channel_mode
+		frmLan
+
+FileName: CheckNewFW.html
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/CheckNewFW.html
+API: 
+	count: 1
+	name:
+		fw_check.cgi
+Para: 
+	count: 9
+	name:
+		Cancel
+		enable_ap_mode
+		formname
+		menu_top_hide
+		pgbarcount
+		progress
+		stop
+		ver_check_enable
+		ver_checkbox
+
+FileName: ADVANCED_home1.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ADVANCED_home1.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WAN_wan.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WAN_wan.htm
+API: 
+	count: 1
+	name:
+		security.cgi
+Para: 
+	count: 50
+	name:
+		IPSecPassthrough
+		L2TPPassthrough
+		NatInboundFiltering
+		PPTPPassthrough
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		disable_gproxy
+		disable_sip
+		disable_spi
+		dmz_enable
+		dmz_ip
+		dmzip1
+		dmzip2
+		dmzip3
+		dmzip4
+		enable_iptv_lan1
+		enable_iptv_lan2
+		enable_iptv_lan3
+		enable_iptv_lan4
+		enable_iptv_wlan1
+		enable_iptv_wlan2
+		frmRules
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipsec_passthrough
+		iptv_intf_lan1
+		iptv_intf_lan2
+		iptv_intf_lan3
+		iptv_intf_lan4
+		iptv_intf_wlan1
+		iptv_intf_wlan2
+		ipv6disable
+		l2tp_passthrough
+		nat_inbound_filtering
+		nvram_mtu
+		pptp_passthrough
+		rspToPing
+		ru_iptv_support_lan
+		ru_iptv_support_line
+		ru_iptv_support_str
+		ru_iptv_support_wlan1
+		ru_iptv_support_wlan2
+		target
+		wan_mtu
+		wan_proto
+		wan_way
+
+FileName: CheckNewFirmware.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/CheckNewFirmware.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		topframe
+		tophideframe
+
+FileName: WLG_wireless_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WPS_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: USB_adv_main.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_adv_main.htm
+API: 
+	count: 1
+	name:
+		usb_adv_main.cgi
+Para: 
+	count: 3
+	name:
+		appName
+		browser_name
+		userAgent
+
+FileName: MNU_access_login_top.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_login_top.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MNU_login.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_login.htm
+API: 
+	count: 1
+	name:
+		login.cgi
+Para: 
+	count: 3
+	name:
+		close
+		enable
+		logo_enable
+
+FileName: WLG_adv_dual_band2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+API: 
+	count: 1
+	name:
+		wlg_adv.cgi
+Para: 
+	count: 103
+	name:
+		Apply
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		SDAddr1
+		SDAddr2
+		SDAddr3
+		SDAddr4
+		SGateway1
+		SGateway2
+		SGateway3
+		SGateway4
+		SMask1
+		SMask2
+		SMask3
+		SMask4
+		SPDAddr1
+		SPDAddr2
+		SPDAddr3
+		SPDAddr4
+		SPethr1
+		SPethr2
+		SPethr3
+		SPethr4
+		WGateway1
+		WGateway2
+		WGateway3
+		WGateway4
+		WMask1
+		WMask2
+		WMask3
+		WMask4
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		add_sche
+		add_sche_an
+		ap_mode
+		apmode_display
+		bridge_page
+		buttonHit
+		buttonValue
+		del_sche
+		del_sche_an
+		edit_sche
+		edit_sche_an
+		enable_ap
+		enable_ap_an
+		enable_coexistence
+		enable_shortpreamble
+		enable_shortpreamble_an
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ntp_synced_flag
+		other_mode
+		passphrase_2g
+		passphrase_5g
+		secu_type_2g
+		secu_type_5g
+		select_2g_sche
+		select_5g_sche
+		show_wps_alert
+		ssid_2g
+		ssid_5g
+		sta_mode
+		stamode_display
+		stamode_dns1_pri
+		stamode_dns1_sec
+		stamode_gateway
+		stamode_ipaddr
+		stamode_netmask
+		target
+		wifi_2g_sche
+		wifi_2g_sche_num
+		wifi_2g_sche_onoff
+		wifi_2g_state
+		wifi_5g_sche
+		wifi_5g_sche_div1
+		wifi_5g_sche_div2
+		wifi_5g_sche_num
+		wifi_5g_sche_onoff
+		wifi_5g_state
+		wifi_button_message
+		wifi_button_message_an
+		wifi_button_on_off
+		wifi_onoff
+		wifi_onoff_an
+		wifi_sche_div1
+		wifi_sche_div2
+		wla_radio
+		wlg_radio
+		wps_display
+		wps_enable
+
+FileName: NoInternetConn.html
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/NoInternetConn.html
+API: 
+	count: 1
+	name:
+		ph_fail
+Para: 
+	count: 7
+	name:
+		Button
+		buttonHit
+		buttonValue
+		call_by_genie
+		enable_ap_mode
+		formname
+		target
+
+FileName: UPNP_upnp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+API: 
+	count: 1
+	name:
+		upnp.cgi
+Para: 
+	count: 17
+	name:
+		AdverTime
+		TimeToLive
+		UPnP
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		hiddenAdverTime
+		hiddenTimeToLive
+		hiddenTurnUPnPOn
+		refresh
+		target
+
+FileName: genie_redirect_successpage.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_redirect_successpage.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: BAS_basictop2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_basictop2.htm
+API: 
+	count: 1
+	name:
+		basictop.cgi
+Para: 
+	count: 2
+	name:
+		basic
+		loginreq
+
+FileName: WLG_wifi_sche_set_warn.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+API: 
+	count: 1
+	name:
+		wifi_sche.cgi
+Para: 
+	count: 13
+	name:
+		buttonHit
+		buttonValue
+		end_time
+		frmschedules
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		sche_apply
+		sche_cancel
+		selday
+		start_time
+		target
+
+FileName: genie_ap_help_choose_3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_help_choose_3.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 3
+	name:
+		Apply
+		formname
+		target
+
+FileName: IPV6_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: LAN_reserv_edit_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LAN_reserv_edit_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WIZ_pppoe.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+API: 
+	count: 2
+	name:
+		bsw_pppoe.cgi
+		wizpppoe.cgi
+Para: 
+	count: 28
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DNSAssign
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		Test
+		WANAssign
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		apply
+		buttonHit
+		buttonValue
+		formname
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		session_type
+		target
+
+FileName: VER_fw_not_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_fw_not_found.htm
+API: 
+	count: 1
+	name:
+		ver_result.cgi
+Para: 
+	count: 11
+	name:
+		back
+		buttonHit
+		buttonValue
+		call_by_genie
+		cancel_button
+		enable_ap_mode
+		enable_sta_mode
+		formname
+		quit
+		quit_button
+		target
+
+FileName: genie_pptp2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_pptp2.htm
+API: 
+	count: 2
+	name:
+		
+		genie_pptp.cgi
+Para: 
+	count: 22
+	name:
+		False
+		Next
+		apply
+		formname
+		mygw_1
+		mygw_2
+		mygw_3
+		mygw_4
+		myip_1
+		myip_2
+		myip_3
+		myip_4
+		mymask_1
+		mymask_2
+		mymask_3
+		mymask_4
+		pptp_idletime
+		pptp_passwd
+		pptp_serv_ip
+		pptp_username
+		runtest
+		test_win
+
+FileName: DIG_reboot.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DIG_reboot.htm
+API: 
+	count: 1
+	name:
+		msg_load.cgi
+Para: 
+	count: 2
+	name:
+		msg_load
+		next_file
+
+FileName: BKS_keyword_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_keyword_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BAS_wtest_d.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_wtest_d.htm
+API: 
+	count: 1
+	name:
+		wtest_d.cgi
+Para: 
+	count: 2
+	name:
+		close
+		testOK
+
+FileName: WIZ_pptp_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_pptp_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: VLAN_IPTV_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VLAN_IPTV_add.htm
+API: 
+	count: 1
+	name:
+		vlan_rule.cgi
+Para: 
+	count: 22
+	name:
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+		vlan_id
+		vlan_mode
+		vlan_name
+		vlan_ports_0
+		vlan_ports_1
+		vlan_ports_2
+		vlan_ports_3
+		vlan_ports_4
+		vlan_ports_5
+		vlan_ports_6
+		vlan_prio
+		vlan_rule_name
+		wifi_dual_5g_band
+
+FileName: WLG_adv_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_adv_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: genie_ap_help_choose_5.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_help_choose_5.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 3
+	name:
+		Apply
+		formname
+		target
+
+FileName: VLAN_IPTV_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VLAN_IPTV_edit.htm
+API: 
+	count: 1
+	name:
+		vlan_rule.cgi
+Para: 
+	count: 24
+	name:
+		Cancel
+		apply
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		orig_vlan_name
+		target
+		vlan_enable
+		vlan_id
+		vlan_mode
+		vlan_name
+		vlan_ports_0
+		vlan_ports_1
+		vlan_ports_2
+		vlan_ports_3
+		vlan_ports_4
+		vlan_ports_5
+		vlan_ports_6
+		vlan_prio
+		vlan_rule_name
+		vlan_support_lan
+
+FileName: IA_IP_SUBNET.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IA_IP_SUBNET.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_pppoe.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_pppoe.htm
+API: 
+	count: 1
+	name:
+		geniepppoe.cgi
+Para: 
+	count: 21
+	name:
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DNSAssign
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		WANAssign
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		formname
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		session_type
+
+FileName: LGO_logout.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LGO_logout.htm
+API: 
+	count: 1
+	name:
+		logout.cgi
+Para: 
+	count: 2
+	name:
+		formname
+		full-page-container
+
+FileName: USB_basic_remote.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_remote.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: pppoe2_ip_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/pppoe2_ip_edit.htm
+API: 
+	count: 1
+	name:
+		pppoe2_ip.cgi
+Para: 
+	count: 11
+	name:
+		Addr1
+		Addr2
+		Addr3
+		Addr4
+		Addr5
+		Protocol
+		accept
+		cancel
+		formname
+		policyIndex
+		trigger
+
+FileName: FW_remote.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_remote.htm
+API: 
+	count: 1
+	name:
+		fwRemote.cgi
+Para: 
+	count: 25
+	name:
+		Cancel
+		apply
+		buttonHit
+		buttonValue
+		fin_ip_1
+		fin_ip_2
+		fin_ip_3
+		fin_ip_4
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		http_rmport
+		local_ip_1
+		local_ip_2
+		local_ip_3
+		local_ip_4
+		remote_mg_enable
+		remotemg
+		rm_access
+		start_ip_1
+		start_ip_2
+		start_ip_3
+		start_ip_4
+		target
+
+FileName: UPG_upgrade_ver_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPG_upgrade_ver_check.htm
+API: 
+	count: 1
+	name:
+		ver_check_upgrade.cgi
+Para: 
+	count: 2
+	name:
+		Check
+		upgrade_form
+
+FileName: Download_settings_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Download_settings_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: BAK_backup_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAK_backup_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: frame_back.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/frame_back.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_pppoe2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+API: 
+	count: 1
+	name:
+		geniepppoe.cgi
+Para: 
+	count: 21
+	name:
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DNSAssign
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		WANAssign
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		formname
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		session_type
+
+FileName: WIZ_cfm.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_cfm.htm
+API: 
+	count: 1
+	name:
+		wiz_cfm.cgi
+Para: 
+	count: 4
+	name:
+		buttonHit
+		buttonValue
+		formname
+		target
+
+FileName: genie_bpa.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_bpa.htm
+API: 
+	count: 2
+	name:
+		
+		genie_bpa.cgi
+Para: 
+	count: 9
+	name:
+		False
+		Next
+		bpa_idletime
+		bpa_passwd
+		bpa_server
+		bpa_username
+		formname
+		pppoe_username
+		runtest
+
+FileName: WIZ_bpa.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+API: 
+	count: 2
+	name:
+		bsw_bpa.cgi
+		wiz_bpa.cgi
+Para: 
+	count: 13
+	name:
+		Cancel
+		Next
+		Test
+		apply
+		bpa_idletime
+		bpa_passwd
+		bpa_server
+		bpa_username
+		buttonHit
+		buttonValue
+		formname
+		runtest
+		target
+
+FileName: WLG_adv_sche_set_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_adv_sche_set_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_ap_warning.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_warning.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 4
+	name:
+		Apply
+		enable_ap_mode
+		formname
+		target
+
+FileName: BAS_pptp_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pptp_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: QOS_check_uplink_band_width.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_check_uplink_band_width.htm
+API: 
+	count: 1
+	name:
+		bandwidth_check.cgi
+Para: 
+	count: 6
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		formname
+		stop
+		target
+
+FileName: WiFi_HiddenPage.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WiFi_HiddenPage.htm
+API: 
+	count: 1
+	name:
+		wifi.cgi
+Para: 
+	count: 13
+	name:
+		Cancel
+		action
+		ampdu
+		ampdu1
+		amsdu
+		amsdu1
+		beacon
+		beacon1
+		dtim
+		dtim1
+		frameburst
+		frameburst1
+		frmLan
+
+FileName: UPG_upgrade.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+API: 
+	count: 1
+	name:
+		upgrade_check.cgi
+Para: 
+	count: 15
+	name:
+		Cancel
+		Check
+		IS_check_upgrade
+		buttonHit
+		buttonValue
+		enable
+		file
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		mtenFWUpload
+		progress
+		upfile
+		ver_check_enable
+
+FileName: DEV_control_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_control_edit.htm
+API: 
+	count: 1
+	name:
+		access_control_edit.cgi
+Para: 
+	count: 16
+	name:
+		Cancel
+		access_control_add_type
+		access_control_option
+		action
+		black_list_line2
+		buttonHit
+		buttonValue
+		dev_mac
+		dev_name
+		frmLan
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		is_edit_itself
+		target
+
+FileName: VER_download.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_download.htm
+API: 
+	count: 1
+	name:
+		ver_download.cgi
+Para: 
+	count: 10
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		call_by_genie
+		enable_ap_mode
+		enable_sta_mode
+		formname
+		menu_top_hide
+		stop
+		target
+
+FileName: BAS_ether.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_ether.htm
+API: 
+	count: 1
+	name:
+		ether.cgi
+Para: 
+	count: 39
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DNSAssign
+		MACAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		Spoofmac
+		Test
+		WANAssign
+		WGateway1
+		WGateway2
+		WGateway3
+		WGateway4
+		WMask1
+		WMask2
+		WMask3
+		WMask4
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		apply
+		buttonHit
+		buttonValue
+		domain_name
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		runtest
+		system_name
+		target
+		topframe
+
+FileName: Download_settings.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Download_settings.htm
+API: 
+	count: 1
+	name:
+		downloader_adv.cgi
+Para: 
+	count: 21
+	name:
+		Browse
+		Cancel
+		auto_refresh
+		auto_refresh_enable
+		buttonHit
+		buttonValue
+		cfAlert_Apply
+		concur_tasks_allow
+		configure_email
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		max_concur_tasks
+		max_down_speed
+		max_up_speed
+		other_refresh_rate
+		refresh_rate
+		target
+		usb_folder
+
+FileName: FW_email_port_detect.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_email_port_detect.htm
+API: 
+	count: 1
+	name:
+		smtp_port_detect.cgi
+Para: 
+	count: 1
+	name:
+		formname
+
+FileName: LANG_write.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_write.htm
+API: 
+	count: 1
+	name:
+		lang_write.cgi
+Para: 
+	count: 1
+	name:
+		formname
+
+FileName: USB_adv_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_adv_add.htm
+API: 
+	count: 1
+	name:
+		usb_device.cgi
+Para: 
+	count: 17
+	name:
+		Apply
+		Browse
+		Close
+		ReadMultiUser0
+		buttonHit
+		buttonValue
+		frmService
+		fromGUI
+		no_dlna
+		readAllNoPwdChecked
+		read_access
+		share_name
+		target
+		usb_device
+		usb_folder
+		writeAllNoPwdChecked
+		write_access
+
+FileName: WPS_Add_Client_FAIL_PIN.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: ADV_home1.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ADV_home1.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: QOS_ver_db_not_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_ver_db_not_found.htm
+API: 
+	count: 1
+	name:
+		ver_result.cgi
+Para: 
+	count: 8
+	name:
+		back
+		buttonHit
+		buttonValue
+		cancel_button
+		formname
+		quit
+		quit_button
+		target
+
+FileName: VER_fw_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_fw_found.htm
+API: 
+	count: 1
+	name:
+		ver_result.cgi
+Para: 
+	count: 5
+	name:
+		buttonHit
+		buttonValue
+		call_by_genie
+		formname
+		target
+
+FileName: WPS_Add_Client_PIN.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+API: 
+	count: 1
+	name:
+		wps_status.cgi
+Para: 
+	count: 11
+	name:
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		helpframe
+		helpframe-anchor
+		pgbarcount
+		progress
+		stop
+		target
+		wps_icon
+
+FileName: LANG_lang.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_lang.htm
+API: 
+	count: 1
+	name:
+		lang_lang.cgi
+Para: 
+	count: 2
+	name:
+		Check
+		formname
+
+FileName: USB_basic.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic.htm
+API: 
+	count: 1
+	name:
+		usb_adv.cgi
+Para: 
+	count: 20
+	name:
+		Edit
+		ReadyShareSupportedLevel
+		Refresh
+		Remove
+		USB_basic
+		USB_line
+		USB_printer
+		USB_readycloud
+		USB_support
+		USB_vault
+		action
+		buttonHit
+		buttonValue
+		frmService
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+		usb_num
+
+FileName: MNU_access_login.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_login.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DIG_reboot2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DIG_reboot2.htm
+API: 
+	count: 1
+	name:
+		update.cgi
+Para: 
+	count: 6
+	name:
+		buttonHit
+		buttonValue
+		next_file
+		progress
+		target
+		update
+
+FileName: close_process.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/close_process.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 1
+	name:
+		formname
+
+FileName: IPV6_fixed.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+API: 
+	count: 1
+	name:
+		ipv6_fix.cgi
+Para: 
+	count: 63
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		DAddr5
+		DAddr6
+		DAddr7
+		DAddr8
+		IPv6Gateway1
+		IPv6Gateway2
+		IPv6Gateway3
+		IPv6Gateway4
+		IPv6Gateway5
+		IPv6Gateway6
+		IPv6Gateway7
+		IPv6Gateway8
+		IPv6LanAddr1
+		IPv6LanAddr2
+		IPv6LanAddr3
+		IPv6LanAddr4
+		IPv6LanAddr5
+		IPv6LanAddr6
+		IPv6LanAddr7
+		IPv6LanAddr8
+		IPv6WanAddr1
+		IPv6WanAddr2
+		IPv6WanAddr3
+		IPv6WanAddr4
+		IPv6WanAddr5
+		IPv6WanAddr6
+		IPv6WanAddr7
+		IPv6WanAddr8
+		IpAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		PDAddr5
+		PDAddr6
+		PDAddr7
+		PDAddr8
+		ProfixLanLength
+		ProfixWanLength
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_enable_dhcp
+		ipv6_lan_ipaddr
+		ipv6_lan_length
+		ipv6_pri_dns
+		ipv6_proto
+		ipv6_sec_dns
+		ipv6_wan_gateway
+		ipv6_wan_ipaddr
+		ipv6_wan_length
+		login_type
+		target
+
+FileName: DebugHiddenPage.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DebugHiddenPage.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		DebugLog
+		debug_dump_wifi_pkt
+		debug_in_process
+		target
+		wifi_log_2_period
+		wifi_log_period
+		wifi_rate_dump_period
+
+FileName: WPS_Add_Client_FAIL_ErrorPIN.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_ErrorPIN.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: RST_status_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_status_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: QOS_redirect.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_redirect.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: USB_umount.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_umount.htm
+API: 
+	count: 1
+	name:
+		usb_umount.cgi
+Para: 
+	count: 7
+	name:
+		Apply
+		Cancel
+		buttonHit
+		buttonValue
+		choice
+		frmService
+		target
+
+FileName: BAS_bpa_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_bpa_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: QOS_ver_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_ver_check.htm
+API: 
+	count: 1
+	name:
+		ver_check_qos_cgi_main.cgi
+Para: 
+	count: 7
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		formname
+		menu_top_hide
+		stop
+		target
+
+FileName: IPV6_tunnel_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_tunnel_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: traffic_interval.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_interval.htm
+API: 
+	count: 1
+	name:
+		traffic_status.cgi
+Para: 
+	count: 4
+	name:
+		Button
+		buttonHit
+		buttonValue
+		target
+
+FileName: BKS_keyword.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_keyword.htm
+API: 
+	count: 1
+	name:
+		keyword.cgi
+Para: 
+	count: 20
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		cfKeyWord_AddKeyword
+		cfKeyWord_ClearList
+		cfKeyWord_DeleteKeyword
+		cfKeyWord_Domain
+		cfKeyWord_DomainList
+		cfTrusted_IPAddress1
+		cfTrusted_IPAddress2
+		cfTrusted_IPAddress3
+		cfTrusted_IPAddress4
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		skeyword
+		target
+		trustipenble
+		wzWAN_IPFinish
+
+FileName: QOS_main.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_main.htm
+API: 
+	count: 1
+	name:
+		qos_main.cgi
+Para: 
+	count: 28
+	name:
+		apply
+		bandwidth
+		buttonHit
+		buttonValue
+		bwEnable
+		bw_sel
+		bw_set_sel
+		cancel
+		check_bw
+		enable_apmode
+		frmRules
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		priority_sel
+		qosEnable
+		qos_bw_enable
+		qos_enable
+		rate
+		repeater
+		repeater_an
+		select
+		setup_qos_rule
+		target
+		uplink_bw
+		video_streaming_qos
+		wmm_enable
+
+FileName: RST_stattbl.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_stattbl.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: genie_ap_wifi_changed.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_wifi_changed.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 5
+	name:
+		Apply
+		enable_ap_mode
+		enable_ap_mode_tmp
+		formname
+		target
+
+FileName: DIG_reboot4.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DIG_reboot4.htm
+API: 
+	count: 1
+	name:
+		update.cgi
+Para: 
+	count: 6
+	name:
+		buttonHit
+		buttonValue
+		next_file
+		progress
+		target
+		update
+
+FileName: openvpn_help.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/openvpn_help.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: RST_st_fix.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_st_fix.htm
+API: 
+	count: 1
+	name:
+		st_fixip.cgi
+Para: 
+	count: 5
+	name:
+		buttonHit
+		buttonValue
+		close
+		refreshScrn
+		target
+
+FileName: QOS_main_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_main_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: USB_settings.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_settings.htm
+API: 
+	count: 1
+	name:
+		usb_settings.cgi
+Para: 
+	count: 11
+	name:
+		USB_settings
+		apply
+		approve
+		buttonHit
+		buttonValue
+		enable_all_usb_device
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: VER_sel_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_sel_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: QOS_ver_download.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_ver_download.htm
+API: 
+	count: 1
+	name:
+		ver_db_download.cgi
+Para: 
+	count: 7
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		formname
+		menu_top_hide
+		stop
+		target
+
+FileName: genie_pptp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_pptp.htm
+API: 
+	count: 1
+	name:
+		genie_pptp.cgi
+Para: 
+	count: 19
+	name:
+		Next
+		formname
+		mygw_1
+		mygw_2
+		mygw_3
+		mygw_4
+		myip_1
+		myip_2
+		myip_3
+		myip_4
+		mymask_1
+		mymask_2
+		mymask_3
+		mymask_4
+		pptp_idletime
+		pptp_passwd
+		pptp_serv_ip
+		pptp_username
+		runtest
+
+FileName: LED_settings.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LED_settings.htm
+API: 
+	count: 1
+	name:
+		led_settings.cgi
+Para: 
+	count: 8
+	name:
+		Apply
+		Cancel
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		led_settings
+		target
+
+FileName: traffic_status.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_status.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: FW_pt_service.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_pt_service.htm
+API: 
+	count: 1
+	name:
+		fwpt_service.cgi
+Para: 
+	count: 23
+	name:
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		in_port_end
+		in_port_start
+		in_port_type
+		out_port_type
+		pt_name
+		pt_port
+		pt_type
+		src_ip
+		src_ip1
+		src_ip2
+		src_ip3
+		src_ip4
+		src_ip_type
+		target
+
+FileName: RST_st_poe.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_st_poe.htm
+API: 
+	count: 1
+	name:
+		st_poe.cgi
+Para: 
+	count: 11
+	name:
+		ConMethod
+		Connect
+		Disconnect
+		PPP2Connect
+		PPP2Disconnect
+		buttonHit
+		buttonValue
+		close
+		poe_st
+		pppoe2
+		target
+
+FileName: RST_wanstat.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_wanstat.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: NoInternet.html
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/NoInternet.html
+API: 
+	count: 1
+	name:
+		ph_fail
+Para: 
+	count: 5
+	name:
+		Button
+		buttonHit
+		buttonValue
+		formname
+		target
+
+FileName: genie_detecting.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_detecting.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		disable_menu
+		loading
+		next_file
+		update
+
+FileName: MNU_multiLogin.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_multiLogin.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MNU_accessPasswdRecovery.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_accessPasswdRecovery.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WLG_wireless_dual_band_r10.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+API: 
+	count: 1
+	name:
+		wireless.cgi
+Para: 
+	count: 108
+	name:
+		Apply
+		Cancel
+		KEY1
+		KEY1_an
+		KEY2
+		KEY2_an
+		KEY3
+		KEY3_an
+		KEY4
+		KEY4_an
+		RADIUSAddr1_wla
+		RADIUSAddr1_wlg
+		RADIUSAddr2_wla
+		RADIUSAddr2_wlg
+		RADIUSAddr3_wla
+		RADIUSAddr3_wlg
+		RADIUSAddr4_wla
+		RADIUSAddr4_wlg
+		WRegion
+		authAlgm
+		authAlgm_an
+		auto_channel_5G
+		board_id
+		buttonHit
+		buttonValue
+		ce_dfs_ch_enable
+		enable_band_steering
+		enable_isolation
+		enable_isolation_an
+		enable_tpc
+		enable_tpc_an
+		encryptmode
+		encryptmode_an
+		fcc_dfs_ch_enable
+		full-page-container
+		fw_sku
+		gui_security_type_5G
+		help-button
+		helpframe
+		helpframe-anchor
+		initAuthType
+		initAuthType_an
+		initChannel
+		initChannel_an
+		initDefaultKey
+		initDefaultKey_an
+		init_security_type_2G
+		init_security_type_5G
+		only_mode
+		opmode
+		opmode_an
+		passphrase
+		passphrase_an
+		region_select
+		ru_jp
+		ru_na
+		ru_ww
+		security_type
+		security_type_2G
+		security_type_5G
+		security_type_an
+		select_2g_tpc
+		select_5g_tpc
+		setRegion
+		setting_2G
+		setting_5G
+		show_wps_alert
+		ssid
+		ssid_an
+		ssid_bc
+		ssid_bc_an
+		super_wifi_option
+		super_wifi_option_an
+		support_ac_mode
+		target
+		telec_dfs_ch_enable
+		tempRegion
+		tempSetting
+		w_channel
+		w_channel_an
+		wan_ipaddr
+		wan_netmask
+		wds_enable
+		wds_enable_an
+		wep_2G
+		wep_5G
+		wep_key_no
+		wep_key_no_an
+		wep_radio_2G
+		wep_radio_5G
+		wepenc
+		wepenc_an
+		wla_ent_secu_type
+		wla_radius_ipaddr
+		wlg_ent_secu_type
+		wlg_radius_ipaddr
+		wpa_2G
+		wpa_5G
+		wpa_en_2G
+		wpa_en_5G
+		wpa_en_gk_int
+		wpa_en_gk_int_wlg
+		wpa_en_radius_port
+		wpa_en_radius_port_wlg
+		wpa_en_radius_ss
+		wpa_en_radius_ss_wlg
+		wpa_radio_2G
+		wpa_radio_5g
+
+FileName: genie_ap_mode_apply.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_mode_apply.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 4
+	name:
+		disable_menu
+		loading
+		next_file
+		update
+
+FileName: genie_ap_result.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_result.htm
+API: 
+	count: 1
+	name:
+		genie_ap_result.cgi
+Para: 
+	count: 5
+	name:
+		WANDetc
+		formname
+		let_me_choose
+		mode_select
+		next
+
+FileName: debuginfo.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/debuginfo.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WLG_wifi_sche_set.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+API: 
+	count: 1
+	name:
+		wifi_sche.cgi
+Para: 
+	count: 13
+	name:
+		buttonHit
+		buttonValue
+		end_time
+		frmschedules
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		sche_apply
+		sche_cancel
+		selday
+		start_time
+		target
+
+FileName: WLG_wds_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wds_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: QOS_WMM_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_WMM_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: USB_adv_tab.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_adv_tab.htm
+API: 
+	count: 1
+	name:
+		usb_adv.cgi
+Para: 
+	count: 33
+	name:
+		Apply
+		Delete
+		Refresh
+		Remove
+		action
+		buttonHit
+		buttonValue
+		deviceName
+		enable_apmode
+		enable_ftp
+		enable_ftp_protect
+		enable_http
+		enable_http_protect
+		enable_samba
+		enable_samba_protect
+		enable_stamode
+		enable_wan_ftp
+		enable_wan_ftp_protect
+		enable_wan_http
+		enable_wan_http_protect
+		frmService
+		ftp_via_port
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		http_via_port
+		is_https
+		no_dlna
+		select
+		target
+		usb_num
+		workGroup
+
+FileName: FW_schedule.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_schedule.htm
+API: 
+	count: 1
+	name:
+		fwSchedule.cgi
+Para: 
+	count: 9
+	name:
+		adjust
+		buttonHit
+		buttonValue
+		enable_apmode
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: BAS_basictop1.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_basictop1.htm
+API: 
+	count: 1
+	name:
+		basictop.cgi
+Para: 
+	count: 2
+	name:
+		basic
+		loginreq
+
+FileName: UPG_fw_check2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPG_fw_check2.htm
+API: 
+	count: 1
+	name:
+		ver_check_upgrade.cgi
+Para: 
+	count: 2
+	name:
+		Check
+		enable
+
+FileName: LANG_failed.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_failed.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 6
+	name:
+		Back
+		buttonHit
+		buttonValue
+		curlang
+		formname
+		target
+
+FileName: USB_basic_remote_unreg.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+API: 
+	count: 1
+	name:
+		usb_remote_invite.cgi
+Para: 
+	count: 17
+	name:
+		Register
+		buttonHit
+		buttonValue
+		dod_type_change
+		frmService
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		l2tp_dod
+		manually_on
+		password
+		pppoe_dod
+		pptp_dod
+		target
+		username
+		wan_protocol
+
+FileName: backpage3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/backpage3.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: currentsetting.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/currentsetting.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: STR_routes.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/STR_routes.htm
+API: 
+	count: 1
+	name:
+		routes.cgi
+Para: 
+	count: 11
+	name:
+		Delete
+		Edit
+		buttonHit
+		buttonValue
+		frmRoutes
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		select
+		target
+
+FileName: genie_ap_help_choose_1.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_help_choose_1.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 3
+	name:
+		Apply
+		formname
+		target
+
+FileName: Readyshare_Storage.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Readyshare_Storage.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 7
+	name:
+		MediaServer
+		Media_Server
+		ReadyCloud
+		ReadyShare
+		Ready_Cloud
+		Ready_Share
+		readyShare_tabs
+
+FileName: MNU_accessUnauthorized_checkSerialAgain.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkSerialAgain.htm
+API: 
+	count: 1
+	name:
+		securityquestions.cgi
+Para: 
+	count: 3
+	name:
+		Cancel
+		Continue
+		serialNumber
+
+FileName: IPV6_autoconfig.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+API: 
+	count: 1
+	name:
+		ipv6_autoconfig.cgi
+Para: 
+	count: 43
+	name:
+		Cancel
+		DNSAssign
+		IPv6_interface_id1
+		IPv6_interface_id2
+		IPv6_interface_id3
+		IPv6_interface_id4
+		IpAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		PDAddr5
+		PDAddr6
+		PDAddr7
+		PDAddr8
+		Refresh
+		SDAddr1
+		SDAddr2
+		SDAddr3
+		SDAddr4
+		SDAddr5
+		SDAddr6
+		SDAddr7
+		SDAddr8
+		apply
+		buttonHit
+		buttonValue
+		domain_name
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_interface_id
+		ipv6_interfaceid_enable
+		ipv6_proto
+		ipv6_system
+		ipv6rd_wan_dns1_pri
+		ipv6rd_wan_dns1_sec
+		ipv6rd_wan_dns_sel
+		login_type
+		target
+		useInterfaceId
+
+FileName: IPV6_auto_error.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_auto_error.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: FW_log.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_log.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 8
+	name:
+		buttonHit
+		buttonValue
+		enable_log
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: genie_redirect_successpage3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_redirect_successpage3.htm
+API: 
+	count: 1
+	name:
+		genie_to_success.cgi
+Para: 
+	count: 1
+	name:
+		formname
+
+FileName: genie_start.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_start.htm
+API: 
+	count: 1
+	name:
+		geniestart.cgi
+Para: 
+	count: 4
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+
+FileName: genie_download.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_download.htm
+API: 
+	count: 1
+	name:
+		genieDownload.cgi
+Para: 
+	count: 12
+	name:
+		RS_choose
+		RS_win
+		download_desktop_genie
+		download_readyshare
+		exit
+		exit_genie
+		formname
+		genie_chice
+		genie_mac
+		next
+		previous
+		target
+
+FileName: WLG_5g_wireless2_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_5g_wireless2_2.htm
+API: 
+	count: 1
+	name:
+		wlg_sec_profile_main.cgi
+Para: 
+	count: 17
+	name:
+		allow_see_access_an
+		bssid_enable
+		buttonHit
+		buttonValue
+		enable_allow_see_access
+		enable_apmode
+		enable_bssid_an
+		enable_ssid_bc_an
+		only_mode
+		passphrase_an
+		pfChanged
+		security_type_an
+		ssid_an
+		ssid_bc_enable
+		support_ac_mode
+		wep_radio_5G
+		wpa_radio_5g
+
+FileName: WIZ_ph_fail_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_ph_fail_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WPS_Add_Client_FAIL_Cancel_Change.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel_Change.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: WIZ_bpa_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_bpa_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: USB_basic_vault.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 7
+	name:
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: MNU_accessUnauthorized_checkAnswerAgain.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkAnswerAgain.htm
+API: 
+	count: 1
+	name:
+		passwordrecovered.cgi
+Para: 
+	count: 4
+	name:
+		Cancel
+		Continue
+		answer1
+		answer2
+
+FileName: DEV_control.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_control.htm
+API: 
+	count: 1
+	name:
+		access_control.cgi
+Para: 
+	count: 46
+	name:
+		Cancel
+		access_all
+		access_all_setting
+		action
+		add_black
+		add_white
+		allow
+		allow_all
+		allowed_text
+		barrow_black
+		barrow_white
+		black_list_body
+		black_list_line
+		black_list_line2
+		block
+		block_all
+		blocked_text
+		buttonHit
+		buttonValue
+		checkbox_index
+		checkbox_index_black
+		checkbox_index_white
+		delete_black
+		delete_black_lists
+		delete_white
+		delete_white_lists
+		edit_attached
+		edit_black
+		edit_lists
+		edit_white
+		enable_access_control
+		enable_acl
+		frmLan
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		is_edit_itself
+		refresh
+		router_access_user
+		rule_settings
+		select
+		target
+		white_list_body
+		white_list_line
+		white_list_line2
+
+FileName: Download_manager_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Download_manager_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: traffic_warning.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_warning.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		close
+
+FileName: FW_email_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_email_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DNS_ddns_Netgear_no_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DNS_ddns_Netgear_no_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: Download_manager.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Download_manager.htm
+API: 
+	count: 1
+	name:
+		downloader.cgi
+Para: 
+	count: 53
+	name:
+		Apply
+		Browse
+		Cancel
+		Delete_task
+		Pause_task
+		Refresh_task
+		Removehistory
+		Resume_task
+		action_type
+		add_task
+		browser1
+		btSeedUpload
+		bt_tbody1
+		bt_tbody2
+		bt_torrent_loc
+		bt_url
+		btfileloca
+		buttonHit
+		buttonValue
+		cancel
+		choose_file
+		configure_settings
+		download_head
+		download_type
+		downloading_files
+		duplicatefile
+		duplicatetask
+		ed_tbody
+		ed_url
+		enable_netgear_downloader
+		enablenetgeardownloader
+		fh_password
+		fh_tbody
+		fh_url
+		fh_username
+		file1
+		frmService
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		pri_sel_num
+		pri_sel_value
+		save_path
+		scroll1
+		scrollpane1
+		selType
+		select
+		select_all
+		select_all_checkbox
+		target
+		usb_bt_file
+		usb_folder
+
+FileName: BAS_wtest_l.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_wtest_l.htm
+API: 
+	count: 1
+	name:
+		wtest_l
+Para: 
+	count: 2
+	name:
+		close
+		testOK
+
+FileName: USB_folderBrowse.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_folderBrowse.htm
+API: 
+	count: 1
+	name:
+		usb_browse.cgi
+Para: 
+	count: 4
+	name:
+		buttonHit
+		buttonValue
+		close
+		target
+
+FileName: XCloudLog.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/XCloudLog.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 2
+	name:
+		target
+		xCloudDebugLog
+
+FileName: pppoe2_domain_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/pppoe2_domain_add.htm
+API: 
+	count: 1
+	name:
+		pppoe2_domain.cgi
+Para: 
+	count: 5
+	name:
+		cancel
+		domain
+		formname
+		macaddr
+		trigger
+
+FileName: FW_forward_service3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+API: 
+	count: 1
+	name:
+		pforward.cgi
+Para: 
+	count: 35
+	name:
+		action
+		apply
+		arrange_flag
+		buttonHit
+		buttonValue
+		cancel
+		entryData
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		internal_port_start
+		intportcolor
+		intporttype
+		lanIP
+		newIP
+		newType
+		oldIP
+		oldInternalSport
+		oldService
+		oldService2
+		oldService3
+		oldSport
+		oldType
+		pf_services_tbl
+		port_start
+		portname
+		same_range
+		server_ip1
+		server_ip2
+		server_ip3
+		server_ip4
+		srvtype
+		target
+
+FileName: MNU_menu_no_link.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_menu_no_link.htm
+API: 
+	count: 1
+	name:
+		menu.cgi
+Para: 
+	count: 0
+	name:
+
+FileName: BKS_service_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+API: 
+	count: 2
+	name:
+		fw_serv_edit.cgi
+		pppoe2_fw_serv_edit.cgi
+Para: 
+	count: 28
+	name:
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		f_endip1
+		f_endip2
+		f_endip3
+		f_endip4
+		f_pcip1
+		f_pcip2
+		f_pcip3
+		f_pcip4
+		f_startip1
+		f_startip2
+		f_startip3
+		f_startip4
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		iptype
+		portend
+		portstart
+		protocol
+		target
+		userdefined
+		which_mode
+
+FileName: WIZ_fix_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_fix_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: LANG_upgrade.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_upgrade.htm
+API: 
+	count: 1
+	name:
+		lang_check.cgi
+Para: 
+	count: 1
+	name:
+		formname
+
+FileName: MNU_accessPassword_recovered.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_accessPassword_recovered.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		Exit
+		Login
+
+FileName: WLG_adv.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_adv.htm
+API: 
+	count: 1
+	name:
+		wlg_adv.cgi
+Para: 
+	count: 50
+	name:
+		Apply
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		WGateway1
+		WGateway2
+		WGateway3
+		WGateway4
+		WMask1
+		WMask2
+		WMask3
+		WMask4
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		access
+		add_sche
+		apmode_display
+		buttonHit
+		buttonValue
+		del_sche
+		edit_sche
+		enable_ap
+		enable_shortpreamble
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ntp_synced_flag
+		select_2g_sche
+		show_wps_alert
+		target
+		wifi_2g_sche
+		wifi_2g_sche_num
+		wifi_2g_sche_onoff
+		wifi_2g_state
+		wifi_onoff
+		wifi_sche_div1
+		wifi_sche_div2
+		wifi_sche_div3
+		wifi_sche_div4
+		wps_enable
+
+FileName: MNU_blank.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_blank.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: BKS_service.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_service.htm
+API: 
+	count: 1
+	name:
+		fw_serv.cgi
+Para: 
+	count: 14
+	name:
+		Delete
+		Edit
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		frmService
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		select
+		skeyword
+		target
+
+FileName: MNU_access_unauthorized.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_unauthorized.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: FW_forward_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_forward_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WLG_wireless3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+API: 
+	count: 1
+	name:
+		wireless.cgi
+Para: 
+	count: 26
+	name:
+		<%1478%>
+		Apply
+		Cancel
+		WRegion
+		buttonHit
+		buttonValue
+		enable_isolation
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		initChannel
+		only_mode
+		opmode
+		security_type
+		security_type_2G
+		show_wps_alert
+		ssid
+		ssid_bc
+		target
+		tempRegion
+		tempSetting
+		w_channel
+		wds_enable
+		wep_radio_2G
+		wpa_radio_2G
+
+FileName: genie_down2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_down2.htm
+API: 
+	count: 1
+	name:
+		genie_no_wan_cable.cgi
+Para: 
+	count: 3
+	name:
+		formname
+		next
+		no_cable_insert
+
+FileName: ADV_home.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ADV_home.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: traffic_start_update.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_start_update.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 2
+	name:
+		formframe
+		topframe
+
+FileName: genie_result.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_result.htm
+API: 
+	count: 1
+	name:
+		geniemanual.cgi
+Para: 
+	count: 3
+	name:
+		WANDetc
+		formname
+		next
+
+FileName: VER_download_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_download_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: FW_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_check.htm
+API: 
+	count: 1
+	name:
+		fwcheck.cgi
+Para: 
+	count: 5
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		next_file
+		target
+
+FileName: BAS_pppoe_flet.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+API: 
+	count: 1
+	name:
+		pppoe2.cgi
+Para: 
+	count: 53
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr2_1
+		DAddr2_2
+		DAddr2_3
+		DAddr2_4
+		DAddr3
+		DAddr4
+		DNSAssign
+		DNSAssign2
+		FletSel
+		NTT_EAST
+		PDAddr1
+		PDAddr2
+		PDAddr2_1
+		PDAddr2_2
+		PDAddr2_3
+		PDAddr2_4
+		PDAddr3
+		PDAddr4
+		Test
+		WANAssign
+		WANAssign2
+		WPethr1
+		WPethr2
+		WPethr2_1
+		WPethr2_2
+		WPethr2_3
+		WPethr2_4
+		WPethr3
+		WPethr4
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		login_type
+		pppoe2_passwd
+		pppoe2_servicename
+		pppoe2_username
+		pppoe_dod
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		session_type
+		target
+		topframe
+
+FileName: genie_ping2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ping2.htm
+API: 
+	count: 1
+	name:
+		genieping2.cgi
+Para: 
+	count: 5
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+		loading
+
+FileName: WLG_bridge_close.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_bridge_close.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: WLG_acl_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+API: 
+	count: 1
+	name:
+		wlan_acl_edit.cgi
+Para: 
+	count: 12
+	name:
+		accept
+		buttonHit
+		buttonValue
+		cancel
+		device
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		macaddr
+		target
+
+FileName: DNS_ddns.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DNS_ddns.htm
+API: 
+	count: 1
+	name:
+		ddns.cgi
+Para: 
+	count: 65
+	name:
+		Button
+		Cancel
+		NApply
+		NButton
+		NCancel
+		NRegister
+		NReset
+		Netgear_account
+		Netgear_account_confirm_no
+		Netgear_account_email_no
+		Netgear_account_status
+		Netgear_img
+		Netgear_img_account_host_no
+		Netgear_img_no
+		Netgear_img_register_no
+		Netgear_noip
+		Netgear_register
+		Netgear_register_email_no
+		Netgear_success_reset
+		account
+		account_error
+		buttonHit
+		buttonValue
+		cfAlert_Apply
+		common_button
+		common_specific
+		confirmpass_graycheck
+		email_graycheck
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		host_graycheck
+		keep_screen
+		negear_keep_screen
+		netgear_button
+		oray_specific
+		password_graycheck
+		register_error
+		success_status
+		sysDNSActive
+		sysDNSEmail_Netgear
+		sysDNSEmail_Netgear_account
+		sysDNSHost
+		sysDNSHost_Netgear
+		sysDNSHost_Netgear_account
+		sysDNSPassword
+		sysDNSPassword_Netgear
+		sysDNSPassword_Netgear_account
+		sysDNSProviderlist
+		sysDNSUser
+		sysDNSWildCard
+		target
+		text_email_result
+		text_email_result_account
+		text_email_result_account_id
+		text_email_result_id
+		text_host_account_result
+		text_host_result
+		text_host_result_account_id
+		text_host_result_id
+		text_pass_register_result
+		text_pass_result_account
+		text_pass_result_account_id
+		text_pass_result_register_id
+
+FileName: IPV6_6rd.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_6rd.htm
+API: 
+	count: 1
+	name:
+		ipv6_6rd.cgi
+Para: 
+	count: 64
+	name:
+		BRIp1
+		BRIp2
+		BRIp3
+		BRIp4
+		Cancel
+		DNSAssign
+		IPv6_interface_id1
+		IPv6_interface_id2
+		IPv6_interface_id3
+		IPv6_interface_id4
+		IpAssign
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		PDAddr5
+		PDAddr6
+		PDAddr7
+		PDAddr8
+		Refresh
+		SDAddr1
+		SDAddr2
+		SDAddr3
+		SDAddr4
+		SDAddr5
+		SDAddr6
+		SDAddr7
+		SDAddr8
+		apply
+		buttonHit
+		buttonValue
+		enable
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		ipv6_br_ip
+		ipv6_interface_id
+		ipv6_interfaceid_enable
+		ipv6_prefix
+		ipv6_prefix_hex
+		ipv6_proto
+		ipv6rd_auto_mode
+		ipv6rd_rule
+		ipv6rd_rule_auto
+		ipv6rd_wan_dns1_pri
+		ipv6rd_wan_dns1_sec
+		ipv6rd_wan_dns_sel
+		ipv6rd_wan_mtu
+		login_type
+		masklen
+		prefix_hex1
+		prefix_hex2
+		prefix_hex3
+		prefix_hex4
+		prefix_len
+		target
+		useInterfaceId
+		wan_l2tp_dod
+		wan_pppoe_dod
+		wan_pptp_dod
+		wan_proto
+		wan_way
+
+FileName: LAN_reserv_add_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LAN_reserv_add_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DNS_ddns_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DNS_ddns_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DNS_ddns_st.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DNS_ddns_st.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: USB_basic_readycloud_msg.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_readycloud_msg.htm
+API: 
+	count: 1
+	name:
+		usb_remote_invite.cgi
+Para: 
+	count: 10
+	name:
+		Register
+		buttonHit
+		buttonValue
+		cancel
+		formname
+		no_admin
+		password
+		target
+		username
+		yes_admin
+
+FileName: VER_fwlang_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_fwlang_found.htm
+API: 
+	count: 1
+	name:
+		lang_result.cgi
+Para: 
+	count: 5
+	name:
+		buttonHit
+		buttonValue
+		call_by_genie
+		formname
+		target
+
+FileName: IPV6_fixed_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_fixed_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WLG_wds_dual_band.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+API: 
+	count: 1
+	name:
+		wds.cgi
+Para: 
+	count: 16
+	name:
+		buttonHit
+		buttonValue
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		show_wps_alert
+		sysLANIPAddr1
+		sysLANIPAddr1_an
+		sysLANIPAddr2
+		sysLANIPAddr2_an
+		sysLANIPAddr3
+		sysLANIPAddr3_an
+		sysLANIPAddr4
+		sysLANIPAddr4_an
+		target
+
+FileName: pppoe2_port_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/pppoe2_port_add.htm
+API: 
+	count: 1
+	name:
+		pppoe2_port.cgi
+Para: 
+	count: 7
+	name:
+		Port_1
+		Port_2
+		Protocol
+		cancel
+		formname
+		macaddr
+		trigger
+
+FileName: genie_no_con.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_no_con.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		WANDetc
+		formname
+		next
+
+FileName: genie_index.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_index.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		topframe
+
+FileName: DashBoard.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DashBoard.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 34
+	name:
+		AttachedDevices
+		AttachedDevices-bottom
+		AttachedDevices-condition
+		AttachedDevices-head
+		AttachedDevices-status
+		GuestNetwork
+		GuestNetwork-bottom
+		Internet
+		Internet-status
+		Internet_bottom
+		Internet_head
+		ParentalControls
+		ParentalControls-bottom
+		ParentalControls-condition
+		ParentalControls-head
+		ParentalControls-status
+		ReadyShare
+		ReadyShare-bottom
+		ReadyShare-condition
+		ReadyShare-head
+		ReadyShare-status
+		Wireless
+		Wireless_bottom
+		Wireless_head
+		attached1
+		attached2
+		curlang
+		internet1
+		internet2
+		parental1
+		parental2
+		readyshare1
+		readyshare2
+		sta_mode
+
+FileName: ARP_binding_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ARP_binding_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WIZ_sel_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_sel_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: genie_down.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_down.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		next
+
+FileName: OPENVPN_hidden.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+API: 
+	count: 1
+	name:
+		openvpn_hidden.cgi
+Para: 
+	count: 21
+	name:
+		Button
+		Cancel
+		buttonHit
+		buttonValue
+		cfAlert_Apply
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		openvpnActive
+		openvpnRedirect
+		openvpn_br_ip_end
+		openvpn_br_ip_start
+		openvpn_iface_type
+		openvpn_protocol
+		openvpn_push1
+		openvpn_push2
+		openvpn_server_ip
+		openvpn_service_port
+		oray_specific
+		target
+
+FileName: xAgent_cgi.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/xAgent_cgi.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DEV_redirect.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_redirect.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: QOS_DOWN_QOS_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_DOWN_QOS_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WLG_5g_wireless1_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_5g_wireless1_2.htm
+API: 
+	count: 1
+	name:
+		wlg_sec_profile_main.cgi
+Para: 
+	count: 21
+	name:
+		KEY1_an
+		KEY2_an
+		KEY3_an
+		KEY4_an
+		allow_see_access_an
+		authAlgm_an
+		bssid_enable
+		buttonHit
+		buttonValue
+		enable_allow_see_access
+		enable_apmode
+		enable_bssid_an
+		enable_ssid_bc_an
+		initAuthType
+		initDefaultKey
+		only_mode
+		security_type_an
+		ssid_an
+		ssid_bc_enable
+		wep_key_no_an
+		wepenc_an
+
+FileName: genie_dyn.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_dyn.htm
+API: 
+	count: 1
+	name:
+		genie_dyn.cgi
+Para: 
+	count: 4
+	name:
+		apply
+		disable_menu
+		formname
+		loading
+
+FileName: LANG_check_redirect2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_check_redirect2.htm
+API: 
+	count: 1
+	name:
+		lang_settop2.cgi
+Para: 
+	count: 2
+	name:
+		formname
+		targetlang
+
+FileName: WPS_Add_Client_OK.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_OK.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: LANG_check.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_check.htm
+API: 
+	count: 1
+	name:
+		lang_check.cgi
+Para: 
+	count: 1
+	name:
+		formname
+
+FileName: BAS_pppoe_flet2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+API: 
+	count: 1
+	name:
+		pppoe2.cgi
+Para: 
+	count: 53
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr2_1
+		DAddr2_2
+		DAddr2_3
+		DAddr2_4
+		DAddr3
+		DAddr4
+		DNSAssign
+		DNSAssign2
+		FletSel
+		NTT_WEST
+		PDAddr1
+		PDAddr2
+		PDAddr2_1
+		PDAddr2_2
+		PDAddr2_3
+		PDAddr2_4
+		PDAddr3
+		PDAddr4
+		Test
+		WANAssign
+		WANAssign2
+		WPethr1
+		WPethr2
+		WPethr2_1
+		WPethr2_2
+		WPethr2_3
+		WPethr2_4
+		WPethr3
+		WPethr4
+		apply
+		buttonHit
+		buttonValue
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		login_type
+		pppoe2_passwd
+		pppoe2_servicename
+		pppoe2_username
+		pppoe_dod
+		pppoe_idletime
+		pppoe_passwd
+		pppoe_servicename
+		pppoe_username
+		runtest
+		session_type
+		target
+		topframe
+
+FileName: genie_ph_fail.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ph_fail.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		Next
+		WANDetc
+		formname
+
+FileName: FW_pt.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_pt.htm
+API: 
+	count: 1
+	name:
+		fwpt.cgi
+Para: 
+	count: 18
+	name:
+		buttonHit
+		buttonValue
+		cancel
+		custom_sel
+		df_sel
+		formname
+		full-page-container
+		fwpt_enable
+		fwpt_timeout
+		help-button
+		helpframe
+		helpframe-anchor
+		serv_type
+		srvAdd
+		srvApply
+		srvDelete
+		srvEdit
+		target
+
+FileName: WLG_5g_wireless3_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_5g_wireless3_2.htm
+API: 
+	count: 1
+	name:
+		wlg_sec_profile_main.cgi
+Para: 
+	count: 15
+	name:
+		allow_see_access_an
+		bssid_enable
+		buttonHit
+		buttonValue
+		enable_allow_see_access
+		enable_apmode
+		enable_bssid_an
+		enable_ssid_bc_an
+		only_mode
+		security_type_an
+		ssid_an
+		ssid_bc_enable
+		support_ac_mode
+		wep_radio_5G
+		wpa_radio_5g
+
+FileName: QOS_ver_db_found.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_ver_db_found.htm
+API: 
+	count: 1
+	name:
+		ver_result_db_cgi_main.cgi
+Para: 
+	count: 4
+	name:
+		buttonHit
+		buttonValue
+		formname
+		target
+
+FileName: genie_ap_disable_wifi_ap.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_disable_wifi_ap.htm
+API: 
+	count: 1
+	name:
+		genie_ap_wifi_change.cgi
+Para: 
+	count: 13
+	name:
+		Apply
+		back_page
+		choose
+		client
+		disable_gw_wifi
+		formname
+		mode
+		pass_2g
+		pass_5g
+		reserve_gw_wifi
+		ssid_2g
+		ssid_5g
+		target
+
+FileName: VER_write_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_write_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: DIG_update.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DIG_update.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 7
+	name:
+		buttonHit
+		buttonValue
+		lanip_changed
+		next_file
+		progress
+		target
+		update
+
+FileName: MNU_access_login2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_login2.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		leftframe
+		rightframe
+		topframe
+
+FileName: RST_st_l2tp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_st_l2tp.htm
+API: 
+	count: 1
+	name:
+		st_l2tp.cgi
+Para: 
+	count: 8
+	name:
+		ConMethod
+		buttonHit
+		buttonValue
+		close
+		connect
+		disconnect
+		pptp_st
+		target
+
+FileName: GPL_rev1.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/GPL_rev1.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: QOS_ruletab.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+API: 
+	count: 1
+	name:
+		qos_rule_tab.cgi
+Para: 
+	count: 16
+	name:
+		add_qos
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		delete_all_qos
+		delete_qos
+		edit_qos
+		frmRules
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		priority_sel
+		select
+		target
+
+FileName: BAS_basic.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_basic.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: ADV_home2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/ADV_home2.htm
+API: 
+	count: 1
+	name:
+		newgui_adv_home.cgi
+Para: 
+	count: 28
+	name:
+		INT_setup
+		LAN_setup
+		Remove
+		Status
+		box-header-table1
+		box-header-table2
+		box-header-table3
+		box-header-table4
+		box-header-table5
+		box-header-table6
+		buttonSelect
+		curlang
+		enable_apmode
+		guest_setup
+		guest_setup_5G
+		page-table1
+		page-table2
+		page-table3
+		page-table4
+		page-table5
+		page-table6
+		reboot
+		scroll-pane
+		statistics
+		status
+		wantype
+		wireless_setup
+		wireless_setup_5G
+
+FileName: BAS_ether_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_ether_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WLG_wireless_dual_band.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+API: 
+	count: 1
+	name:
+		wireless.cgi
+Para: 
+	count: 78
+	name:
+		Apply
+		Cancel
+		Generate_an
+		KEY1
+		KEY1_an
+		KEY2
+		KEY2_an
+		KEY3
+		KEY3_an
+		KEY4
+		KEY4_an
+		WRegion
+		authAlgm
+		authAlgm_an
+		auto_channel_5G
+		board_id
+		buttonHit
+		buttonValue
+		ce_dfs_ch_enable
+		enable_isolation
+		enable_isolation_an
+		full-page-container
+		fw_sku
+		help-button
+		helpframe
+		helpframe-anchor
+		initAuthType
+		initAuthType_an
+		initChannel
+		initChannel_an
+		initDefaultKey
+		initDefaultKey_an
+		init_security_type_2G
+		init_security_type_5G
+		keygen
+		only_mode
+		opmode
+		opmode_an
+		passphrase
+		passphraseStr
+		passphraseStr_an
+		passphrase_an
+		region_select
+		ru_jp
+		ru_na
+		ru_ww
+		security_type
+		security_type_2G
+		security_type_5G
+		security_type_an
+		setRegion
+		setting_2G
+		setting_5G
+		show_wps_alert
+		ssid
+		ssid_an
+		ssid_bc
+		ssid_bc_an
+		support_ac_mode
+		target
+		telec_dfs_ch_enable
+		tempRegion
+		tempSetting
+		w_channel
+		w_channel_an
+		wds_enable
+		wds_enable_an
+		wep_2G
+		wep_5G
+		wep_key_no
+		wep_key_no_an
+		wep_radio_2G
+		wep_radio_5G
+		wepenc
+		wepenc_an
+		wpa_2G
+		wpa_5G
+		wpa_radio_5g
+
+FileName: genie_download_wait.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_download_wait.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: pppoe2_port_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/pppoe2_port_edit.htm
+API: 
+	count: 1
+	name:
+		pppoe2_port.cgi
+Para: 
+	count: 8
+	name:
+		Port_1
+		Port_2
+		Protocol
+		accept
+		cancel
+		formname
+		policyIndex
+		trigger
+
+FileName: UPG_upgrade_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/UPG_upgrade_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: IPV6_basictop.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_basictop.htm
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 1
+	name:
+		basic
+
+FileName: WLG_bridge_wireless_settings.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+API: 
+	count: 1
+	name:
+		bridge_wireless_main.cgi
+Para: 
+	count: 44
+	name:
+		Apply
+		Cancel
+		KEY1
+		KEY2
+		KEY3
+		KEY4
+		authAlgm
+		buttonHit
+		buttonValue
+		enable_stamode
+		full-page-container
+		fw_sku
+		help-button
+		helpframe
+		helpframe-anchor
+		initAuthType
+		initAuthType_an
+		initDefaultKey
+		initDefaultKey_an
+		interface
+		only_mode
+		passphrase
+		passphrase_an
+		security_type
+		security_type_2G
+		security_type_5G
+		security_type_an
+		setting_2G
+		setting_5G
+		show_wps_alert
+		ssid
+		ssid_an
+		target
+		telec_dfs_ch_enable
+		tempSetting
+		wds_enable
+		wds_enable_an
+		wep_2G
+		wep_key_no
+		wep_radio_2G
+		wepenc
+		wireless_interface
+		wpa_2G
+		wpa_5G
+
+FileName: DEV_device_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_device_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DEV_control_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_control_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: LANG_check_top2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_check_top2.htm
+API: 
+	count: 1
+	name:
+		lang_check2.cgi
+Para: 
+	count: 2
+	name:
+		formname
+		top_changed
+
+FileName: BAS_pppoe_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BAS_pppoe_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DEV_device2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DEV_device2.htm
+API: 
+	count: 1
+	name:
+		devices.cgi
+Para: 
+	count: 10
+	name:
+		buttonHit
+		buttonValue
+		enable_access_control
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		refresh
+		show_status
+		target
+
+FileName: USB_adv.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_adv.htm
+API: 
+	count: 1
+	name:
+		usb_adv.cgi
+Para: 
+	count: 33
+	name:
+		Apply
+		Delete
+		Refresh
+		Remove
+		action
+		buttonHit
+		buttonValue
+		deviceName
+		enable_apmode
+		enable_ftp
+		enable_ftp_protect
+		enable_http
+		enable_http_protect
+		enable_samba
+		enable_samba_protect
+		enable_stamode
+		enable_wan_ftp
+		enable_wan_ftp_protect
+		enable_wan_http
+		enable_wan_http_protect
+		frmService
+		ftp_via_port
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		http_via_port
+		is_https
+		no_dlna
+		select
+		target
+		usb_num
+		workGroup
+
+FileName: USB_adv_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_adv_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WLG_2g_wireless2_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_2g_wireless2_2.htm
+API: 
+	count: 1
+	name:
+		wlg_sec_profile_main.cgi
+Para: 
+	count: 15
+	name:
+		allow_see_access
+		bssid_enable
+		buttonHit
+		buttonValue
+		enable_allow_see_access
+		enable_apmode
+		enable_bssid
+		enable_ssid_bc
+		only_mode
+		passphrase
+		pfChanged
+		security_type
+		ssid
+		ssid_bc_enable
+		wep_radio_2G
+
+FileName: genie_ping.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ping.htm
+API: 
+	count: 1
+	name:
+		genieping.cgi
+Para: 
+	count: 5
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+		loading
+
+FileName: FW_forward3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_forward3.htm
+API: 
+	count: 1
+	name:
+		pforward.cgi
+Para: 
+	count: 26
+	name:
+		Arrange
+		Delete
+		Edit
+		SV_IP1
+		SV_IP2
+		SV_IP3
+		SV_IP4
+		action
+		arrange_flag
+		buttonHit
+		buttonValue
+		entryData
+		formname
+		full-page-container
+		fwpf_enable
+		help-button
+		helpframe
+		helpframe-anchor
+		inputIP
+		lanIP
+		selectEntry
+		selectService
+		serv_type
+		svAdd
+		svs_gm
+		target
+
+FileName: genie_ap_help_choose_2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_help_choose_2.htm
+API: 
+	count: 1
+	name:
+		genie_ap_set.cgi
+Para: 
+	count: 4
+	name:
+		Apply
+		choose
+		formname
+		target
+
+FileName: IPV6_auto_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_auto_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WPS_Add_Client_FAIL_PBC_Conflict.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: LANG_check_top.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_check_top.htm
+API: 
+	count: 1
+	name:
+		lang_check.cgi
+Para: 
+	count: 2
+	name:
+		formname
+		top_changed
+
+FileName: genie_ping3.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ping3.htm
+API: 
+	count: 1
+	name:
+		genieping3.cgi
+Para: 
+	count: 5
+	name:
+		WDect
+		disable_menu
+		formname
+		loading
+		loading
+
+FileName: STR_routes_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/STR_routes_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: DIG_reboot_wireless.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+API: 
+	count: 2
+	name:
+		
+		update.cgi
+Para: 
+	count: 6
+	name:
+		buttonHit
+		buttonValue
+		next_file
+		progress
+		target
+		update
+
+FileName: VER_sel.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_sel.htm
+API: 
+	count: 1
+	name:
+		ver_sel.cgi
+Para: 
+	count: 4
+	name:
+		disable
+		formname
+		runtest
+		ver_check_enable
+
+FileName: INT_statistics.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/INT_statistics.htm
+API: 
+	count: 1
+	name:
+		traffic.cgi
+Para: 
+	count: 4
+	name:
+		TRAFFIC_STATUS
+		formname
+		setInterval
+		stopIntervalBtn
+
+FileName: WLG_ap_dual_band_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_ap_dual_band_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: genie_port_forward_help.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_port_forward_help.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: CongratulationsFULL.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/CongratulationsFULL.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 32
+	name:
+		ModuleName
+		adv-pane
+		auto_block
+		background
+		basic-pane
+		basic-table
+		choicelang
+		container
+		continue
+		continue_button
+		curlang
+		dosearch
+		enable_apmode
+		enable_stamode
+		first_brs_lang
+		footer
+		frmLanguage
+		lang_menu
+		lang_menu_li
+		local_srptlang
+		logout
+		menuActive
+		noSubActive
+		preloaded-images
+		repeater
+		repeater_an
+		search
+		search_button
+		search_text
+		select_region
+		srptlang
+		support
+
+FileName: BKS_service_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/BKS_service_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: USB_basic_remote_reg.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+API: 
+	count: 1
+	name:
+		usb_remote_invite.cgi
+Para: 
+	count: 9
+	name:
+		Unregister
+		buttonHit
+		buttonValue
+		frmService
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: traffic_stattbl.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_stattbl.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 4
+	name:
+		table7
+		table8
+		table9
+		warnwin
+
+FileName: genie_admin_account2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_admin_account2.htm
+API: 
+	count: 1
+	name:
+		admin_account.cgi
+Para: 
+	count: 7
+	name:
+		ModuleName
+		answer1
+		answer2
+		next
+		sysConfirmPasswd
+		sysNewPasswd
+		target
+
+FileName: backpage.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/backpage.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: STR_add.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/STR_add.htm
+API: 
+	count: 1
+	name:
+		routinfo.cgi
+Para: 
+	count: 25
+	name:
+		SRouteActive
+		SRouteDestAddr1
+		SRouteDestAddr2
+		SRouteDestAddr3
+		SRouteDestAddr4
+		SRouteGatewayAddr1
+		SRouteGatewayAddr2
+		SRouteGatewayAddr3
+		SRouteGatewayAddr4
+		SRoutePrivate
+		SRouteSubnetMask1
+		SRouteSubnetMask2
+		SRouteSubnetMask3
+		SRouteSubnetMask4
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		route_metric
+		route_name
+		target
+
+FileName: WIZ_pptp.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+API: 
+	count: 2
+	name:
+		bsw_pptp.cgi
+		wiz_pptp.cgi
+Para: 
+	count: 25
+	name:
+		Cancel
+		Next
+		Test
+		apply
+		buttonHit
+		buttonValue
+		formname
+		mygw_1
+		mygw_2
+		mygw_3
+		mygw_4
+		myip_1
+		myip_2
+		myip_3
+		myip_4
+		mymask_1
+		mymask_2
+		mymask_3
+		mymask_4
+		pptp_idletime
+		pptp_passwd
+		pptp_serv_ip
+		pptp_username
+		runtest
+		target
+
+FileName: MNU_access_login_frame.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_login_frame.htm
+API: 
+	count: 1
+	name:
+		userlogin.cgi
+Para: 
+	count: 8
+	name:
+		backpage
+		buttonHit
+		buttonValue
+		frmService
+		password
+		submit
+		target
+		username
+
+FileName: WPS_Add_Client_OK_Change.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WPS_Add_Client_OK_Change.htm
+API: 
+	count: 1
+	name:
+		message.cgi
+Para: 
+	count: 3
+	name:
+		buttonHit
+		buttonValue
+		target
+
+FileName: genie_restore.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_restore.htm
+API: 
+	count: 1
+	name:
+		genierestore.cgi
+Para: 
+	count: 3
+	name:
+		back
+		mtenRestore
+		mtenRestoreCfg
+
+FileName: traffic_meter_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/traffic_meter_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: IPV6_autoconfig_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/IPV6_autoconfig_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: WIZ_pppoe_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_pppoe_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: genie_IP_SUBNET2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_IP_SUBNET2.htm
+API: 
+	count: 1
+	name:
+		genieDisableLanChanged.cgi
+Para: 
+	count: 2
+	name:
+		apply
+		formname
+
+FileName: genie_ap_disable_wifi_router.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_ap_disable_wifi_router.htm
+API: 
+	count: 1
+	name:
+		genie_ap_wifi_change.cgi
+Para: 
+	count: 13
+	name:
+		Apply
+		back_page
+		choose
+		client
+		disable_gw_wifi
+		formname
+		mode
+		pass_2g
+		pass_5g
+		reserve_gw_wifi
+		ssid_2g
+		ssid_5g
+		target
+
+FileName: FW_log_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/FW_log_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: LANG_brs_conflict.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/LANG_brs_conflict.htm
+API: 
+	count: 1
+	name:
+		brschagelang.cgi
+Para: 
+	count: 1
+	name:
+		langcheck
+
+FileName: Congratulations2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Congratulations2.htm
+API: 
+	count: 1
+	name:
+		congratulations.cgi
+Para: 
+	count: 4
+	name:
+		formname
+		target
+		wireless_2g_security
+		wireless_5g_security
+
+FileName: WLG_wireless_2_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless_2_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		sourcecode
+
+FileName: Congratulations_ap_mode.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/Congratulations_ap_mode.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MNU_menu.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_menu.htm
+API: 
+	count: 1
+	name:
+		menu.cgi
+Para: 
+	count: 0
+	name:
+
+FileName: OPENVPN.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/OPENVPN.htm
+API: 
+	count: 1
+	name:
+		openvpn.cgi
+Para: 
+	count: 27
+	name:
+		Cancel
+		buttonHit
+		buttonValue
+		ca_download
+		cfAlert_Apply
+		client1_download
+		client2_download
+		clientca_download
+		clientkey_download
+		dod_type_change
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		l2tp_dod
+		non-windows
+		openvpnActive
+		openvpn_iface_type
+		openvpn_protocol
+		openvpn_redirectGW
+		openvpn_service_port
+		oray_specific
+		pppoe_dod
+		pptp_dod
+		target
+		wan_protocol
+		windows
+
+FileName: RST_status.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/RST_status.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: MNU_access_unauthorized_checkSerial.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_unauthorized_checkSerial.htm
+API: 
+	count: 1
+	name:
+		securityquestions.cgi
+Para: 
+	count: 3
+	name:
+		Cancel
+		Continue
+		serialNumber
+
+FileName: genie_router_functions.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_router_functions.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: VER_write2.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/VER_write2.htm
+API: 
+	count: 1
+	name:
+		ver_write.cgi
+Para: 
+	count: 8
+	name:
+		buttonHit
+		buttonValue
+		enable_ap_mode
+		enable_sta_mode
+		formname
+		pgbarcount
+		stop
+		target
+
+FileName: WLG_wireless.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_wireless.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 1
+	name:
+		full-page-container
+
+FileName: WIZ_det_fix.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_det_fix.htm
+API: 
+	count: 1
+	name:
+		wiz_fix1.cgi
+Para: 
+	count: 3
+	name:
+		Button
+		Load
+		formname
+
+FileName: WLG_acl.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WLG_acl.htm
+API: 
+	count: 1
+	name:
+		wlan_acl.cgi
+Para: 
+	count: 16
+	name:
+		accessLimit
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		delete
+		devicename
+		edit
+		formname
+		full-page-container
+		help-button
+		helpframe
+		helpframe-anchor
+		macaddr
+		show_wps_alert
+		target
+
+FileName: USB_adv_edit.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/USB_adv_edit.htm
+API: 
+	count: 1
+	name:
+		usb_device.cgi
+Para: 
+	count: 16
+	name:
+		Apply
+		Browse
+		Close
+		ReadMultiUser0
+		buttonHit
+		buttonValue
+		frmService
+		fromGUI
+		no_dlna
+		readAllNoPwdChecked
+		read_access
+		share_name
+		target
+		usb_folder
+		writeAllNoPwdChecked
+		write_access
+
+FileName: QOS_video_streaming.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/QOS_video_streaming.htm
+API: 
+	count: 1
+	name:
+		qos_video_streaming.cgi
+Para: 
+	count: 58
+	name:
+		Addr1
+		Addr2
+		Addr3
+		Addr4
+		BWH_MIN
+		BWL_LIMIT_REAL_PERCENT
+		BWL_PREDROP_PERIOD
+		BWL_ZERO
+		CONFIG_AVG_Q_SIZE
+		DELTA_BWL_MIN
+		DELTA_BWL_PICKUP_MIN
+		EQUAL_METHOD
+		EQUAL_RANG_NUMBER
+		EQUAL_RANG_PERCENT
+		FORCE_DROP_PERIOD
+		NEED_CHECK_BWH_IN_VAGUE
+		NV_BWH_MIN
+		NV_BWL_LIMIT_REAL_PERCENT
+		NV_BWL_PREDROP_PERIOD
+		NV_BWL_ZERO
+		NV_CONFIG_AVG_Q_SIZE
+		NV_DELTA_BWL_MIN
+		NV_DELTA_BWL_PICKUP_MIN
+		NV_EQUAL_METHOD
+		NV_EQUAL_RANG_NUMBER
+		NV_EQUAL_RANG_PERCENT
+		NV_FORCE_DROP_PERIOD
+		NV_NEED_CHECK_BWH_IN_VAGUE
+		NV_PER_TOLERANCE
+		NV_PER_TOLERANCE_PICKUP
+		NV_QOS_ENABLE
+		NV_WIN_ADAPT
+		NV_WIN_BWCHG
+		NV_WIN_BWHDROP
+		NV_WIN_BWSTATBLE
+		NV_WIN_RUNNING
+		NV_YoutubeIP
+		NV_ZERO_TRAFFIC
+		PER_TOLERANCE
+		PER_TOLERANCE_PICKUP
+		QOS_ENABLE
+		WIN_ADAPT
+		WIN_BWCHG
+		WIN_BWHDROP
+		WIN_BWSTATBLE
+		WIN_RUNNING
+		ZERO_TRAFFIC
+		apply
+		buttonHit
+		buttonValue
+		cancel
+		div_number
+		div_percent
+		frmRules
+		full-page-container
+		helpframe
+		helpframe-anchor
+		target
+
+FileName: WIZ_fix.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/WIZ_fix.htm
+API: 
+	count: 2
+	name:
+		bsw_fix.cgi
+		wiz_fix2.cgi
+Para: 
+	count: 26
+	name:
+		Cancel
+		DAddr1
+		DAddr2
+		DAddr3
+		DAddr4
+		Next
+		PDAddr1
+		PDAddr2
+		PDAddr3
+		PDAddr4
+		Test
+		WGateway1
+		WGateway2
+		WGateway3
+		WGateway4
+		WMask1
+		WMask2
+		WMask3
+		WMask4
+		WPethr1
+		WPethr2
+		WPethr3
+		WPethr4
+		apply
+		formname
+		runtest
+
+FileName: MNU_access_setRecovery_index.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/MNU_access_setRecovery_index.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 3
+	name:
+		leftframe
+		rightframe
+		topframe
+
+FileName: genie_restoring.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/genie_restoring.htm
+API: 
+	count: 1
+	name:
+		genie_restoring.cgi
+Para: 
+	count: 5
+	name:
+		formname
+		loading
+		next_file
+		progress
+		record
+
+FileName: LAN_reserv_add_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/help/LAN_reserv_add_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: BAS_ether_h.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/help/BAS_ether_h.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: USB_reg_success.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/cgi-bin/USB_reg_success.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: RMT_invite_reg.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/cgi-bin/RMT_invite_reg.htm
+API: 
+	count: 1
+	name:
+		/cgi-bin/RMT_invite.cgi?/cgi-bin/RMT_invite.htm
+Para: 
+	count: 12
+	name:
+		BTN_unreg
+		TXT_remote_login
+		TXT_remote_password
+		help_button
+		help_center
+		help_iframe
+		help_show_hidden
+		help_space
+		help_switch
+		helpframe
+		main
+		submit_flag
+
+FileName: USB_reg_failed.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/cgi-bin/USB_reg_failed.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: RMT_invite_unreg.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/cgi-bin/RMT_invite_unreg.htm
+API: 
+	count: 1
+	name:
+		/cgi-bin/RMT_invite.cgi?/cgi-bin/RMT_invite.htm
+Para: 
+	count: 12
+	name:
+		BTN_reg
+		TXT_remote_login
+		TXT_remote_password
+		help_button
+		help_center
+		help_iframe
+		help_show_hidden
+		help_space
+		help_switch
+		helpframe
+		main
+		submit_flag
+
+FileName: USB_unreg_success.htm
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/cgi-bin/USB_unreg_success.htm
+API: 
+	count: 0
+	name:
+Para: 
+	count: 0
+	name:
+
+FileName: jquery.ui.widget.js
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/jquery.ui.widget.js
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 8
+	name:
+		False
+		addClass
+		create
+		disabled
+		remove
+		removeClass
+		string
+		widget
+
+FileName: jquery.ui.core.js
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/jquery.ui.core.js
+API: 
+	count: 0
+	name:
+Para: 
+	count: 25
+	name:
+		Bottom
+		False
+		Height
+		Right
+		Width
+		absolute
+		border
+		fixed
+		hidden
+		inner
+		margin
+		mousedown
+		number
+		onselectstart
+		outer
+		overflow
+		padding
+		position
+		relative
+		scrollLeft
+		scrollTop
+		selectstart
+		tabindex
+		visibility
+		zIndex
+
+FileName: jquery.ui.tabs.js
+FilePath: /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/www/jquery.ui.tabs.js
+API: 
+	count: 1
+	name:
+		
+Para: 
+	count: 20
+	name:
+		False
+		addClass
+		cache
+		click
+		disable
+		display
+		enable
+		filter
+		focus
+		hover
+		mouseover
+		normal
+		number
+		remove
+		removeClass
+		select
+		selected
+		string
+		tabsshow
+		unload
+
