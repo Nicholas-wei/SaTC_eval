@@ -29,8 +29,9 @@ docker pull smile0304/satc
 docker run -v ./firmware:/firmware -it smile0304/satc
 ```
 4. run experiment
-you can run the following shell script, or download `run.sh` from this repo and execute `./run.sh`
+you can run the following shell script inside docker, or download `run.sh` from this repo and execute `./run.sh` inside docker
 ```shell script
+cd /home/satc/SaTC
 ./init.sh
 mkdir -p /home/satc/res/
 python ./satc.py -d /firmware/R6400-V1.0.1.24_1.0.18/_R6400-V1.0.1.24_1.0.18.chk.extracted/squashfs-root/ -o /home/satc/res/R6400-V1.0.1.24_1.0.18 -b httpd --ghidra_script=ref2sink_cmdi --ghidra_script=ref2sink_bof --taint_check
@@ -41,7 +42,7 @@ python ./satc.py -d /firmware/DIR868LWB1_FW200KR-K01/_DIR868LWB1_FW200KR-K01.bin
 python ./satc.py -d /firmware/FW_RT_N10D1_211192/_RT-N10D1_2.1.1.1.92.trx.extracted/squashfs-root -o /home/satc/res/FW_RT_N10D1_211192 --ghidra_script=ref2sink_cmdi --ghidra_script=ref2sink_bof --taint_check
 ```
 ## experiment result
-The result for the homework is located inside `res_homework/`.
+The result for the homework is located inside `res/` in this repo. You can also replay the above experiment.
 
 ## Output 
 Directory structure：
